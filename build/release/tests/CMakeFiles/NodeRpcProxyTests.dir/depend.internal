@@ -30,4 +30,4 @@ tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp
+ /home/warranty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp

@@ -40,5 +40,5 @@ tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/TestGenerator/TestGenerator.cpp
+ /home/warranty/tests/TestGenerator/TestGenerator.h

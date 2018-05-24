@@ -58,7 +58,7 @@ generic-ops.h
 hash-ops.h
 ../../src/crypto/hash-ops.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Hash/main.cpp
+/home/warranty/tests/Hash/main.cpp
 cstddef
 -
 fstream
@@ -70,11 +70,11 @@ ios
 string
 -
 crypto/hash.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Hash/crypto/hash.h
+/home/warranty/tests/Hash/crypto/hash.h
 ../Io.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Io.h
+/home/warranty/tests/Io.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Io.h
+/home/warranty/tests/Io.h
 cstddef
 -
 ios

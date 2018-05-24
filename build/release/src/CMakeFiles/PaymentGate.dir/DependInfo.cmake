@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGate/NodeFactory.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/NodeFactory.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGate/PaymentServiceJsonRpcMessages.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcMessages.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGate/PaymentServiceJsonRpcServer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcServer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGate/WalletFactory.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletFactory.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGate/WalletService.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletService.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGate/WalletServiceErrorCategory.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletServiceErrorCategory.cpp.o"
+  "/home/warranty/src/PaymentGate/NodeFactory.cpp" "/home/warranty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/NodeFactory.cpp.o"
+  "/home/warranty/src/PaymentGate/PaymentServiceJsonRpcMessages.cpp" "/home/warranty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcMessages.cpp.o"
+  "/home/warranty/src/PaymentGate/PaymentServiceJsonRpcServer.cpp" "/home/warranty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcServer.cpp.o"
+  "/home/warranty/src/PaymentGate/WalletFactory.cpp" "/home/warranty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletFactory.cpp.o"
+  "/home/warranty/src/PaymentGate/WalletService.cpp" "/home/warranty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletService.cpp.o"
+  "/home/warranty/src/PaymentGate/WalletServiceErrorCategory.cpp" "/home/warranty/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletServiceErrorCategory.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

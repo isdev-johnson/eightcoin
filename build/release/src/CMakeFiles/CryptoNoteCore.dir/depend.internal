@@ -15,10 +15,10 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Account.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Account.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/Account.cpp
+ /home/warranty/src/CryptoNoteCore/Account.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -33,10 +33,10 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/BlockIndex.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/BlockIndex.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/BlockIndex.cpp
+ /home/warranty/src/CryptoNoteCore/BlockIndex.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -103,10 +103,10 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Blockchain.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Blockchain.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.h
+ /home/warranty/src/CryptoNoteCore/Blockchain.cpp
+ /home/warranty/src/CryptoNoteCore/Blockchain.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -142,15 +142,15 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/BlockchainIndices.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/BlockchainIndices.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /home/warranty/src/CryptoNoteCore/BlockchainIndices.cpp
+ /home/warranty/src/CryptoNoteCore/BlockchainIndices.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
  ../../src/CryptoNoteCore/BlockchainMessages.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/BlockchainMessages.cpp
+ /home/warranty/src/CryptoNoteCore/BlockchainMessages.cpp
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -166,9 +166,9 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Checkpoints.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Checkpoints.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /home/warranty/src/CryptoNoteCore/Checkpoints.cpp
+ /home/warranty/src/CryptoNoteCore/Checkpoints.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -234,42 +234,42 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o
  ../../src/crypto/chacha.h
  ../../src/crypto/crypto.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CommandLine.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Util.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/static_assert.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Blockchain.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Core.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Core.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteStatInfo.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Currency.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Difficulty.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/IBlock.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/ICore.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/ICoreObserver.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Miner.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionPool.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteProtocol/CryptoNoteProtocolDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ILogger.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerMessage.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerRef.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CoreRpcServerCommandsDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/generic-ops.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/random.h
+ /home/warranty/src/Common/CommandLine.h
+ /home/warranty/src/Common/StringTools.h
+ /home/warranty/src/Common/Util.h
+ /home/warranty/src/Common/static_assert.h
+ /home/warranty/src/CryptoNoteConfig.h
+ /home/warranty/src/CryptoNoteCore/Blockchain.h
+ /home/warranty/src/CryptoNoteCore/Core.cpp
+ /home/warranty/src/CryptoNoteCore/Core.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteStatInfo.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.h
+ /home/warranty/src/CryptoNoteCore/Currency.h
+ /home/warranty/src/CryptoNoteCore/Difficulty.h
+ /home/warranty/src/CryptoNoteCore/IBlock.h
+ /home/warranty/src/CryptoNoteCore/ICore.h
+ /home/warranty/src/CryptoNoteCore/ICoreObserver.h
+ /home/warranty/src/CryptoNoteCore/Miner.h
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.h
+ /home/warranty/src/CryptoNoteCore/TransactionPool.h
+ /home/warranty/src/CryptoNoteProtocol/CryptoNoteProtocolDefinitions.h
+ /home/warranty/src/Logging/ILogger.h
+ /home/warranty/src/Logging/LoggerMessage.h
+ /home/warranty/src/Logging/LoggerRef.h
+ /home/warranty/src/Rpc/CoreRpcServerCommandsDefinitions.h
+ /home/warranty/src/crypto/crypto.h
+ /home/warranty/src/crypto/generic-ops.h
+ /home/warranty/src/crypto/hash-ops.h
+ /home/warranty/src/crypto/hash.h
+ /home/warranty/src/crypto/random.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o
  ../../src/Common/CommandLine.h
  ../../src/Common/Util.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CoreConfig.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CoreConfig.h
+ /home/warranty/src/CryptoNoteCore/CoreConfig.cpp
+ /home/warranty/src/CryptoNoteCore/CoreConfig.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -280,8 +280,8 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.cpp
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -305,12 +305,12 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasicImpl.cpp
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -338,14 +338,14 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Account.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.h
+ /home/warranty/src/CryptoNoteCore/Account.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.cpp
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.h
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -370,13 +370,13 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Account.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.h
+ /home/warranty/src/CryptoNoteCore/Account.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.cpp
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.h
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -398,11 +398,11 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.cpp
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -425,28 +425,28 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o
  ../../src/crypto/crypto.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Base58.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/int-util.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/static_assert.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Account.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Currency.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Currency.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Difficulty.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/UpgradeDetector.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ILogger.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerMessage.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerRef.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/generic-ops.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash.h
+ /home/warranty/src/Common/Base58.h
+ /home/warranty/src/Common/StringTools.h
+ /home/warranty/src/Common/int-util.h
+ /home/warranty/src/Common/static_assert.h
+ /home/warranty/src/CryptoNoteConfig.h
+ /home/warranty/src/CryptoNoteCore/Account.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasicImpl.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.h
+ /home/warranty/src/CryptoNoteCore/Currency.cpp
+ /home/warranty/src/CryptoNoteCore/Currency.h
+ /home/warranty/src/CryptoNoteCore/Difficulty.h
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.h
+ /home/warranty/src/CryptoNoteCore/UpgradeDetector.h
+ /home/warranty/src/Logging/ILogger.h
+ /home/warranty/src/Logging/LoggerMessage.h
+ /home/warranty/src/Logging/LoggerRef.h
+ /home/warranty/src/crypto/generic-ops.h
+ /home/warranty/src/crypto/hash-ops.h
+ /home/warranty/src/crypto/hash.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/DepositIndex.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -462,9 +462,9 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/DepositIndex.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/DepositIndex.cpp
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/DepositIndex.cpp
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o
  ../../include/CryptoTypes.h
  ../../src/Common/int-util.h
@@ -473,16 +473,16 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Difficulty.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Difficulty.h
+ /home/warranty/src/CryptoNoteCore/Difficulty.cpp
+ /home/warranty/src/CryptoNoteCore/Difficulty.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/IBlock.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/IBlock.h
+ /home/warranty/src/CryptoNoteCore/IBlock.cpp
+ /home/warranty/src/CryptoNoteCore/IBlock.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/ITimeProvider.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/ITimeProvider.h
+ /home/warranty/src/CryptoNoteCore/ITimeProvider.cpp
+ /home/warranty/src/CryptoNoteCore/ITimeProvider.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -523,19 +523,19 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Miner.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Miner.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/Miner.cpp
+ /home/warranty/src/CryptoNoteCore/Miner.h
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o
  ../../src/Common/CommandLine.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/MinerConfig.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/MinerConfig.h
+ /home/warranty/src/CryptoNoteCore/MinerConfig.cpp
+ /home/warranty/src/CryptoNoteCore/MinerConfig.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/SwappedMap.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/SwappedMap.h
+ /home/warranty/src/CryptoNoteCore/SwappedMap.cpp
+ /home/warranty/src/CryptoNoteCore/SwappedMap.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o
  ../../src/Common/IInputStream.h
  ../../src/Common/IOutputStream.h
@@ -546,8 +546,8 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o
  ../../src/Serialization/BinaryOutputStreamSerializer.h
  ../../src/Serialization/ISerializer.h
  ../../src/Serialization/SerializationOverloads.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/SwappedVector.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/SwappedVector.h
+ /home/warranty/src/CryptoNoteCore/SwappedVector.cpp
+ /home/warranty/src/CryptoNoteCore/SwappedVector.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -574,13 +574,13 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Account.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Transaction.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionApiExtra.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionUtils.h
+ /home/warranty/src/CryptoNoteCore/Account.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/Transaction.cpp
+ /home/warranty/src/CryptoNoteCore/TransactionApiExtra.h
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.h
+ /home/warranty/src/CryptoNoteCore/TransactionUtils.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -604,11 +604,11 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.h
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.cpp
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -686,14 +686,14 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/Blockchain.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionPool.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionPool.h
+ /home/warranty/src/CryptoNoteCore/Blockchain.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteTools.h
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.h
+ /home/warranty/src/CryptoNoteCore/TransactionPool.cpp
+ /home/warranty/src/CryptoNoteCore/TransactionPool.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -722,8 +722,8 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionPrefixImpl.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionUtils.h
+ /home/warranty/src/CryptoNoteCore/TransactionPrefixImpl.cpp
+ /home/warranty/src/CryptoNoteCore/TransactionUtils.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -745,12 +745,12 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteBasic.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/CryptoNoteSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionExtra.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionUtils.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/TransactionUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteBasic.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteFormatUtils.h
+ /home/warranty/src/CryptoNoteCore/CryptoNoteSerialization.h
+ /home/warranty/src/CryptoNoteCore/TransactionExtra.h
+ /home/warranty/src/CryptoNoteCore/TransactionUtils.cpp
+ /home/warranty/src/CryptoNoteCore/TransactionUtils.h
 src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -766,5 +766,5 @@ src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/UpgradeDetector.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/UpgradeDetector.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteCore/UpgradeDetector.h
+ /home/warranty/src/CryptoNoteCore/UpgradeDetector.cpp
+ /home/warranty/src/CryptoNoteCore/UpgradeDetector.h

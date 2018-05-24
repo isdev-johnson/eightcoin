@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/BinaryInputStreamSerializer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/BinaryOutputStreamSerializer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonInputStreamSerializer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonInputValueSerializer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonOutputStreamSerializer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/KVBinaryInputStreamSerializer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/KVBinaryOutputStreamSerializer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/MemoryStream.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/SerializationOverloads.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o"
+  "/home/warranty/src/Serialization/BinaryInputStreamSerializer.cpp" "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o"
+  "/home/warranty/src/Serialization/BinaryOutputStreamSerializer.cpp" "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o"
+  "/home/warranty/src/Serialization/JsonInputStreamSerializer.cpp" "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o"
+  "/home/warranty/src/Serialization/JsonInputValueSerializer.cpp" "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o"
+  "/home/warranty/src/Serialization/JsonOutputStreamSerializer.cpp" "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o"
+  "/home/warranty/src/Serialization/KVBinaryInputStreamSerializer.cpp" "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o"
+  "/home/warranty/src/Serialization/KVBinaryOutputStreamSerializer.cpp" "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o"
+  "/home/warranty/src/Serialization/MemoryStream.cpp" "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o"
+  "/home/warranty/src/Serialization/SerializationOverloads.cpp" "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
-# Build directory: /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+# Source directory: /home/warranty
+# Build directory: /home/warranty/build/release
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

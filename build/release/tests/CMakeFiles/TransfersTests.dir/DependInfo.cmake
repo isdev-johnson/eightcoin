@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TransfersTests/TestNodeRpcProxy.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestNodeRpcProxy.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TransfersTests/TestTxPoolSync.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestTxPoolSync.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TransfersTests/Tests.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/Tests.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TransfersTests/main.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/main.cpp.o"
+  "/home/warranty/tests/TransfersTests/TestNodeRpcProxy.cpp" "/home/warranty/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestNodeRpcProxy.cpp.o"
+  "/home/warranty/tests/TransfersTests/TestTxPoolSync.cpp" "/home/warranty/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestTxPoolSync.cpp.o"
+  "/home/warranty/tests/TransfersTests/Tests.cpp" "/home/warranty/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/Tests.cpp.o"
+  "/home/warranty/tests/TransfersTests/main.cpp" "/home/warranty/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -31,24 +31,24 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/InProcessNode.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/NodeRpcProxy.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/BlockchainExplorer.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/warranty/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/DependInfo.cmake"
+  "/home/warranty/build/release/external/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/InProcessNode.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/NodeRpcProxy.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/P2P.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/BlockchainExplorer.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/System.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake"
+  "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/DependInfo.cmake"
+  "/home/warranty/build/release/external/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

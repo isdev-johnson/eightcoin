@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
+CMAKE_SOURCE_DIR = /home/warranty
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+CMAKE_BINARY_DIR = /home/warranty/build/release
 
 # Include any dependencies generated for this target.
 include tests/CMakeFiles/NodeRpcProxyTests.dir/depend.make
@@ -59,16 +59,16 @@ include tests/CMakeFiles/NodeRpcProxyTests.dir/flags.make
 
 tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o: tests/CMakeFiles/NodeRpcProxyTests.dir/flags.make
 tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o: ../../tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o -c /home/warranty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp
 
 tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp > CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp > CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.i
 
 tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp -o CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp -o CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.s
 
 tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o.requires:
 
@@ -110,8 +110,8 @@ tests/node_rpc_proxy_tests: /usr/lib/x86_64-linux-gnu/libboost_program_options.s
 tests/node_rpc_proxy_tests: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
 tests/node_rpc_proxy_tests: /usr/lib/x86_64-linux-gnu/libpthread.so
 tests/node_rpc_proxy_tests: tests/CMakeFiles/NodeRpcProxyTests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable node_rpc_proxy_tests"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/NodeRpcProxyTests.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable node_rpc_proxy_tests"
+	cd /home/warranty/build/release/tests && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/NodeRpcProxyTests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 tests/CMakeFiles/NodeRpcProxyTests.dir/build: tests/node_rpc_proxy_tests
@@ -123,10 +123,10 @@ tests/CMakeFiles/NodeRpcProxyTests.dir/requires: tests/CMakeFiles/NodeRpcProxyTe
 .PHONY : tests/CMakeFiles/NodeRpcProxyTests.dir/requires
 
 tests/CMakeFiles/NodeRpcProxyTests.dir/clean:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && $(CMAKE_COMMAND) -P CMakeFiles/NodeRpcProxyTests.dir/cmake_clean.cmake
+	cd /home/warranty/build/release/tests && $(CMAKE_COMMAND) -P CMakeFiles/NodeRpcProxyTests.dir/cmake_clean.cmake
 .PHONY : tests/CMakeFiles/NodeRpcProxyTests.dir/clean
 
 tests/CMakeFiles/NodeRpcProxyTests.dir/depend:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/warranty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/warranty /home/warranty/tests /home/warranty/build/release /home/warranty/build/release/tests /home/warranty/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : tests/CMakeFiles/NodeRpcProxyTests.dir/depend
 

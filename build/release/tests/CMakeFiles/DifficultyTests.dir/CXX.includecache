@@ -138,7 +138,7 @@ generic-ops.h
 hash-ops.h
 ../../src/crypto/hash-ops.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Difficulty/Difficulty.cpp
+/home/warranty/tests/Difficulty/Difficulty.cpp
 cstddef
 -
 cstdint
@@ -152,11 +152,11 @@ vector
 algorithm
 -
 CryptoNoteConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Difficulty/CryptoNoteConfig.h
+/home/warranty/tests/Difficulty/CryptoNoteConfig.h
 CryptoNoteCore/Difficulty.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Difficulty/CryptoNoteCore/Difficulty.h
+/home/warranty/tests/Difficulty/CryptoNoteCore/Difficulty.h
 CryptoNoteCore/Currency.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Difficulty/CryptoNoteCore/Currency.h
+/home/warranty/tests/Difficulty/CryptoNoteCore/Currency.h
 Logging/ConsoleLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Difficulty/Logging/ConsoleLogger.h
+/home/warranty/tests/Difficulty/Logging/ConsoleLogger.h
 

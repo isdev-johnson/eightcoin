@@ -468,7 +468,7 @@ hash-ops.h
 stddef.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/ConnectivityTool.cpp
+/home/warranty/src/ConnectivityTool/ConnectivityTool.cpp
 boost/optional.hpp
 -
 boost/program_options.hpp
@@ -494,23 +494,23 @@ System/TcpConnector.h
 System/Timer.h
 -
 Common/CommandLine.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/Common/CommandLine.h
+/home/warranty/src/ConnectivityTool/Common/CommandLine.h
 Common/StringTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/Common/StringTools.h
+/home/warranty/src/ConnectivityTool/Common/StringTools.h
 crypto/crypto.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/crypto/crypto.h
+/home/warranty/src/ConnectivityTool/crypto/crypto.h
 P2p/P2pProtocolDefinitions.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/P2p/P2pProtocolDefinitions.h
+/home/warranty/src/ConnectivityTool/P2p/P2pProtocolDefinitions.h
 P2p/LevinProtocol.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/P2p/LevinProtocol.h
+/home/warranty/src/ConnectivityTool/P2p/LevinProtocol.h
 Rpc/CoreRpcServerCommandsDefinitions.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/Rpc/CoreRpcServerCommandsDefinitions.h
+/home/warranty/src/ConnectivityTool/Rpc/CoreRpcServerCommandsDefinitions.h
 Rpc/HttpClient.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/Rpc/HttpClient.h
+/home/warranty/src/ConnectivityTool/Rpc/HttpClient.h
 Serialization/SerializationTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/Serialization/SerializationTools.h
+/home/warranty/src/ConnectivityTool/Serialization/SerializationTools.h
 version.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/ConnectivityTool/version.h
+/home/warranty/src/ConnectivityTool/version.h
 
 version/version.h
 

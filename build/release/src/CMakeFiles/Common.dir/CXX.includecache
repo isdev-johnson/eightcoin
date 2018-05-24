@@ -64,9 +64,9 @@ generic-ops.h
 hash-ops.h
 ../../src/crypto/hash-ops.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Base58.cpp
+/home/warranty/src/Common/Base58.cpp
 Base58.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Base58.h
+/home/warranty/src/Common/Base58.h
 assert.h
 -
 string
@@ -74,23 +74,23 @@ string
 vector
 -
 crypto/hash.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/crypto/hash.h
+/home/warranty/src/Common/crypto/hash.h
 int-util.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/int-util.h
+/home/warranty/src/Common/int-util.h
 Varint.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Varint.h
+/home/warranty/src/Common/Varint.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Base58.h
+/home/warranty/src/Common/Base58.h
 cstdint
 -
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.cpp
+/home/warranty/src/Common/BlockingQueue.cpp
 BlockingQueue.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.h
+/home/warranty/src/Common/BlockingQueue.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.h
+/home/warranty/src/Common/BlockingQueue.h
 atomic
 -
 condition_variable
@@ -102,11 +102,11 @@ mutex
 thread
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CommandLine.cpp
+/home/warranty/src/Common/CommandLine.cpp
 CommandLine.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CommandLine.h
+/home/warranty/src/Common/CommandLine.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CommandLine.h
+/home/warranty/src/Common/CommandLine.h
 iostream
 -
 type_traits
@@ -118,9 +118,9 @@ boost/program_options/options_description.hpp
 boost/program_options/variables_map.hpp
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleHandler.cpp
+/home/warranty/src/Common/ConsoleHandler.cpp
 ConsoleHandler.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleHandler.h
+/home/warranty/src/Common/ConsoleHandler.h
 iostream
 -
 iomanip
@@ -136,7 +136,7 @@ stdio.h
 boost/algorithm/string.hpp
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleHandler.h
+/home/warranty/src/Common/ConsoleHandler.h
 atomic
 -
 functional
@@ -150,13 +150,13 @@ thread
 vector
 -
 BlockingQueue.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.h
+/home/warranty/src/Common/BlockingQueue.h
 ConsoleTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.h
+/home/warranty/src/Common/ConsoleTools.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.cpp
+/home/warranty/src/Common/ConsoleTools.cpp
 ConsoleTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.h
+/home/warranty/src/Common/ConsoleTools.h
 stdio.h
 -
 Windows.h
@@ -168,35 +168,35 @@ iostream
 unistd.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.h
+/home/warranty/src/Common/ConsoleTools.h
 cstdint
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.cpp
+/home/warranty/src/Common/IInputStream.cpp
 IInputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
+/home/warranty/src/Common/IInputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
+/home/warranty/src/Common/IInputStream.h
 cstddef
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.cpp
+/home/warranty/src/Common/IOutputStream.cpp
 IOutputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
+/home/warranty/src/Common/IOutputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
+/home/warranty/src/Common/IOutputStream.h
 cstddef
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.cpp
+/home/warranty/src/Common/JsonValue.cpp
 JsonValue.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.h
+/home/warranty/src/Common/JsonValue.h
 iomanip
 -
 sstream
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.h
+/home/warranty/src/Common/JsonValue.h
 cstddef
 -
 cstdint
@@ -208,19 +208,19 @@ string
 vector
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Math.cpp
+/home/warranty/src/Common/Math.cpp
 Math.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Math.h
+/home/warranty/src/Common/Math.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Math.h
+/home/warranty/src/Common/Math.h
 algorithm
 -
 vector
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/MemoryInputStream.cpp
+/home/warranty/src/Common/MemoryInputStream.cpp
 MemoryInputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/MemoryInputStream.h
+/home/warranty/src/Common/MemoryInputStream.h
 algorithm
 -
 cassert
@@ -228,31 +228,31 @@ cassert
 cstring
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/MemoryInputStream.h
+/home/warranty/src/Common/MemoryInputStream.h
 IInputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
+/home/warranty/src/Common/IInputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/PathTools.cpp
+/home/warranty/src/Common/PathTools.cpp
 PathTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/PathTools.h
+/home/warranty/src/Common/PathTools.h
 algorithm
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/PathTools.h
+/home/warranty/src/Common/PathTools.h
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ScopeExit.cpp
+/home/warranty/src/Common/ScopeExit.cpp
 ScopeExit.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ScopeExit.h
+/home/warranty/src/Common/ScopeExit.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ScopeExit.h
+/home/warranty/src/Common/ScopeExit.h
 functional
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/SignalHandler.cpp
+/home/warranty/src/Common/SignalHandler.cpp
 SignalHandler.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/SignalHandler.h
+/home/warranty/src/Common/SignalHandler.h
 mutex
 -
 iostream
@@ -264,41 +264,41 @@ signal.h
 cstring
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/SignalHandler.h
+/home/warranty/src/Common/SignalHandler.h
 functional
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdInputStream.cpp
+/home/warranty/src/Common/StdInputStream.cpp
 StdInputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdInputStream.h
+/home/warranty/src/Common/StdInputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdInputStream.h
+/home/warranty/src/Common/StdInputStream.h
 istream
 -
 IInputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
+/home/warranty/src/Common/IInputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdOutputStream.cpp
+/home/warranty/src/Common/StdOutputStream.cpp
 StdOutputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdOutputStream.h
+/home/warranty/src/Common/StdOutputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdOutputStream.h
+/home/warranty/src/Common/StdOutputStream.h
 ostream
 -
 IOutputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
+/home/warranty/src/Common/IOutputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StreamTools.cpp
+/home/warranty/src/Common/StreamTools.cpp
 StreamTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StreamTools.h
+/home/warranty/src/Common/StreamTools.h
 stdexcept
 -
 IInputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
+/home/warranty/src/Common/IInputStream.h
 IOutputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
+/home/warranty/src/Common/IOutputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StreamTools.h
+/home/warranty/src/Common/StreamTools.h
 cstdint
 -
 vector
@@ -306,35 +306,35 @@ vector
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringInputStream.cpp
+/home/warranty/src/Common/StringInputStream.cpp
 StringInputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringInputStream.h
+/home/warranty/src/Common/StringInputStream.h
 string.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringInputStream.h
+/home/warranty/src/Common/StringInputStream.h
 string
 -
 IInputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
+/home/warranty/src/Common/IInputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringOutputStream.cpp
+/home/warranty/src/Common/StringOutputStream.cpp
 StringOutputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringOutputStream.h
+/home/warranty/src/Common/StringOutputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringOutputStream.h
+/home/warranty/src/Common/StringOutputStream.h
 string
 -
 IOutputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
+/home/warranty/src/Common/IOutputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.cpp
+/home/warranty/src/Common/StringTools.cpp
 StringTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.h
+/home/warranty/src/Common/StringTools.h
 fstream
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.h
+/home/warranty/src/Common/StringTools.h
 cstdint
 -
 sstream
@@ -344,27 +344,27 @@ stdexcept
 vector
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringView.cpp
+/home/warranty/src/Common/StringView.cpp
 StringView.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringView.h
+/home/warranty/src/Common/StringView.h
 limits
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringView.h
+/home/warranty/src/Common/StringView.h
 cassert
 -
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Util.cpp
+/home/warranty/src/Common/Util.cpp
 Util.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Util.h
+/home/warranty/src/Common/Util.h
 cstdio
 -
 boost/filesystem.hpp
 -
 CryptoNoteConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CryptoNoteConfig.h
+/home/warranty/src/Common/CryptoNoteConfig.h
 windows.h
 -
 shlobj.h
@@ -374,13 +374,13 @@ strsafe.h
 sys/utsname.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Util.h
+/home/warranty/src/Common/Util.h
 string
 -
 system_error
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Varint.h
+/home/warranty/src/Common/Varint.h
 limits
 -
 sstream
@@ -392,19 +392,19 @@ type_traits
 utility
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/VectorOutputStream.cpp
+/home/warranty/src/Common/VectorOutputStream.cpp
 VectorOutputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/VectorOutputStream.h
+/home/warranty/src/Common/VectorOutputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/VectorOutputStream.h
+/home/warranty/src/Common/VectorOutputStream.h
 cstdint
 -
 vector
 -
 IOutputStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
+/home/warranty/src/Common/IOutputStream.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/int-util.h
+/home/warranty/src/Common/int-util.h
 assert.h
 -
 stdbool.h

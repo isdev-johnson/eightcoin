@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/bsdqueue.h
+/home/warranty/external/miniupnpc/bsdqueue.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/codelength.h
+/home/warranty/external/miniupnpc/codelength.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/connecthostport.c
+/home/warranty/external/miniupnpc/connecthostport.c
 string.h
 -
 stdio.h
@@ -40,23 +40,23 @@ sys/socket.h
 sys/select.h
 -
 connecthostport.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/connecthostport.h
+/home/warranty/external/miniupnpc/connecthostport.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/connecthostport.h
+/home/warranty/external/miniupnpc/connecthostport.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/declspec.h
+/home/warranty/external/miniupnpc/declspec.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/igd_desc_parse.c
+/home/warranty/external/miniupnpc/igd_desc_parse.c
 igd_desc_parse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/igd_desc_parse.h
+/home/warranty/external/miniupnpc/igd_desc_parse.h
 stdio.h
 -
 string.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/igd_desc_parse.h
+/home/warranty/external/miniupnpc/igd_desc_parse.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minisoap.c
+/home/warranty/external/miniupnpc/minisoap.c
 stdio.h
 -
 string.h
@@ -72,15 +72,15 @@ sys/types.h
 sys/socket.h
 -
 minisoap.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minisoap.h
+/home/warranty/external/miniupnpc/minisoap.h
 miniupnpcstrings.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpcstrings.h
+/home/warranty/external/miniupnpc/miniupnpcstrings.h
 stdlib.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minisoap.h
+/home/warranty/external/miniupnpc/minisoap.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minissdpc.c
+/home/warranty/external/miniupnpc/minissdpc.c
 stdio.h
 -
 string.h
@@ -108,15 +108,15 @@ sys/socket.h
 sys/un.h
 -
 minissdpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minissdpc.h
+/home/warranty/external/miniupnpc/minissdpc.h
 miniupnpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpc.h
+/home/warranty/external/miniupnpc/miniupnpc.h
 codelength.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/codelength.h
+/home/warranty/external/miniupnpc/codelength.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minissdpc.h
+/home/warranty/external/miniupnpc/minissdpc.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpc.c
+/home/warranty/external/miniupnpc/miniupnpc.c
 stdlib.h
 -
 stdio.h
@@ -158,31 +158,31 @@ errno.h
 sys/time.h
 -
 miniupnpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpc.h
+/home/warranty/external/miniupnpc/miniupnpc.h
 minissdpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minissdpc.h
+/home/warranty/external/miniupnpc/minissdpc.h
 miniwget.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniwget.h
+/home/warranty/external/miniupnpc/miniwget.h
 minisoap.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minisoap.h
+/home/warranty/external/miniupnpc/minisoap.h
 minixml.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minixml.h
+/home/warranty/external/miniupnpc/minixml.h
 upnpcommands.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpcommands.h
+/home/warranty/external/miniupnpc/upnpcommands.h
 connecthostport.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/connecthostport.h
+/home/warranty/external/miniupnpc/connecthostport.h
 receivedata.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/receivedata.h
+/home/warranty/external/miniupnpc/receivedata.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpc.h
+/home/warranty/external/miniupnpc/miniupnpc.h
 declspec.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/declspec.h
+/home/warranty/external/miniupnpc/declspec.h
 igd_desc_parse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/igd_desc_parse.h
+/home/warranty/external/miniupnpc/igd_desc_parse.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpctypes.h
+/home/warranty/external/miniupnpc/miniupnpctypes.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniwget.c
+/home/warranty/external/miniupnpc/miniwget.c
 stdio.h
 -
 stdlib.h
@@ -214,47 +214,47 @@ net/if.h
 netdb.h
 -
 miniupnpcstrings.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpcstrings.h
+/home/warranty/external/miniupnpc/miniupnpcstrings.h
 miniwget.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniwget.h
+/home/warranty/external/miniupnpc/miniwget.h
 connecthostport.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/connecthostport.h
+/home/warranty/external/miniupnpc/connecthostport.h
 receivedata.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/receivedata.h
+/home/warranty/external/miniupnpc/receivedata.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniwget.h
+/home/warranty/external/miniupnpc/miniwget.h
 declspec.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/declspec.h
+/home/warranty/external/miniupnpc/declspec.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minixml.c
+/home/warranty/external/miniupnpc/minixml.c
 string.h
 -
 minixml.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minixml.h
+/home/warranty/external/miniupnpc/minixml.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minixml.h
+/home/warranty/external/miniupnpc/minixml.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/portlistingparse.c
+/home/warranty/external/miniupnpc/portlistingparse.c
 string.h
 -
 stdlib.h
 -
 portlistingparse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/portlistingparse.h
+/home/warranty/external/miniupnpc/portlistingparse.h
 minixml.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minixml.h
+/home/warranty/external/miniupnpc/minixml.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/portlistingparse.h
+/home/warranty/external/miniupnpc/portlistingparse.h
 declspec.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/declspec.h
+/home/warranty/external/miniupnpc/declspec.h
 miniupnpctypes.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpctypes.h
+/home/warranty/external/miniupnpc/miniupnpctypes.h
 bsdqueue.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/bsdqueue.h
+/home/warranty/external/miniupnpc/bsdqueue.h
 sys/queue.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/receivedata.c
+/home/warranty/external/miniupnpc/receivedata.c
 stdio.h
 -
 winsock2.h
@@ -274,11 +274,11 @@ poll.h
 errno.h
 -
 receivedata.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/receivedata.h
+/home/warranty/external/miniupnpc/receivedata.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/receivedata.h
+/home/warranty/external/miniupnpc/receivedata.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpc.c
+/home/warranty/external/miniupnpc/upnpc.c
 stdio.h
 -
 stdlib.h
@@ -292,15 +292,15 @@ winsock2.h
 netinet/in.h
 -
 miniwget.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniwget.h
+/home/warranty/external/miniupnpc/miniwget.h
 miniupnpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpc.h
+/home/warranty/external/miniupnpc/miniupnpc.h
 upnpcommands.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpcommands.h
+/home/warranty/external/miniupnpc/upnpcommands.h
 upnperrors.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnperrors.h
+/home/warranty/external/miniupnpc/upnperrors.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpcommands.c
+/home/warranty/external/miniupnpc/upnpcommands.c
 stdlib.h
 -
 stdio.h
@@ -308,37 +308,37 @@ stdio.h
 string.h
 -
 upnpcommands.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpcommands.h
+/home/warranty/external/miniupnpc/upnpcommands.h
 miniupnpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpc.h
+/home/warranty/external/miniupnpc/miniupnpc.h
 portlistingparse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/portlistingparse.h
+/home/warranty/external/miniupnpc/portlistingparse.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpcommands.h
+/home/warranty/external/miniupnpc/upnpcommands.h
 upnpreplyparse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpreplyparse.h
+/home/warranty/external/miniupnpc/upnpreplyparse.h
 portlistingparse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/portlistingparse.h
+/home/warranty/external/miniupnpc/portlistingparse.h
 declspec.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/declspec.h
+/home/warranty/external/miniupnpc/declspec.h
 miniupnpctypes.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpctypes.h
+/home/warranty/external/miniupnpc/miniupnpctypes.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnperrors.c
+/home/warranty/external/miniupnpc/upnperrors.c
 string.h
 -
 upnperrors.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnperrors.h
+/home/warranty/external/miniupnpc/upnperrors.h
 upnpcommands.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpcommands.h
+/home/warranty/external/miniupnpc/upnpcommands.h
 miniupnpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpc.h
+/home/warranty/external/miniupnpc/miniupnpc.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnperrors.h
+/home/warranty/external/miniupnpc/upnperrors.h
 declspec.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/declspec.h
+/home/warranty/external/miniupnpc/declspec.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpreplyparse.c
+/home/warranty/external/miniupnpc/upnpreplyparse.c
 stdlib.h
 -
 string.h
@@ -346,13 +346,13 @@ string.h
 stdio.h
 -
 upnpreplyparse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpreplyparse.h
+/home/warranty/external/miniupnpc/upnpreplyparse.h
 minixml.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minixml.h
+/home/warranty/external/miniupnpc/minixml.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpreplyparse.h
+/home/warranty/external/miniupnpc/upnpreplyparse.h
 bsdqueue.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/bsdqueue.h
+/home/warranty/external/miniupnpc/bsdqueue.h
 sys/queue.h
 -
 

@@ -4,19 +4,19 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/connecthostport.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/connecthostport.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/igd_desc_parse.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/igd_desc_parse.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minisoap.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minisoap.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minissdpc.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minissdpc.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniupnpc.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniupnpc.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/miniwget.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniwget.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/minixml.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minixml.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/portlistingparse.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/portlistingparse.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/receivedata.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/receivedata.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpc.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpc.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpcommands.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpcommands.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnperrors.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnperrors.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/miniupnpc/upnpreplyparse.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpreplyparse.c.o"
+  "/home/warranty/external/miniupnpc/connecthostport.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/connecthostport.c.o"
+  "/home/warranty/external/miniupnpc/igd_desc_parse.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/igd_desc_parse.c.o"
+  "/home/warranty/external/miniupnpc/minisoap.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minisoap.c.o"
+  "/home/warranty/external/miniupnpc/minissdpc.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minissdpc.c.o"
+  "/home/warranty/external/miniupnpc/miniupnpc.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniupnpc.c.o"
+  "/home/warranty/external/miniupnpc/miniwget.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniwget.c.o"
+  "/home/warranty/external/miniupnpc/minixml.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minixml.c.o"
+  "/home/warranty/external/miniupnpc/portlistingparse.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/portlistingparse.c.o"
+  "/home/warranty/external/miniupnpc/receivedata.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/receivedata.c.o"
+  "/home/warranty/external/miniupnpc/upnpc.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpc.c.o"
+  "/home/warranty/external/miniupnpc/upnpcommands.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpcommands.c.o"
+  "/home/warranty/external/miniupnpc/upnperrors.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnperrors.c.o"
+  "/home/warranty/external/miniupnpc/upnpreplyparse.c" "/home/warranty/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpreplyparse.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

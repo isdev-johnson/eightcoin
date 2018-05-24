@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
+CMAKE_SOURCE_DIR = /home/warranty
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+CMAKE_BINARY_DIR = /home/warranty/build/release
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/Common.dir/depend.make
@@ -59,16 +59,16 @@ include src/CMakeFiles/Common.dir/flags.make
 
 src/CMakeFiles/Common.dir/Common/Base58.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/Base58.cpp.o: ../../src/Common/Base58.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Common.dir/Common/Base58.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/Base58.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Base58.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Common.dir/Common/Base58.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/Base58.cpp.o -c /home/warranty/src/Common/Base58.cpp
 
 src/CMakeFiles/Common.dir/Common/Base58.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/Base58.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Base58.cpp > CMakeFiles/Common.dir/Common/Base58.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/Base58.cpp > CMakeFiles/Common.dir/Common/Base58.cpp.i
 
 src/CMakeFiles/Common.dir/Common/Base58.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/Base58.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Base58.cpp -o CMakeFiles/Common.dir/Common/Base58.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/Base58.cpp -o CMakeFiles/Common.dir/Common/Base58.cpp.s
 
 src/CMakeFiles/Common.dir/Common/Base58.cpp.o.requires:
 
@@ -83,16 +83,16 @@ src/CMakeFiles/Common.dir/Common/Base58.cpp.o.provides.build: src/CMakeFiles/Com
 
 src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o: ../../src/Common/BlockingQueue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o -c /home/warranty/src/Common/BlockingQueue.cpp
 
 src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/BlockingQueue.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.cpp > CMakeFiles/Common.dir/Common/BlockingQueue.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/BlockingQueue.cpp > CMakeFiles/Common.dir/Common/BlockingQueue.cpp.i
 
 src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/BlockingQueue.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.cpp -o CMakeFiles/Common.dir/Common/BlockingQueue.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/BlockingQueue.cpp -o CMakeFiles/Common.dir/Common/BlockingQueue.cpp.s
 
 src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o.requires:
 
@@ -107,16 +107,16 @@ src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o.provides.build: src/CMakeFi
 
 src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o: ../../src/Common/CommandLine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/CommandLine.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CommandLine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/CommandLine.cpp.o -c /home/warranty/src/Common/CommandLine.cpp
 
 src/CMakeFiles/Common.dir/Common/CommandLine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/CommandLine.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CommandLine.cpp > CMakeFiles/Common.dir/Common/CommandLine.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/CommandLine.cpp > CMakeFiles/Common.dir/Common/CommandLine.cpp.i
 
 src/CMakeFiles/Common.dir/Common/CommandLine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/CommandLine.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CommandLine.cpp -o CMakeFiles/Common.dir/Common/CommandLine.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/CommandLine.cpp -o CMakeFiles/Common.dir/Common/CommandLine.cpp.s
 
 src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o.requires:
 
@@ -131,16 +131,16 @@ src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o.provides.build: src/CMakeFile
 
 src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o: ../../src/Common/ConsoleHandler.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleHandler.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o -c /home/warranty/src/Common/ConsoleHandler.cpp
 
 src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleHandler.cpp > CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/ConsoleHandler.cpp > CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.i
 
 src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleHandler.cpp -o CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/ConsoleHandler.cpp -o CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.s
 
 src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o.requires:
 
@@ -155,16 +155,16 @@ src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o.provides.build: src/CMakeF
 
 src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o: ../../src/Common/ConsoleTools.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o -c /home/warranty/src/Common/ConsoleTools.cpp
 
 src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/ConsoleTools.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.cpp > CMakeFiles/Common.dir/Common/ConsoleTools.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/ConsoleTools.cpp > CMakeFiles/Common.dir/Common/ConsoleTools.cpp.i
 
 src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/ConsoleTools.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.cpp -o CMakeFiles/Common.dir/Common/ConsoleTools.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/ConsoleTools.cpp -o CMakeFiles/Common.dir/Common/ConsoleTools.cpp.s
 
 src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o.requires:
 
@@ -179,16 +179,16 @@ src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o.provides.build: src/CMakeFil
 
 src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o: ../../src/Common/IInputStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/IInputStream.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/IInputStream.cpp.o -c /home/warranty/src/Common/IInputStream.cpp
 
 src/CMakeFiles/Common.dir/Common/IInputStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/IInputStream.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.cpp > CMakeFiles/Common.dir/Common/IInputStream.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/IInputStream.cpp > CMakeFiles/Common.dir/Common/IInputStream.cpp.i
 
 src/CMakeFiles/Common.dir/Common/IInputStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/IInputStream.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.cpp -o CMakeFiles/Common.dir/Common/IInputStream.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/IInputStream.cpp -o CMakeFiles/Common.dir/Common/IInputStream.cpp.s
 
 src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o.requires:
 
@@ -203,16 +203,16 @@ src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o.provides.build: src/CMakeFil
 
 src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o: ../../src/Common/IOutputStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/IOutputStream.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/IOutputStream.cpp.o -c /home/warranty/src/Common/IOutputStream.cpp
 
 src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/IOutputStream.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.cpp > CMakeFiles/Common.dir/Common/IOutputStream.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/IOutputStream.cpp > CMakeFiles/Common.dir/Common/IOutputStream.cpp.i
 
 src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/IOutputStream.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.cpp -o CMakeFiles/Common.dir/Common/IOutputStream.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/IOutputStream.cpp -o CMakeFiles/Common.dir/Common/IOutputStream.cpp.s
 
 src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o.requires:
 
@@ -227,16 +227,16 @@ src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o.provides.build: src/CMakeFi
 
 src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o: ../../src/Common/JsonValue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/JsonValue.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/JsonValue.cpp.o -c /home/warranty/src/Common/JsonValue.cpp
 
 src/CMakeFiles/Common.dir/Common/JsonValue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/JsonValue.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.cpp > CMakeFiles/Common.dir/Common/JsonValue.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/JsonValue.cpp > CMakeFiles/Common.dir/Common/JsonValue.cpp.i
 
 src/CMakeFiles/Common.dir/Common/JsonValue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/JsonValue.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.cpp -o CMakeFiles/Common.dir/Common/JsonValue.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/JsonValue.cpp -o CMakeFiles/Common.dir/Common/JsonValue.cpp.s
 
 src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o.requires:
 
@@ -251,16 +251,16 @@ src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o.provides.build: src/CMakeFiles/
 
 src/CMakeFiles/Common.dir/Common/Math.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/Math.cpp.o: ../../src/Common/Math.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/Common.dir/Common/Math.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/Math.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Math.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/Common.dir/Common/Math.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/Math.cpp.o -c /home/warranty/src/Common/Math.cpp
 
 src/CMakeFiles/Common.dir/Common/Math.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/Math.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Math.cpp > CMakeFiles/Common.dir/Common/Math.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/Math.cpp > CMakeFiles/Common.dir/Common/Math.cpp.i
 
 src/CMakeFiles/Common.dir/Common/Math.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/Math.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Math.cpp -o CMakeFiles/Common.dir/Common/Math.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/Math.cpp -o CMakeFiles/Common.dir/Common/Math.cpp.s
 
 src/CMakeFiles/Common.dir/Common/Math.cpp.o.requires:
 
@@ -275,16 +275,16 @@ src/CMakeFiles/Common.dir/Common/Math.cpp.o.provides.build: src/CMakeFiles/Commo
 
 src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o: ../../src/Common/MemoryInputStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/MemoryInputStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o -c /home/warranty/src/Common/MemoryInputStream.cpp
 
 src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/MemoryInputStream.cpp > CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/MemoryInputStream.cpp > CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.i
 
 src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/MemoryInputStream.cpp -o CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/MemoryInputStream.cpp -o CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.s
 
 src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o.requires:
 
@@ -299,16 +299,16 @@ src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o.provides.build: src/CMa
 
 src/CMakeFiles/Common.dir/Common/PathTools.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/PathTools.cpp.o: ../../src/Common/PathTools.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object src/CMakeFiles/Common.dir/Common/PathTools.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/PathTools.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/PathTools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object src/CMakeFiles/Common.dir/Common/PathTools.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/PathTools.cpp.o -c /home/warranty/src/Common/PathTools.cpp
 
 src/CMakeFiles/Common.dir/Common/PathTools.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/PathTools.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/PathTools.cpp > CMakeFiles/Common.dir/Common/PathTools.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/PathTools.cpp > CMakeFiles/Common.dir/Common/PathTools.cpp.i
 
 src/CMakeFiles/Common.dir/Common/PathTools.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/PathTools.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/PathTools.cpp -o CMakeFiles/Common.dir/Common/PathTools.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/PathTools.cpp -o CMakeFiles/Common.dir/Common/PathTools.cpp.s
 
 src/CMakeFiles/Common.dir/Common/PathTools.cpp.o.requires:
 
@@ -323,16 +323,16 @@ src/CMakeFiles/Common.dir/Common/PathTools.cpp.o.provides.build: src/CMakeFiles/
 
 src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o: ../../src/Common/ScopeExit.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/ScopeExit.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ScopeExit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/ScopeExit.cpp.o -c /home/warranty/src/Common/ScopeExit.cpp
 
 src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/ScopeExit.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ScopeExit.cpp > CMakeFiles/Common.dir/Common/ScopeExit.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/ScopeExit.cpp > CMakeFiles/Common.dir/Common/ScopeExit.cpp.i
 
 src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/ScopeExit.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ScopeExit.cpp -o CMakeFiles/Common.dir/Common/ScopeExit.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/ScopeExit.cpp -o CMakeFiles/Common.dir/Common/ScopeExit.cpp.s
 
 src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o.requires:
 
@@ -347,16 +347,16 @@ src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o.provides.build: src/CMakeFiles/
 
 src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o: ../../src/Common/SignalHandler.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/SignalHandler.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/SignalHandler.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/SignalHandler.cpp.o -c /home/warranty/src/Common/SignalHandler.cpp
 
 src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/SignalHandler.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/SignalHandler.cpp > CMakeFiles/Common.dir/Common/SignalHandler.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/SignalHandler.cpp > CMakeFiles/Common.dir/Common/SignalHandler.cpp.i
 
 src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/SignalHandler.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/SignalHandler.cpp -o CMakeFiles/Common.dir/Common/SignalHandler.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/SignalHandler.cpp -o CMakeFiles/Common.dir/Common/SignalHandler.cpp.s
 
 src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o.requires:
 
@@ -371,16 +371,16 @@ src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o.provides.build: src/CMakeFi
 
 src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o: ../../src/Common/StdInputStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StdInputStream.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdInputStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StdInputStream.cpp.o -c /home/warranty/src/Common/StdInputStream.cpp
 
 src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/StdInputStream.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdInputStream.cpp > CMakeFiles/Common.dir/Common/StdInputStream.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/StdInputStream.cpp > CMakeFiles/Common.dir/Common/StdInputStream.cpp.i
 
 src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/StdInputStream.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdInputStream.cpp -o CMakeFiles/Common.dir/Common/StdInputStream.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/StdInputStream.cpp -o CMakeFiles/Common.dir/Common/StdInputStream.cpp.s
 
 src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o.requires:
 
@@ -395,16 +395,16 @@ src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o.provides.build: src/CMakeF
 
 src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o: ../../src/Common/StdOutputStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdOutputStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o -c /home/warranty/src/Common/StdOutputStream.cpp
 
 src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/StdOutputStream.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdOutputStream.cpp > CMakeFiles/Common.dir/Common/StdOutputStream.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/StdOutputStream.cpp > CMakeFiles/Common.dir/Common/StdOutputStream.cpp.i
 
 src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/StdOutputStream.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdOutputStream.cpp -o CMakeFiles/Common.dir/Common/StdOutputStream.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/StdOutputStream.cpp -o CMakeFiles/Common.dir/Common/StdOutputStream.cpp.s
 
 src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o.requires:
 
@@ -419,16 +419,16 @@ src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o.provides.build: src/CMake
 
 src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o: ../../src/Common/StreamTools.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StreamTools.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StreamTools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StreamTools.cpp.o -c /home/warranty/src/Common/StreamTools.cpp
 
 src/CMakeFiles/Common.dir/Common/StreamTools.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/StreamTools.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StreamTools.cpp > CMakeFiles/Common.dir/Common/StreamTools.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/StreamTools.cpp > CMakeFiles/Common.dir/Common/StreamTools.cpp.i
 
 src/CMakeFiles/Common.dir/Common/StreamTools.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/StreamTools.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StreamTools.cpp -o CMakeFiles/Common.dir/Common/StreamTools.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/StreamTools.cpp -o CMakeFiles/Common.dir/Common/StreamTools.cpp.s
 
 src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o.requires:
 
@@ -443,16 +443,16 @@ src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o.provides.build: src/CMakeFile
 
 src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o: ../../src/Common/StringInputStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StringInputStream.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringInputStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StringInputStream.cpp.o -c /home/warranty/src/Common/StringInputStream.cpp
 
 src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/StringInputStream.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringInputStream.cpp > CMakeFiles/Common.dir/Common/StringInputStream.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/StringInputStream.cpp > CMakeFiles/Common.dir/Common/StringInputStream.cpp.i
 
 src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/StringInputStream.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringInputStream.cpp -o CMakeFiles/Common.dir/Common/StringInputStream.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/StringInputStream.cpp -o CMakeFiles/Common.dir/Common/StringInputStream.cpp.s
 
 src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o.requires:
 
@@ -467,16 +467,16 @@ src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o.provides.build: src/CMa
 
 src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o: ../../src/Common/StringOutputStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringOutputStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o -c /home/warranty/src/Common/StringOutputStream.cpp
 
 src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/StringOutputStream.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringOutputStream.cpp > CMakeFiles/Common.dir/Common/StringOutputStream.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/StringOutputStream.cpp > CMakeFiles/Common.dir/Common/StringOutputStream.cpp.i
 
 src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/StringOutputStream.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringOutputStream.cpp -o CMakeFiles/Common.dir/Common/StringOutputStream.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/StringOutputStream.cpp -o CMakeFiles/Common.dir/Common/StringOutputStream.cpp.s
 
 src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o.requires:
 
@@ -491,16 +491,16 @@ src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o.provides.build: src/CM
 
 src/CMakeFiles/Common.dir/Common/StringTools.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/StringTools.cpp.o: ../../src/Common/StringTools.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object src/CMakeFiles/Common.dir/Common/StringTools.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StringTools.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object src/CMakeFiles/Common.dir/Common/StringTools.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StringTools.cpp.o -c /home/warranty/src/Common/StringTools.cpp
 
 src/CMakeFiles/Common.dir/Common/StringTools.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/StringTools.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.cpp > CMakeFiles/Common.dir/Common/StringTools.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/StringTools.cpp > CMakeFiles/Common.dir/Common/StringTools.cpp.i
 
 src/CMakeFiles/Common.dir/Common/StringTools.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/StringTools.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.cpp -o CMakeFiles/Common.dir/Common/StringTools.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/StringTools.cpp -o CMakeFiles/Common.dir/Common/StringTools.cpp.s
 
 src/CMakeFiles/Common.dir/Common/StringTools.cpp.o.requires:
 
@@ -515,16 +515,16 @@ src/CMakeFiles/Common.dir/Common/StringTools.cpp.o.provides.build: src/CMakeFile
 
 src/CMakeFiles/Common.dir/Common/StringView.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/StringView.cpp.o: ../../src/Common/StringView.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object src/CMakeFiles/Common.dir/Common/StringView.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StringView.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringView.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object src/CMakeFiles/Common.dir/Common/StringView.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/StringView.cpp.o -c /home/warranty/src/Common/StringView.cpp
 
 src/CMakeFiles/Common.dir/Common/StringView.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/StringView.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringView.cpp > CMakeFiles/Common.dir/Common/StringView.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/StringView.cpp > CMakeFiles/Common.dir/Common/StringView.cpp.i
 
 src/CMakeFiles/Common.dir/Common/StringView.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/StringView.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringView.cpp -o CMakeFiles/Common.dir/Common/StringView.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/StringView.cpp -o CMakeFiles/Common.dir/Common/StringView.cpp.s
 
 src/CMakeFiles/Common.dir/Common/StringView.cpp.o.requires:
 
@@ -539,16 +539,16 @@ src/CMakeFiles/Common.dir/Common/StringView.cpp.o.provides.build: src/CMakeFiles
 
 src/CMakeFiles/Common.dir/Common/Util.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/Util.cpp.o: ../../src/Common/Util.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object src/CMakeFiles/Common.dir/Common/Util.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/Util.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Util.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object src/CMakeFiles/Common.dir/Common/Util.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/Util.cpp.o -c /home/warranty/src/Common/Util.cpp
 
 src/CMakeFiles/Common.dir/Common/Util.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/Util.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Util.cpp > CMakeFiles/Common.dir/Common/Util.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/Util.cpp > CMakeFiles/Common.dir/Common/Util.cpp.i
 
 src/CMakeFiles/Common.dir/Common/Util.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/Util.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Util.cpp -o CMakeFiles/Common.dir/Common/Util.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/Util.cpp -o CMakeFiles/Common.dir/Common/Util.cpp.s
 
 src/CMakeFiles/Common.dir/Common/Util.cpp.o.requires:
 
@@ -563,16 +563,16 @@ src/CMakeFiles/Common.dir/Common/Util.cpp.o.provides.build: src/CMakeFiles/Commo
 
 src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o: src/CMakeFiles/Common.dir/flags.make
 src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o: ../../src/Common/VectorOutputStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/VectorOutputStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o -c /home/warranty/src/Common/VectorOutputStream.cpp
 
 src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/VectorOutputStream.cpp > CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Common/VectorOutputStream.cpp > CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.i
 
 src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/VectorOutputStream.cpp -o CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Common/VectorOutputStream.cpp -o CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.s
 
 src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o.requires:
 
@@ -637,9 +637,9 @@ src/libCommon.a: src/CMakeFiles/Common.dir/Common/Util.cpp.o
 src/libCommon.a: src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o
 src/libCommon.a: src/CMakeFiles/Common.dir/build.make
 src/libCommon.a: src/CMakeFiles/Common.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX static library libCommon.a"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Common.dir/cmake_clean_target.cmake
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Common.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX static library libCommon.a"
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Common.dir/cmake_clean_target.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Common.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/Common.dir/build: src/libCommon.a
@@ -672,10 +672,10 @@ src/CMakeFiles/Common.dir/requires: src/CMakeFiles/Common.dir/Common/VectorOutpu
 .PHONY : src/CMakeFiles/Common.dir/requires
 
 src/CMakeFiles/Common.dir/clean:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Common.dir/cmake_clean.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Common.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/Common.dir/clean
 
 src/CMakeFiles/Common.dir/depend:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/warranty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/warranty /home/warranty/src /home/warranty/build/release /home/warranty/build/release/src /home/warranty/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/Common.dir/depend
 

@@ -10,7 +10,7 @@
 cstdint
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.h
+/home/warranty/src/Common/JsonValue.h
 cstddef
 -
 cstdint
@@ -22,19 +22,19 @@ string
 vector
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/CommonLogger.cpp
+/home/warranty/src/Logging/CommonLogger.cpp
 CommonLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/CommonLogger.h
+/home/warranty/src/Logging/CommonLogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/CommonLogger.h
+/home/warranty/src/Logging/CommonLogger.h
 set
 -
 ILogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ILogger.h
+/home/warranty/src/Logging/ILogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ConsoleLogger.cpp
+/home/warranty/src/Logging/ConsoleLogger.cpp
 ConsoleLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ConsoleLogger.h
+/home/warranty/src/Logging/ConsoleLogger.h
 iostream
 -
 unordered_map
@@ -42,27 +42,27 @@ unordered_map
 Common/ConsoleTools.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ConsoleLogger.h
+/home/warranty/src/Logging/ConsoleLogger.h
 mutex
 -
 CommonLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/CommonLogger.h
+/home/warranty/src/Logging/CommonLogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/FileLogger.cpp
+/home/warranty/src/Logging/FileLogger.cpp
 FileLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/FileLogger.h
+/home/warranty/src/Logging/FileLogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/FileLogger.h
+/home/warranty/src/Logging/FileLogger.h
 fstream
 -
 StreamLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/StreamLogger.h
+/home/warranty/src/Logging/StreamLogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ILogger.cpp
+/home/warranty/src/Logging/ILogger.cpp
 ILogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ILogger.h
+/home/warranty/src/Logging/ILogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ILogger.h
+/home/warranty/src/Logging/ILogger.h
 string
 -
 array
@@ -70,29 +70,29 @@ array
 boost/date_time/posix_time/posix_time.hpp
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerGroup.cpp
+/home/warranty/src/Logging/LoggerGroup.cpp
 LoggerGroup.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerGroup.h
+/home/warranty/src/Logging/LoggerGroup.h
 algorithm
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerGroup.h
+/home/warranty/src/Logging/LoggerGroup.h
 vector
 -
 CommonLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/CommonLogger.h
+/home/warranty/src/Logging/CommonLogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerManager.cpp
+/home/warranty/src/Logging/LoggerManager.cpp
 LoggerManager.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerManager.h
+/home/warranty/src/Logging/LoggerManager.h
 thread
 -
 ConsoleLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ConsoleLogger.h
+/home/warranty/src/Logging/ConsoleLogger.h
 FileLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/FileLogger.h
+/home/warranty/src/Logging/FileLogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerManager.h
+/home/warranty/src/Logging/LoggerManager.h
 list
 -
 memory
@@ -100,41 +100,41 @@ memory
 mutex
 -
 ../Common/JsonValue.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.h
+/home/warranty/src/Common/JsonValue.h
 LoggerGroup.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerGroup.h
+/home/warranty/src/Logging/LoggerGroup.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerMessage.cpp
+/home/warranty/src/Logging/LoggerMessage.cpp
 LoggerMessage.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerMessage.h
+/home/warranty/src/Logging/LoggerMessage.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerMessage.h
+/home/warranty/src/Logging/LoggerMessage.h
 iostream
 -
 ILogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ILogger.h
+/home/warranty/src/Logging/ILogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerRef.cpp
+/home/warranty/src/Logging/LoggerRef.cpp
 LoggerRef.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerRef.h
+/home/warranty/src/Logging/LoggerRef.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerRef.h
+/home/warranty/src/Logging/LoggerRef.h
 ILogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ILogger.h
+/home/warranty/src/Logging/ILogger.h
 LoggerMessage.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerMessage.h
+/home/warranty/src/Logging/LoggerMessage.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/StreamLogger.cpp
+/home/warranty/src/Logging/StreamLogger.cpp
 StreamLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/StreamLogger.h
+/home/warranty/src/Logging/StreamLogger.h
 iostream
 -
 sstream
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/StreamLogger.h
+/home/warranty/src/Logging/StreamLogger.h
 mutex
 -
 CommonLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/CommonLogger.h
+/home/warranty/src/Logging/CommonLogger.h
 

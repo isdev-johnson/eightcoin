@@ -114,8 +114,8 @@ src/CMakeFiles/Daemon.dir/Daemon/Daemon.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Daemon/Daemon.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Daemon/DaemonCommandsHandler.h
+ /home/warranty/src/Daemon/Daemon.cpp
+ /home/warranty/src/Daemon/DaemonCommandsHandler.h
  version/version.h
 src/CMakeFiles/Daemon.dir/Daemon/DaemonCommandsHandler.cpp.o
  ../../external/google/sparse_hash_map
@@ -223,6 +223,6 @@ src/CMakeFiles/Daemon.dir/Daemon/DaemonCommandsHandler.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Daemon/DaemonCommandsHandler.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Daemon/DaemonCommandsHandler.h
+ /home/warranty/src/Daemon/DaemonCommandsHandler.cpp
+ /home/warranty/src/Daemon/DaemonCommandsHandler.h
  version/version.h

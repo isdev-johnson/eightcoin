@@ -48,8 +48,8 @@ src/CMakeFiles/Miner.dir/Miner/BlockchainMonitor.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/BlockchainMonitor.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/BlockchainMonitor.h
+ /home/warranty/src/Miner/BlockchainMonitor.cpp
+ /home/warranty/src/Miner/BlockchainMonitor.h
 src/CMakeFiles/Miner.dir/Miner/Miner.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -80,8 +80,8 @@ src/CMakeFiles/Miner.dir/Miner/Miner.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Miner.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Miner.h
+ /home/warranty/src/Miner/Miner.cpp
+ /home/warranty/src/Miner/Miner.h
 src/CMakeFiles/Miner.dir/Miner/MinerManager.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -138,17 +138,17 @@ src/CMakeFiles/Miner.dir/Miner/MinerManager.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/BlockchainMonitor.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Miner.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerEvent.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerManager.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerManager.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MiningConfig.h
+ /home/warranty/src/Miner/BlockchainMonitor.h
+ /home/warranty/src/Miner/Miner.h
+ /home/warranty/src/Miner/MinerEvent.h
+ /home/warranty/src/Miner/MinerManager.cpp
+ /home/warranty/src/Miner/MinerManager.h
+ /home/warranty/src/Miner/MiningConfig.h
 src/CMakeFiles/Miner.dir/Miner/MiningConfig.cpp.o
  ../../src/CryptoNoteConfig.h
  ../../src/Logging/ILogger.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MiningConfig.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MiningConfig.h
+ /home/warranty/src/Miner/MiningConfig.cpp
+ /home/warranty/src/Miner/MiningConfig.h
 src/CMakeFiles/Miner.dir/Miner/main.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -171,9 +171,9 @@ src/CMakeFiles/Miner.dir/Miner/main.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/BlockchainMonitor.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Miner.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerEvent.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerManager.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MiningConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/main.cpp
+ /home/warranty/src/Miner/BlockchainMonitor.h
+ /home/warranty/src/Miner/Miner.h
+ /home/warranty/src/Miner/MinerEvent.h
+ /home/warranty/src/Miner/MinerManager.h
+ /home/warranty/src/Miner/MiningConfig.h
+ /home/warranty/src/Miner/main.cpp

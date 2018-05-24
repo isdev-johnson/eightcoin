@@ -520,11 +520,11 @@ hash-ops.h
 stddef.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/BlockchainMonitor.cpp
+/home/warranty/src/Miner/BlockchainMonitor.cpp
 BlockchainMonitor.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/BlockchainMonitor.h
+/home/warranty/src/Miner/BlockchainMonitor.h
 Common/StringTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Common/StringTools.h
+/home/warranty/src/Miner/Common/StringTools.h
 System/EventLock.h
 -
 System/Timer.h
@@ -532,15 +532,15 @@ System/Timer.h
 System/InterruptedException.h
 -
 Rpc/CoreRpcServerCommandsDefinitions.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Rpc/CoreRpcServerCommandsDefinitions.h
+/home/warranty/src/Miner/Rpc/CoreRpcServerCommandsDefinitions.h
 Rpc/JsonRpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Rpc/JsonRpc.h
+/home/warranty/src/Miner/Rpc/JsonRpc.h
 Rpc/HttpClient.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Rpc/HttpClient.h
+/home/warranty/src/Miner/Rpc/HttpClient.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/BlockchainMonitor.h
+/home/warranty/src/Miner/BlockchainMonitor.h
 CryptoTypes.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/CryptoTypes.h
+/home/warranty/src/Miner/CryptoTypes.h
 System/ContextGroup.h
 -
 System/Dispatcher.h
@@ -548,21 +548,21 @@ System/Dispatcher.h
 System/Event.h
 -
 Logging/LoggerRef.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Logging/LoggerRef.h
+/home/warranty/src/Miner/Logging/LoggerRef.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Miner.cpp
+/home/warranty/src/Miner/Miner.cpp
 Miner.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Miner.h
+/home/warranty/src/Miner/Miner.h
 functional
 -
 crypto/crypto.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/crypto/crypto.h
+/home/warranty/src/Miner/crypto/crypto.h
 CryptoNoteCore/CryptoNoteFormatUtils.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/CryptoNoteCore/CryptoNoteFormatUtils.h
+/home/warranty/src/Miner/CryptoNoteCore/CryptoNoteFormatUtils.h
 System/InterruptedException.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Miner.h
+/home/warranty/src/Miner/Miner.h
 atomic
 -
 thread
@@ -574,17 +574,17 @@ System/Event.h
 System/RemoteContext.h
 -
 CryptoNote.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/CryptoNote.h
+/home/warranty/src/Miner/CryptoNote.h
 CryptoNoteCore/Difficulty.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/CryptoNoteCore/Difficulty.h
+/home/warranty/src/Miner/CryptoNoteCore/Difficulty.h
 Logging/LoggerRef.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Logging/LoggerRef.h
+/home/warranty/src/Miner/Logging/LoggerRef.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerEvent.h
+/home/warranty/src/Miner/MinerEvent.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerManager.cpp
+/home/warranty/src/Miner/MinerManager.cpp
 MinerManager.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerManager.h
+/home/warranty/src/Miner/MinerManager.h
 System/EventLock.h
 -
 System/InterruptedException.h
@@ -592,23 +592,23 @@ System/InterruptedException.h
 System/Timer.h
 -
 Common/StringTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Common/StringTools.h
+/home/warranty/src/Miner/Common/StringTools.h
 CryptoNoteConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/CryptoNoteConfig.h
+/home/warranty/src/Miner/CryptoNoteConfig.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/src/Miner/CryptoNoteCore/CryptoNoteTools.h
 CryptoNoteCore/CryptoNoteFormatUtils.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/CryptoNoteCore/CryptoNoteFormatUtils.h
+/home/warranty/src/Miner/CryptoNoteCore/CryptoNoteFormatUtils.h
 CryptoNoteCore/TransactionExtra.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/CryptoNoteCore/TransactionExtra.h
+/home/warranty/src/Miner/CryptoNoteCore/TransactionExtra.h
 Rpc/HttpClient.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Rpc/HttpClient.h
+/home/warranty/src/Miner/Rpc/HttpClient.h
 Rpc/CoreRpcServerCommandsDefinitions.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Rpc/CoreRpcServerCommandsDefinitions.h
+/home/warranty/src/Miner/Rpc/CoreRpcServerCommandsDefinitions.h
 Rpc/JsonRpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Rpc/JsonRpc.h
+/home/warranty/src/Miner/Rpc/JsonRpc.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerManager.h
+/home/warranty/src/Miner/MinerManager.h
 queue
 -
 System/ContextGroup.h
@@ -616,19 +616,19 @@ System/ContextGroup.h
 System/Event.h
 -
 BlockchainMonitor.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/BlockchainMonitor.h
+/home/warranty/src/Miner/BlockchainMonitor.h
 Logging/LoggerRef.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Logging/LoggerRef.h
+/home/warranty/src/Miner/Logging/LoggerRef.h
 Miner.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Miner.h
+/home/warranty/src/Miner/Miner.h
 MinerEvent.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerEvent.h
+/home/warranty/src/Miner/MinerEvent.h
 MiningConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MiningConfig.h
+/home/warranty/src/Miner/MiningConfig.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MiningConfig.cpp
+/home/warranty/src/Miner/MiningConfig.cpp
 MiningConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MiningConfig.h
+/home/warranty/src/Miner/MiningConfig.h
 iostream
 -
 thread
@@ -642,27 +642,27 @@ boost/lexical_cast.hpp
 boost/program_options.hpp
 -
 CryptoNoteConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/CryptoNoteConfig.h
+/home/warranty/src/Miner/CryptoNoteConfig.h
 Logging/ILogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Logging/ILogger.h
+/home/warranty/src/Miner/Logging/ILogger.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MiningConfig.h
+/home/warranty/src/Miner/MiningConfig.h
 cstdint
 -
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/main.cpp
+/home/warranty/src/Miner/main.cpp
 Common/SignalHandler.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Common/SignalHandler.h
+/home/warranty/src/Miner/Common/SignalHandler.h
 Logging/LoggerGroup.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Logging/LoggerGroup.h
+/home/warranty/src/Miner/Logging/LoggerGroup.h
 Logging/ConsoleLogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Logging/ConsoleLogger.h
+/home/warranty/src/Miner/Logging/ConsoleLogger.h
 Logging/LoggerRef.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Logging/LoggerRef.h
+/home/warranty/src/Miner/Logging/LoggerRef.h
 MinerManager.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerManager.h
+/home/warranty/src/Miner/MinerManager.h
 System/Dispatcher.h
 -
 

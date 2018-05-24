@@ -166,9 +166,9 @@ cstdint
 streambuf
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/JsonRpcServer.cpp
+/home/warranty/src/JsonRpcServer/JsonRpcServer.cpp
 JsonRpcServer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/JsonRpcServer.h
+/home/warranty/src/JsonRpcServer/JsonRpcServer.h
 fstream
 -
 future
@@ -180,7 +180,7 @@ memory
 sstream
 -
 HTTP/HttpParserErrorCodes.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/HTTP/HttpParserErrorCodes.h
+/home/warranty/src/JsonRpcServer/HTTP/HttpParserErrorCodes.h
 System/TcpConnection.h
 -
 System/TcpListener.h
@@ -190,17 +190,17 @@ System/TcpStream.h
 System/Ipv4Address.h
 -
 HTTP/HttpParser.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/HTTP/HttpParser.h
+/home/warranty/src/JsonRpcServer/HTTP/HttpParser.h
 HTTP/HttpResponse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/HTTP/HttpResponse.h
+/home/warranty/src/JsonRpcServer/HTTP/HttpResponse.h
 Common/JsonValue.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/Common/JsonValue.h
+/home/warranty/src/JsonRpcServer/Common/JsonValue.h
 Serialization/JsonInputValueSerializer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/Serialization/JsonInputValueSerializer.h
+/home/warranty/src/JsonRpcServer/Serialization/JsonInputValueSerializer.h
 Serialization/JsonOutputStreamSerializer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/Serialization/JsonOutputStreamSerializer.h
+/home/warranty/src/JsonRpcServer/Serialization/JsonOutputStreamSerializer.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/JsonRpcServer.h
+/home/warranty/src/JsonRpcServer/JsonRpcServer.h
 system_error
 -
 System/Dispatcher.h
@@ -208,9 +208,9 @@ System/Dispatcher.h
 System/Event.h
 -
 Logging/ILogger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/Logging/ILogger.h
+/home/warranty/src/JsonRpcServer/Logging/ILogger.h
 Logging/LoggerRef.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/Logging/LoggerRef.h
+/home/warranty/src/JsonRpcServer/Logging/LoggerRef.h
 Rpc/HttpServer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/Rpc/HttpServer.h
+/home/warranty/src/JsonRpcServer/Rpc/HttpServer.h
 

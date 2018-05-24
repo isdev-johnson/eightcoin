@@ -482,21 +482,21 @@ netdb.h
 src/gtest-internal-inl.h
 ../../external/gtest/src/src/gtest-internal-inl.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/gtest/src/gtest-all.cc
+/home/warranty/external/gtest/src/gtest-all.cc
 gtest/gtest.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/gtest/src/gtest/gtest.h
+/home/warranty/external/gtest/src/gtest/gtest.h
 src/gtest.cc
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/gtest/src/src/gtest.cc
+/home/warranty/external/gtest/src/src/gtest.cc
 src/gtest-death-test.cc
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/gtest/src/src/gtest-death-test.cc
+/home/warranty/external/gtest/src/src/gtest-death-test.cc
 src/gtest-filepath.cc
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/gtest/src/src/gtest-filepath.cc
+/home/warranty/external/gtest/src/src/gtest-filepath.cc
 src/gtest-port.cc
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/gtest/src/src/gtest-port.cc
+/home/warranty/external/gtest/src/src/gtest-port.cc
 src/gtest-printers.cc
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/gtest/src/src/gtest-printers.cc
+/home/warranty/external/gtest/src/src/gtest-printers.cc
 src/gtest-test-part.cc
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/gtest/src/src/gtest-test-part.cc
+/home/warranty/external/gtest/src/src/gtest-test-part.cc
 src/gtest-typed-test.cc
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external/gtest/src/src/gtest-typed-test.cc
+/home/warranty/external/gtest/src/src/gtest-typed-test.cc
 

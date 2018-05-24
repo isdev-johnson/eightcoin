@@ -8,10 +8,10 @@ src/CMakeFiles/PaymentGateService.dir/PaymentGateService/ConfigurationManager.cp
  ../../src/CryptoNoteCore/CoreConfig.h
  ../../src/P2p/NetNodeConfig.h
  ../../src/P2p/P2pProtocolTypes.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/ConfigurationManager.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/ConfigurationManager.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/PaymentServiceConfiguration.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/RpcNodeConfiguration.h
+ /home/warranty/src/PaymentGateService/ConfigurationManager.cpp
+ /home/warranty/src/PaymentGateService/ConfigurationManager.h
+ /home/warranty/src/PaymentGateService/PaymentServiceConfiguration.h
+ /home/warranty/src/PaymentGateService/RpcNodeConfiguration.h
 src/CMakeFiles/PaymentGateService.dir/PaymentGateService/PaymentGateService.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -130,18 +130,18 @@ src/CMakeFiles/PaymentGateService.dir/PaymentGateService/PaymentGateService.cpp.
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/ConfigurationManager.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/PaymentGateService.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/PaymentGateService.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/PaymentServiceConfiguration.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/RpcNodeConfiguration.h
+ /home/warranty/src/PaymentGateService/ConfigurationManager.h
+ /home/warranty/src/PaymentGateService/PaymentGateService.cpp
+ /home/warranty/src/PaymentGateService/PaymentGateService.h
+ /home/warranty/src/PaymentGateService/PaymentServiceConfiguration.h
+ /home/warranty/src/PaymentGateService/RpcNodeConfiguration.h
 src/CMakeFiles/PaymentGateService.dir/PaymentGateService/PaymentServiceConfiguration.cpp.o
  ../../src/Logging/ILogger.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/PaymentServiceConfiguration.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/PaymentServiceConfiguration.h
+ /home/warranty/src/PaymentGateService/PaymentServiceConfiguration.cpp
+ /home/warranty/src/PaymentGateService/PaymentServiceConfiguration.h
 src/CMakeFiles/PaymentGateService.dir/PaymentGateService/RpcNodeConfiguration.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/RpcNodeConfiguration.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/RpcNodeConfiguration.h
+ /home/warranty/src/PaymentGateService/RpcNodeConfiguration.cpp
+ /home/warranty/src/PaymentGateService/RpcNodeConfiguration.h
 src/CMakeFiles/PaymentGateService.dir/PaymentGateService/main.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -184,9 +184,9 @@ src/CMakeFiles/PaymentGateService.dir/PaymentGateService/main.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/ConfigurationManager.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/PaymentGateService.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/PaymentServiceConfiguration.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/RpcNodeConfiguration.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/PaymentGateService/main.cpp
+ /home/warranty/src/PaymentGateService/ConfigurationManager.h
+ /home/warranty/src/PaymentGateService/PaymentGateService.h
+ /home/warranty/src/PaymentGateService/PaymentServiceConfiguration.h
+ /home/warranty/src/PaymentGateService/RpcNodeConfiguration.h
+ /home/warranty/src/PaymentGateService/main.cpp
  version/version.h

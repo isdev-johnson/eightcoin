@@ -356,7 +356,7 @@ cstdint
 streambuf
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/ContextGroupTests.cpp
+/home/warranty/tests/System/ContextGroupTests.cpp
 System/Context.h
 -
 System/ContextGroup.h
@@ -382,7 +382,7 @@ gtest/gtest.h
 thread
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/ContextGroupTimeoutTests.cpp
+/home/warranty/tests/System/ContextGroupTimeoutTests.cpp
 gtest/gtest.h
 -
 System/ContextGroupTimeout.h
@@ -390,7 +390,7 @@ System/ContextGroupTimeout.h
 System/InterruptedException.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/ContextTests.cpp
+/home/warranty/tests/System/ContextTests.cpp
 System/Context.h
 -
 System/Dispatcher.h
@@ -404,7 +404,7 @@ System/Timer.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/DispatcherTests.cpp
+/home/warranty/tests/System/DispatcherTests.cpp
 future
 -
 System/Context.h
@@ -418,13 +418,13 @@ System/Timer.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/ErrorMessageTests.cpp
+/home/warranty/tests/System/ErrorMessageTests.cpp
 System/ErrorMessage.h
 -
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/EventLockTests.cpp
+/home/warranty/tests/System/EventLockTests.cpp
 System/Context.h
 -
 System/Dispatcher.h
@@ -436,7 +436,7 @@ System/EventLock.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/EventTests.cpp
+/home/warranty/tests/System/EventTests.cpp
 System/Context.h
 -
 System/Dispatcher.h
@@ -448,13 +448,13 @@ System/InterruptedException.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/Ipv4AddressTests.cpp
+/home/warranty/tests/System/Ipv4AddressTests.cpp
 System/Ipv4Address.h
 -
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/Ipv4ResolverTests.cpp
+/home/warranty/tests/System/Ipv4ResolverTests.cpp
 System/Dispatcher.h
 -
 System/ContextGroup.h
@@ -468,7 +468,7 @@ System/Ipv4Resolver.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/OperationTimeoutTests.cpp
+/home/warranty/tests/System/OperationTimeoutTests.cpp
 gtest/gtest.h
 -
 System/OperationTimeout.h
@@ -476,7 +476,7 @@ System/OperationTimeout.h
 System/InterruptedException.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/RemoteContextTests.cpp
+/home/warranty/tests/System/RemoteContextTests.cpp
 System/RemoteContext.h
 -
 System/Dispatcher.h
@@ -492,7 +492,7 @@ System/Timer.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/TcpConnectionTests.cpp
+/home/warranty/tests/System/TcpConnectionTests.cpp
 System/Dispatcher.h
 -
 System/ContextGroup.h
@@ -516,7 +516,7 @@ System/Timer.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/TcpConnectorTests.cpp
+/home/warranty/tests/System/TcpConnectorTests.cpp
 System/Dispatcher.h
 -
 System/ContextGroup.h
@@ -538,7 +538,7 @@ System/Timer.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/TcpListenerTests.cpp
+/home/warranty/tests/System/TcpListenerTests.cpp
 System/Dispatcher.h
 -
 System/ContextGroup.h
@@ -560,7 +560,7 @@ System/Timer.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/TimerTests.cpp
+/home/warranty/tests/System/TimerTests.cpp
 thread
 -
 System/Context.h
@@ -578,7 +578,7 @@ System/Timer.h
 gtest/gtest.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/main.cpp
+/home/warranty/tests/System/main.cpp
 gtest/gtest.h
 -
 

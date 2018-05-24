@@ -23,7 +23,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayRefTests.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/Common/ArrayRef.h
  ../../src/Common/ArrayView.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ArrayRefTests.cpp
+ /home/warranty/tests/UnitTests/ArrayRefTests.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayViewTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -45,7 +45,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayViewTests.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/Common/ArrayView.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ArrayViewTests.cpp
+ /home/warranty/tests/UnitTests/ArrayViewTests.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/Base58.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -103,7 +103,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/Base58.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/Base58.cpp
+ /home/warranty/tests/UnitTests/Base58.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/BlockReward.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -145,7 +145,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/BlockReward.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/BlockReward.cpp
+ /home/warranty/tests/UnitTests/BlockReward.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/BlockingQueue.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -167,7 +167,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/BlockingQueue.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/Common/BlockingQueue.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/BlockingQueue.cpp
+ /home/warranty/tests/UnitTests/BlockingQueue.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/Chacha8.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -195,7 +195,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/Chacha8.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/Chacha8.cpp
+ /home/warranty/tests/UnitTests/Chacha8.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/Checkpoints.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -234,7 +234,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/Checkpoints.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/Checkpoints.cpp
+ /home/warranty/tests/UnitTests/Checkpoints.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/DecomposeAmountIntoDigits.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -275,10 +275,10 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/DecomposeAmountIntoDigits.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/DecomposeAmountIntoDigits.cpp
+ /home/warranty/tests/UnitTests/DecomposeAmountIntoDigits.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/EventWaiter.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/EventWaiter.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/EventWaiter.h
+ /home/warranty/tests/UnitTests/EventWaiter.cpp
+ /home/warranty/tests/UnitTests/EventWaiter.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/ICoreStub.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -323,13 +323,13 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/ICoreStub.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ICoreStub.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ICoreStub.h
+ /home/warranty/tests/UnitTests/ICoreStub.cpp
+ /home/warranty/tests/UnitTests/ICoreStub.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/ICryptoNoteProtocolQueryStub.cpp.o
  ../../src/CryptoNoteProtocol/ICryptoNoteProtocolObserver.h
  ../../src/CryptoNoteProtocol/ICryptoNoteProtocolQuery.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ICryptoNoteProtocolQueryStub.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ICryptoNoteProtocolQueryStub.h
+ /home/warranty/tests/UnitTests/ICryptoNoteProtocolQueryStub.cpp
+ /home/warranty/tests/UnitTests/ICryptoNoteProtocolQueryStub.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/INodeStubs.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -381,10 +381,10 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/INodeStubs.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/INodeStubs.cpp
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/MulDiv.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -406,7 +406,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/MulDiv.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/Common/int-util.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/MulDiv.cpp
+ /home/warranty/tests/UnitTests/MulDiv.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/ParseAmount.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -455,7 +455,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/ParseAmount.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ParseAmount.cpp
+ /home/warranty/tests/UnitTests/ParseAmount.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/PaymentGateTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -523,10 +523,10 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/PaymentGateTests.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/PaymentGateTests.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/PaymentGateTests.cpp
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/Serialization.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -561,7 +561,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/Serialization.cpp.o
  ../../src/Serialization/BinarySerializationTools.h
  ../../src/Serialization/ISerializer.h
  ../../src/Serialization/SerializationOverloads.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/Serialization.cpp
+ /home/warranty/tests/UnitTests/Serialization.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/SerializationKV.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -597,7 +597,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/SerializationKV.cpp.o
  ../../src/Serialization/MemoryStream.h
  ../../src/Serialization/SerializationOverloads.h
  ../../src/Serialization/SerializationTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/SerializationKV.cpp
+ /home/warranty/tests/UnitTests/SerializationKV.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/Shuffle.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -627,7 +627,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/Shuffle.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/Shuffle.cpp
+ /home/warranty/tests/UnitTests/Shuffle.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/StringBufferTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -650,7 +650,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/StringBufferTests.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/Common/StringBuffer.h
  ../../src/Common/StringView.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/StringBufferTests.cpp
+ /home/warranty/tests/UnitTests/StringBufferTests.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/StringViewTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -672,7 +672,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/StringViewTests.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/Common/StringView.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/StringViewTests.cpp
+ /home/warranty/tests/UnitTests/StringViewTests.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestBcS.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -749,11 +749,11 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestBcS.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/EventWaiter.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBcS.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/EventWaiter.h
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/TestBcS.cpp
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainExplorer.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -831,13 +831,13 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainExplorer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/EventWaiter.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ICoreStub.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ICryptoNoteProtocolQueryStub.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainExplorer.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/EventWaiter.h
+ /home/warranty/tests/UnitTests/ICoreStub.h
+ /home/warranty/tests/UnitTests/ICryptoNoteProtocolQueryStub.h
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/TestBlockchainExplorer.cpp
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainGenerator.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -875,10 +875,10 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainGenerator.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/PerformanceTests/MultiTransactionTestBase.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/PerformanceTests/MultiTransactionTestBase.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.cpp
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestCryptonoteBasic.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -923,7 +923,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestCryptonoteBasic.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestCryptonoteBasic.cpp
+ /home/warranty/tests/UnitTests/TestCryptonoteBasic.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestCurrency.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -983,8 +983,8 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestCurrency.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestCurrency.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/UnitTests/TestCurrency.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestDepositIndex.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1006,7 +1006,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestDepositIndex.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/CryptoNoteCore/DepositIndex.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestDepositIndex.cpp
+ /home/warranty/tests/UnitTests/TestDepositIndex.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestFormatUtils.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1062,7 +1062,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestFormatUtils.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestFormatUtils.cpp
+ /home/warranty/tests/UnitTests/TestFormatUtils.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestInprocessNode.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1139,12 +1139,12 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestInprocessNode.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/EventWaiter.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ICoreStub.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/ICryptoNoteProtocolQueryStub.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestInprocessNode.cpp
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/EventWaiter.h
+ /home/warranty/tests/UnitTests/ICoreStub.h
+ /home/warranty/tests/UnitTests/ICryptoNoteProtocolQueryStub.h
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/UnitTests/TestInprocessNode.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestJsonValue.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1166,7 +1166,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestJsonValue.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/Common/JsonValue.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestJsonValue.cpp
+ /home/warranty/tests/UnitTests/TestJsonValue.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestMessageQueue.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1217,7 +1217,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestMessageQueue.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestMessageQueue.cpp
+ /home/warranty/tests/UnitTests/TestMessageQueue.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestPath.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1239,7 +1239,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestPath.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/Common/PathTools.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestPath.cpp
+ /home/warranty/tests/UnitTests/TestPath.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestPeerlist.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1270,7 +1270,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestPeerlist.cpp.o
  ../../src/Serialization/ISerializer.h
  ../../src/Serialization/SerializationOverloads.h
  ../../src/System/Ipv4Address.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestPeerlist.cpp
+ /home/warranty/tests/UnitTests/TestPeerlist.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestProtocolPack.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1319,7 +1319,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestProtocolPack.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestProtocolPack.cpp
+ /home/warranty/tests/UnitTests/TestProtocolPack.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransactionPoolDetach.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1407,12 +1407,12 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransactionPoolDetach.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/EventWaiter.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestTransactionPoolDetach.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/EventWaiter.h
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/UnitTests/TestTransactionPoolDetach.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfers.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1488,11 +1488,11 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfers.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestTransfers.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/UnitTests/TestTransfers.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersConsumer.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1567,12 +1567,12 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersConsumer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestTransfersConsumer.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransfersObserver.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/UnitTests/TestTransfersConsumer.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/UnitTests/TransfersObserver.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainer.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1633,8 +1633,8 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestTransfersContainer.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/UnitTests/TestTransfersContainer.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainerKeyImage.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1695,8 +1695,8 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainerKeyImage.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestTransfersContainerKeyImage.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/UnitTests/TestTransfersContainerKeyImage.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersSubscription.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1761,9 +1761,9 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersSubscription.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestTransfersSubscription.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransfersObserver.h
+ /home/warranty/tests/UnitTests/TestTransfersSubscription.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/UnitTests/TransfersObserver.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestUpgradeDetector.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1801,7 +1801,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestUpgradeDetector.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestUpgradeDetector.cpp
+ /home/warranty/tests/UnitTests/TestUpgradeDetector.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestWallet.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1895,11 +1895,11 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestWallet.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestWallet.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/UnitTests/TestWallet.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletLegacy.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -1983,11 +1983,11 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletLegacy.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/EventWaiter.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestWalletLegacy.cpp
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/EventWaiter.h
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/UnitTests/TestWalletLegacy.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletService.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -2056,10 +2056,10 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletService.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/INodeStubs.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestBlockchainGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestWalletService.cpp
+ /home/warranty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/UnitTests/INodeStubs.h
+ /home/warranty/tests/UnitTests/TestBlockchainGenerator.h
+ /home/warranty/tests/UnitTests/TestWalletService.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletUserTransactionsCache.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -2120,7 +2120,7 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletUserTransactionsCache.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TestWalletUserTransactionsCache.cpp
+ /home/warranty/tests/UnitTests/TestWalletUserTransactionsCache.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApi.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -2178,8 +2178,8 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApi.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApi.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/UnitTests/TransactionApi.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApiHelpers.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -2218,8 +2218,8 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApiHelpers.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
 tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionPool.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -2289,8 +2289,8 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionPool.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionApiHelpers.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/TransactionPool.cpp
+ /home/warranty/tests/UnitTests/TransactionApiHelpers.h
+ /home/warranty/tests/UnitTests/TransactionPool.cpp
 tests/CMakeFiles/UnitTests.dir/UnitTests/main.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -2311,4 +2311,4 @@ tests/CMakeFiles/UnitTests.dir/UnitTests/main.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-string.h
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/UnitTests/main.cpp
+ /home/warranty/tests/UnitTests/main.cpp

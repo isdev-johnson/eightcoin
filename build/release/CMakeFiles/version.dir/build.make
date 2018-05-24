@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
+CMAKE_SOURCE_DIR = /home/warranty
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+CMAKE_BINARY_DIR = /home/warranty/build/release
 
 # Utility rule file for version.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryp
 include CMakeFiles/version.dir/progress.make
 
 CMakeFiles/version:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty && /usr/bin/cmake -D VERSION=0.1 -D GIT=/usr/bin/git -D TO=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/version/version.h -P /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/version.cmake
+	cd /home/warranty && /usr/bin/cmake -D VERSION=0.1 -D GIT=/usr/bin/git -D TO=/home/warranty/build/release/version/version.h -P /home/warranty/src/version.cmake
 
 version: CMakeFiles/version
 version: CMakeFiles/version.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/version.dir/clean:
 .PHONY : CMakeFiles/version.dir/clean
 
 CMakeFiles/version.dir/depend:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles/version.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/warranty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/warranty /home/warranty /home/warranty/build/release /home/warranty/build/release /home/warranty/build/release/CMakeFiles/version.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/version.dir/depend
 

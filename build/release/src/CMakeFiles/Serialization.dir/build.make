@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
+CMAKE_SOURCE_DIR = /home/warranty
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+CMAKE_BINARY_DIR = /home/warranty/build/release
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/Serialization.dir/depend.make
@@ -59,16 +59,16 @@ include src/CMakeFiles/Serialization.dir/flags.make
 
 src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o: src/CMakeFiles/Serialization.dir/flags.make
 src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o: ../../src/Serialization/BinaryInputStreamSerializer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/BinaryInputStreamSerializer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o -c /home/warranty/src/Serialization/BinaryInputStreamSerializer.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/BinaryInputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Serialization/BinaryInputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.i
 
 src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/BinaryInputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Serialization/BinaryInputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.s
 
 src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o.requires:
 
@@ -83,16 +83,16 @@ src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o
 
 src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o: src/CMakeFiles/Serialization.dir/flags.make
 src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o: ../../src/Serialization/BinaryOutputStreamSerializer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/BinaryOutputStreamSerializer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o -c /home/warranty/src/Serialization/BinaryOutputStreamSerializer.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/BinaryOutputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Serialization/BinaryOutputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.i
 
 src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/BinaryOutputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Serialization/BinaryOutputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.s
 
 src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o.requires:
 
@@ -107,16 +107,16 @@ src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o: src/CMakeFiles/Serialization.dir/flags.make
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o: ../../src/Serialization/JsonInputStreamSerializer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonInputStreamSerializer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o -c /home/warranty/src/Serialization/JsonInputStreamSerializer.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonInputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Serialization/JsonInputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.i
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonInputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Serialization/JsonInputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.s
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o.requires:
 
@@ -131,16 +131,16 @@ src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o.p
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o: src/CMakeFiles/Serialization.dir/flags.make
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o: ../../src/Serialization/JsonInputValueSerializer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonInputValueSerializer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o -c /home/warranty/src/Serialization/JsonInputValueSerializer.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonInputValueSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Serialization/JsonInputValueSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.i
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonInputValueSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Serialization/JsonInputValueSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.s
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o.requires:
 
@@ -155,16 +155,16 @@ src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o.pr
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o: src/CMakeFiles/Serialization.dir/flags.make
 src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o: ../../src/Serialization/JsonOutputStreamSerializer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonOutputStreamSerializer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o -c /home/warranty/src/Serialization/JsonOutputStreamSerializer.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonOutputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Serialization/JsonOutputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.i
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/JsonOutputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Serialization/JsonOutputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.s
 
 src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o.requires:
 
@@ -179,16 +179,16 @@ src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o.
 
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o: src/CMakeFiles/Serialization.dir/flags.make
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o: ../../src/Serialization/KVBinaryInputStreamSerializer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/KVBinaryInputStreamSerializer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o -c /home/warranty/src/Serialization/KVBinaryInputStreamSerializer.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/KVBinaryInputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Serialization/KVBinaryInputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.i
 
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/KVBinaryInputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Serialization/KVBinaryInputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.s
 
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o.requires:
 
@@ -203,16 +203,16 @@ src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o: src/CMakeFiles/Serialization.dir/flags.make
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o: ../../src/Serialization/KVBinaryOutputStreamSerializer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/KVBinaryOutputStreamSerializer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o -c /home/warranty/src/Serialization/KVBinaryOutputStreamSerializer.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/KVBinaryOutputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Serialization/KVBinaryOutputStreamSerializer.cpp > CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.i
 
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/KVBinaryOutputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Serialization/KVBinaryOutputStreamSerializer.cpp -o CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.s
 
 src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o.requires:
 
@@ -227,16 +227,16 @@ src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cp
 
 src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o: src/CMakeFiles/Serialization.dir/flags.make
 src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o: ../../src/Serialization/MemoryStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/MemoryStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o -c /home/warranty/src/Serialization/MemoryStream.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/MemoryStream.cpp > CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Serialization/MemoryStream.cpp > CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.i
 
 src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/MemoryStream.cpp -o CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Serialization/MemoryStream.cpp -o CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.s
 
 src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o.requires:
 
@@ -251,16 +251,16 @@ src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o.provides.build
 
 src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o: src/CMakeFiles/Serialization.dir/flags.make
 src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o: ../../src/Serialization/SerializationOverloads.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/SerializationOverloads.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o -c /home/warranty/src/Serialization/SerializationOverloads.cpp
 
 src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/SerializationOverloads.cpp > CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/Serialization/SerializationOverloads.cpp > CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.i
 
 src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Serialization/SerializationOverloads.cpp -o CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/Serialization/SerializationOverloads.cpp -o CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.s
 
 src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o.requires:
 
@@ -299,9 +299,9 @@ src/libSerialization.a: src/CMakeFiles/Serialization.dir/Serialization/MemoryStr
 src/libSerialization.a: src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o
 src/libSerialization.a: src/CMakeFiles/Serialization.dir/build.make
 src/libSerialization.a: src/CMakeFiles/Serialization.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX static library libSerialization.a"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Serialization.dir/cmake_clean_target.cmake
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Serialization.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX static library libSerialization.a"
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Serialization.dir/cmake_clean_target.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Serialization.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/Serialization.dir/build: src/libSerialization.a
@@ -321,10 +321,10 @@ src/CMakeFiles/Serialization.dir/requires: src/CMakeFiles/Serialization.dir/Seri
 .PHONY : src/CMakeFiles/Serialization.dir/requires
 
 src/CMakeFiles/Serialization.dir/clean:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Serialization.dir/cmake_clean.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Serialization.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/Serialization.dir/clean
 
 src/CMakeFiles/Serialization.dir/depend:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/warranty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/warranty /home/warranty/src /home/warranty/build/release /home/warranty/build/release/src /home/warranty/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/Serialization.dir/depend
 

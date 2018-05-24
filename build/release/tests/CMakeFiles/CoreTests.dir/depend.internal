@@ -82,14 +82,14 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BlockReward.cpp
+ /home/warranty/tests/CoreTests/BlockReward.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -170,16 +170,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BlockValidation.cpp
+ /home/warranty/tests/CoreTests/BlockValidation.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/TestGenerator.h
+ /home/warranty/tests/CoreTests/TransactionBuilder.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -260,14 +260,14 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/ChainSplit1.cpp
+ /home/warranty/tests/CoreTests/ChainSplit1.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -348,14 +348,14 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/ChainSwitch1.cpp
+ /home/warranty/tests/CoreTests/ChainSwitch1.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -436,13 +436,13 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.cpp
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -523,14 +523,14 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/Chaingen001.cpp
+ /home/warranty/tests/CoreTests/Chaingen001.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -611,29 +611,29 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChaingenMain.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionTests.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/double_spend.inl
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BlockReward.h
+ /home/warranty/tests/CoreTests/BlockValidation.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/ChainSplit1.h
+ /home/warranty/tests/CoreTests/ChainSwitch1.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/Chaingen001.h
+ /home/warranty/tests/CoreTests/ChaingenMain.cpp
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/Deposit.h
+ /home/warranty/tests/CoreTests/DoubleSpend.h
+ /home/warranty/tests/CoreTests/IntegerOverflow.h
+ /home/warranty/tests/CoreTests/RandomOuts.h
+ /home/warranty/tests/CoreTests/RingSignature.h
+ /home/warranty/tests/CoreTests/TestGenerator.h
+ /home/warranty/tests/CoreTests/TransactionBuilder.h
+ /home/warranty/tests/CoreTests/TransactionTests.h
+ /home/warranty/tests/CoreTests/TransactionValidation.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/CoreTests/Upgrade.h
+ /home/warranty/tests/CoreTests/double_spend.inl
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -716,16 +716,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/Deposit.cpp
+ /home/warranty/tests/CoreTests/Deposit.h
+ /home/warranty/tests/CoreTests/TestGenerator.h
+ /home/warranty/tests/CoreTests/TransactionBuilder.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -806,17 +806,17 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/double_spend.inl
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/DoubleSpend.cpp
+ /home/warranty/tests/CoreTests/DoubleSpend.h
+ /home/warranty/tests/CoreTests/TestGenerator.h
+ /home/warranty/tests/CoreTests/TransactionBuilder.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/CoreTests/double_spend.inl
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -897,14 +897,14 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/IntegerOverflow.cpp
+ /home/warranty/tests/CoreTests/IntegerOverflow.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -987,16 +987,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/RandomOuts.cpp
+ /home/warranty/tests/CoreTests/RandomOuts.h
+ /home/warranty/tests/CoreTests/TestGenerator.h
+ /home/warranty/tests/CoreTests/TransactionBuilder.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -1077,14 +1077,14 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/RingSignature.cpp
+ /home/warranty/tests/CoreTests/RingSignature.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -1118,8 +1118,8 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
+ /home/warranty/tests/CoreTests/TransactionBuilder.cpp
+ /home/warranty/tests/CoreTests/TransactionBuilder.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -1201,13 +1201,13 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionTests.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/TransactionTests.cpp
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -1288,16 +1288,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/TestGenerator.h
+ /home/warranty/tests/CoreTests/TransactionBuilder.h
+ /home/warranty/tests/CoreTests/TransactionValidation.cpp
+ /home/warranty/tests/CoreTests/TransactionValidation.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h
 tests/CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -1378,13 +1378,13 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+ /home/warranty/tests/CoreTests/AccountBoostSerialization.h
+ /home/warranty/tests/CoreTests/BoostSerializationHelper.h
+ /home/warranty/tests/CoreTests/Chaingen.h
+ /home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
+ /home/warranty/tests/CoreTests/TestGenerator.h
+ /home/warranty/tests/CoreTests/TransactionBuilder.h
+ /home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+ /home/warranty/tests/CoreTests/Upgrade.cpp
+ /home/warranty/tests/CoreTests/Upgrade.h
+ /home/warranty/tests/TestGenerator/TestGenerator.h

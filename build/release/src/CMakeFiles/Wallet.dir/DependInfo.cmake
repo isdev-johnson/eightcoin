@@ -4,21 +4,21 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/LegacyKeysImporter.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/Wallet/LegacyKeysImporter.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletAsyncContextCounter.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletAsyncContextCounter.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletErrors.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletErrors.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletGreen.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletGreen.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletRpcServer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletRpcServer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletSerialization.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletSerialization.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletUtils.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletUtils.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/KeysStorage.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/KeysStorage.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletHelper.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletHelper.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletLegacy.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacy.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletLegacySerialization.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerialization.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletLegacySerializer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerializer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletTransactionSender.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletTransactionSender.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletUnconfirmedTransactions.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUnconfirmedTransactions.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletUserTransactionsCache.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUserTransactionsCache.cpp.o"
+  "/home/warranty/src/Wallet/LegacyKeysImporter.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/Wallet/LegacyKeysImporter.cpp.o"
+  "/home/warranty/src/Wallet/WalletAsyncContextCounter.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletAsyncContextCounter.cpp.o"
+  "/home/warranty/src/Wallet/WalletErrors.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletErrors.cpp.o"
+  "/home/warranty/src/Wallet/WalletGreen.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletGreen.cpp.o"
+  "/home/warranty/src/Wallet/WalletRpcServer.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletRpcServer.cpp.o"
+  "/home/warranty/src/Wallet/WalletSerialization.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletSerialization.cpp.o"
+  "/home/warranty/src/Wallet/WalletUtils.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletUtils.cpp.o"
+  "/home/warranty/src/WalletLegacy/KeysStorage.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/KeysStorage.cpp.o"
+  "/home/warranty/src/WalletLegacy/WalletHelper.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletHelper.cpp.o"
+  "/home/warranty/src/WalletLegacy/WalletLegacy.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacy.cpp.o"
+  "/home/warranty/src/WalletLegacy/WalletLegacySerialization.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerialization.cpp.o"
+  "/home/warranty/src/WalletLegacy/WalletLegacySerializer.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerializer.cpp.o"
+  "/home/warranty/src/WalletLegacy/WalletTransactionSender.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletTransactionSender.cpp.o"
+  "/home/warranty/src/WalletLegacy/WalletUnconfirmedTransactions.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUnconfirmedTransactions.cpp.o"
+  "/home/warranty/src/WalletLegacy/WalletUserTransactionsCache.cpp" "/home/warranty/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUserTransactionsCache.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

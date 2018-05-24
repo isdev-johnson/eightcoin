@@ -1578,9 +1578,9 @@ hash-ops.h
 stddef.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/BaseFunctionalTests.cpp
+/home/warranty/tests/IntegrationTestLib/BaseFunctionalTests.cpp
 BaseFunctionalTests.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/BaseFunctionalTests.h
+/home/warranty/tests/IntegrationTestLib/BaseFunctionalTests.h
 vector
 -
 thread
@@ -1604,19 +1604,19 @@ System/Timer.h
 System/InterruptedException.h
 -
 P2p/NetNodeConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/P2p/NetNodeConfig.h
+/home/warranty/tests/IntegrationTestLib/P2p/NetNodeConfig.h
 CryptoNoteCore/CoreConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteCore/CoreConfig.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteCore/CoreConfig.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteCore/CryptoNoteTools.h
 WalletLegacy/WalletLegacy.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/WalletLegacy/WalletLegacy.h
+/home/warranty/tests/IntegrationTestLib/WalletLegacy/WalletLegacy.h
 Logger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Logger.h
+/home/warranty/tests/IntegrationTestLib/Logger.h
 InProcTestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcTestNode.h
+/home/warranty/tests/IntegrationTestLib/InProcTestNode.h
 RPCTestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/RPCTestNode.h
+/home/warranty/tests/IntegrationTestLib/RPCTestNode.h
 sys/wait.h
 -
 unistd.h
@@ -1624,7 +1624,7 @@ unistd.h
 errno.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/BaseFunctionalTests.h
+/home/warranty/tests/IntegrationTestLib/BaseFunctionalTests.h
 list
 -
 vector
@@ -1646,19 +1646,19 @@ System/Dispatcher.h
 Logging/ConsoleLogger.h
 -
 CryptoNoteCore/Currency.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteCore/Currency.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteCore/Currency.h
 IWalletLegacy.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/IWalletLegacy.h
+/home/warranty/tests/IntegrationTestLib/IWalletLegacy.h
 INode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/INode.h
+/home/warranty/tests/IntegrationTestLib/INode.h
 TestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNode.h
+/home/warranty/tests/IntegrationTestLib/TestNode.h
 NetworkConfiguration.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NetworkConfiguration.h
+/home/warranty/tests/IntegrationTestLib/NetworkConfiguration.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcTestNode.cpp
+/home/warranty/tests/IntegrationTestLib/InProcTestNode.cpp
 InProcTestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcTestNode.h
+/home/warranty/tests/IntegrationTestLib/InProcTestNode.h
 future
 -
 Common/StringTools.h
@@ -1666,23 +1666,23 @@ Common/StringTools.h
 Logging/ConsoleLogger.h
 -
 CryptoNoteCore/Core.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteCore/Core.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteCore/Core.h
 CryptoNoteCore/CoreConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteCore/CoreConfig.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteCore/CoreConfig.h
 CryptoNoteCore/Miner.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteCore/Miner.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteCore/Miner.h
 CryptoNoteProtocol/CryptoNoteProtocolHandler.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteProtocol/CryptoNoteProtocolHandler.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteProtocol/CryptoNoteProtocolHandler.h
 P2p/NetNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/P2p/NetNode.h
+/home/warranty/tests/IntegrationTestLib/P2p/NetNode.h
 InProcessNode/InProcessNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcessNode/InProcessNode.h
+/home/warranty/tests/IntegrationTestLib/InProcessNode/InProcessNode.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcTestNode.h
+/home/warranty/tests/IntegrationTestLib/InProcTestNode.h
 TestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNode.h
+/home/warranty/tests/IntegrationTestLib/TestNode.h
 NetworkConfiguration.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NetworkConfiguration.h
+/home/warranty/tests/IntegrationTestLib/NetworkConfiguration.h
 future
 -
 memory
@@ -1692,15 +1692,15 @@ thread
 System/Dispatcher.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Logger.cpp
+/home/warranty/tests/IntegrationTestLib/Logger.cpp
 Logger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Logger.h
+/home/warranty/tests/IntegrationTestLib/Logger.h
 algorithm
 -
 boost/date_time.hpp
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Logger.h
+/home/warranty/tests/IntegrationTestLib/Logger.h
 iostream
 -
 boost/lexical_cast.hpp
@@ -1710,7 +1710,7 @@ map
 mutex
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NetworkConfiguration.h
+/home/warranty/tests/IntegrationTestLib/NetworkConfiguration.h
 cstdint
 -
 string
@@ -1718,15 +1718,15 @@ string
 vector
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NodeCallback.h
+/home/warranty/tests/IntegrationTestLib/NodeCallback.h
 future
 -
 INode.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Process.cpp
+/home/warranty/tests/IntegrationTestLib/Process.cpp
 Process.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Process.h
+/home/warranty/tests/IntegrationTestLib/Process.h
 cstdlib
 -
 sstream
@@ -1740,15 +1740,15 @@ unistd.h
 errno.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Process.h
+/home/warranty/tests/IntegrationTestLib/Process.h
 string
 -
 vector
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/RPCTestNode.cpp
+/home/warranty/tests/IntegrationTestLib/RPCTestNode.cpp
 RPCTestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/RPCTestNode.h
+/home/warranty/tests/IntegrationTestLib/RPCTestNode.h
 future
 -
 vector
@@ -1756,79 +1756,79 @@ vector
 thread
 -
 Common/StringTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Common/StringTools.h
+/home/warranty/tests/IntegrationTestLib/Common/StringTools.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteCore/CryptoNoteTools.h
 NodeRpcProxy/NodeRpcProxy.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NodeRpcProxy/NodeRpcProxy.h
+/home/warranty/tests/IntegrationTestLib/NodeRpcProxy/NodeRpcProxy.h
 Rpc/CoreRpcServerCommandsDefinitions.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Rpc/CoreRpcServerCommandsDefinitions.h
+/home/warranty/tests/IntegrationTestLib/Rpc/CoreRpcServerCommandsDefinitions.h
 Rpc/HttpClient.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Rpc/HttpClient.h
+/home/warranty/tests/IntegrationTestLib/Rpc/HttpClient.h
 Rpc/JsonRpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Rpc/JsonRpc.h
+/home/warranty/tests/IntegrationTestLib/Rpc/JsonRpc.h
 Logger.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Logger.h
+/home/warranty/tests/IntegrationTestLib/Logger.h
 NodeCallback.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NodeCallback.h
+/home/warranty/tests/IntegrationTestLib/NodeCallback.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/RPCTestNode.h
+/home/warranty/tests/IntegrationTestLib/RPCTestNode.h
 stdint.h
 -
 System/Dispatcher.h
 -
 HTTP/HttpRequest.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/HTTP/HttpRequest.h
+/home/warranty/tests/IntegrationTestLib/HTTP/HttpRequest.h
 HTTP/HttpResponse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/HTTP/HttpResponse.h
+/home/warranty/tests/IntegrationTestLib/HTTP/HttpResponse.h
 Rpc/HttpClient.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Rpc/HttpClient.h
+/home/warranty/tests/IntegrationTestLib/Rpc/HttpClient.h
 TestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNode.h
+/home/warranty/tests/IntegrationTestLib/TestNode.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNetwork.cpp
+/home/warranty/tests/IntegrationTestLib/TestNetwork.cpp
 TestNetwork.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNetwork.h
+/home/warranty/tests/IntegrationTestLib/TestNetwork.h
 fstream
 -
 boost/filesystem.hpp
 -
 CryptoNoteConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteConfig.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteConfig.h
 InProcTestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcTestNode.h
+/home/warranty/tests/IntegrationTestLib/InProcTestNode.h
 RPCTestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/RPCTestNode.h
+/home/warranty/tests/IntegrationTestLib/RPCTestNode.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNetwork.h
+/home/warranty/tests/IntegrationTestLib/TestNetwork.h
 NetworkConfiguration.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NetworkConfiguration.h
+/home/warranty/tests/IntegrationTestLib/NetworkConfiguration.h
 Process.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Process.h
+/home/warranty/tests/IntegrationTestLib/Process.h
 TestNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNode.h
+/home/warranty/tests/IntegrationTestLib/TestNode.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNode.h
+/home/warranty/tests/IntegrationTestLib/TestNode.h
 system_error
 -
 INode.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestWalletLegacy.cpp
+/home/warranty/tests/IntegrationTestLib/TestWalletLegacy.cpp
 TestWalletLegacy.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestWalletLegacy.h
+/home/warranty/tests/IntegrationTestLib/TestWalletLegacy.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestWalletLegacy.h
+/home/warranty/tests/IntegrationTestLib/TestWalletLegacy.h
 CryptoNoteCore/Currency.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/CryptoNoteCore/Currency.h
+/home/warranty/tests/IntegrationTestLib/CryptoNoteCore/Currency.h
 INode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/INode.h
+/home/warranty/tests/IntegrationTestLib/INode.h
 IWalletLegacy.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/IWalletLegacy.h
+/home/warranty/tests/IntegrationTestLib/IWalletLegacy.h
 System/Dispatcher.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/System/Dispatcher.h
+/home/warranty/tests/IntegrationTestLib/System/Dispatcher.h
 System/Event.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/System/Event.h
+/home/warranty/tests/IntegrationTestLib/System/Event.h
 WalletLegacy/WalletLegacy.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/WalletLegacy/WalletLegacy.h
+/home/warranty/tests/IntegrationTestLib/WalletLegacy/WalletLegacy.h
 

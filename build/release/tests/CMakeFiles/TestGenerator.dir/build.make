@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
+CMAKE_SOURCE_DIR = /home/warranty
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+CMAKE_BINARY_DIR = /home/warranty/build/release
 
 # Include any dependencies generated for this target.
 include tests/CMakeFiles/TestGenerator.dir/depend.make
@@ -59,16 +59,16 @@ include tests/CMakeFiles/TestGenerator.dir/flags.make
 
 tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o: tests/CMakeFiles/TestGenerator.dir/flags.make
 tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o: ../../tests/TestGenerator/TestGenerator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o -c /home/warranty/tests/TestGenerator/TestGenerator.cpp
 
 tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.cpp > CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/TestGenerator/TestGenerator.cpp > CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.i
 
 tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.cpp -o CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/TestGenerator/TestGenerator.cpp -o CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.s
 
 tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o.requires:
 
@@ -91,9 +91,9 @@ TestGenerator_EXTERNAL_OBJECTS =
 tests/libTestGenerator.a: tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o
 tests/libTestGenerator.a: tests/CMakeFiles/TestGenerator.dir/build.make
 tests/libTestGenerator.a: tests/CMakeFiles/TestGenerator.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libTestGenerator.a"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && $(CMAKE_COMMAND) -P CMakeFiles/TestGenerator.dir/cmake_clean_target.cmake
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TestGenerator.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libTestGenerator.a"
+	cd /home/warranty/build/release/tests && $(CMAKE_COMMAND) -P CMakeFiles/TestGenerator.dir/cmake_clean_target.cmake
+	cd /home/warranty/build/release/tests && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TestGenerator.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 tests/CMakeFiles/TestGenerator.dir/build: tests/libTestGenerator.a
@@ -105,10 +105,10 @@ tests/CMakeFiles/TestGenerator.dir/requires: tests/CMakeFiles/TestGenerator.dir/
 .PHONY : tests/CMakeFiles/TestGenerator.dir/requires
 
 tests/CMakeFiles/TestGenerator.dir/clean:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && $(CMAKE_COMMAND) -P CMakeFiles/TestGenerator.dir/cmake_clean.cmake
+	cd /home/warranty/build/release/tests && $(CMAKE_COMMAND) -P CMakeFiles/TestGenerator.dir/cmake_clean.cmake
 .PHONY : tests/CMakeFiles/TestGenerator.dir/clean
 
 tests/CMakeFiles/TestGenerator.dir/depend:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/TestGenerator.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/warranty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/warranty /home/warranty/tests /home/warranty/build/release /home/warranty/build/release/tests /home/warranty/build/release/tests/CMakeFiles/TestGenerator.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : tests/CMakeFiles/TestGenerator.dir/depend
 

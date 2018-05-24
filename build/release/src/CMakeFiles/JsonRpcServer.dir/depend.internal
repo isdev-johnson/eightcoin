@@ -22,5 +22,5 @@ src/CMakeFiles/JsonRpcServer.dir/JsonRpcServer/JsonRpcServer.cpp.o
  ../../src/System/Event.h
  ../../src/System/Ipv4Address.h
  ../../src/System/TcpStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/JsonRpcServer.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/JsonRpcServer/JsonRpcServer.h
+ /home/warranty/src/JsonRpcServer/JsonRpcServer.cpp
+ /home/warranty/src/JsonRpcServer/JsonRpcServer.h

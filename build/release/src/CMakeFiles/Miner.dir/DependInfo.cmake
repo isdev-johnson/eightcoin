@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/BlockchainMonitor.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Miner.dir/Miner/BlockchainMonitor.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/Miner.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Miner.dir/Miner/Miner.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MinerManager.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Miner.dir/Miner/MinerManager.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/MiningConfig.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Miner.dir/Miner/MiningConfig.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Miner/main.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Miner.dir/Miner/main.cpp.o"
+  "/home/warranty/src/Miner/BlockchainMonitor.cpp" "/home/warranty/build/release/src/CMakeFiles/Miner.dir/Miner/BlockchainMonitor.cpp.o"
+  "/home/warranty/src/Miner/Miner.cpp" "/home/warranty/build/release/src/CMakeFiles/Miner.dir/Miner/Miner.cpp.o"
+  "/home/warranty/src/Miner/MinerManager.cpp" "/home/warranty/build/release/src/CMakeFiles/Miner.dir/Miner/MinerManager.cpp.o"
+  "/home/warranty/src/Miner/MiningConfig.cpp" "/home/warranty/build/release/src/CMakeFiles/Miner.dir/Miner/MiningConfig.cpp.o"
+  "/home/warranty/src/Miner/main.cpp" "/home/warranty/build/release/src/CMakeFiles/Miner.dir/Miner/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -29,14 +29,14 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/System.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake"
+  "/home/warranty/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

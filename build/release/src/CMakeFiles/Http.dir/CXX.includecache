@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParser.cpp
+/home/warranty/src/HTTP/HttpParser.cpp
 HttpParser.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParser.h
+/home/warranty/src/HTTP/HttpParser.h
 algorithm
 -
 HttpParserErrorCodes.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParserErrorCodes.h
+/home/warranty/src/HTTP/HttpParserErrorCodes.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParser.h
+/home/warranty/src/HTTP/HttpParser.h
 iostream
 -
 map
@@ -22,25 +22,25 @@ map
 string
 -
 HttpRequest.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpRequest.h
+/home/warranty/src/HTTP/HttpRequest.h
 HttpResponse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpResponse.h
+/home/warranty/src/HTTP/HttpResponse.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParserErrorCodes.cpp
+/home/warranty/src/HTTP/HttpParserErrorCodes.cpp
 HttpParserErrorCodes.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParserErrorCodes.h
+/home/warranty/src/HTTP/HttpParserErrorCodes.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParserErrorCodes.h
+/home/warranty/src/HTTP/HttpParserErrorCodes.h
 string
 -
 system_error
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpRequest.cpp
+/home/warranty/src/HTTP/HttpRequest.cpp
 HttpRequest.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpRequest.h
+/home/warranty/src/HTTP/HttpRequest.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpRequest.h
+/home/warranty/src/HTTP/HttpRequest.h
 iostream
 -
 map
@@ -48,13 +48,13 @@ map
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpResponse.cpp
+/home/warranty/src/HTTP/HttpResponse.cpp
 HttpResponse.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpResponse.h
+/home/warranty/src/HTTP/HttpResponse.h
 stdexcept
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpResponse.h
+/home/warranty/src/HTTP/HttpResponse.h
 ostream
 -
 string

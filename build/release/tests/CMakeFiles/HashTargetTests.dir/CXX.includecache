@@ -66,7 +66,7 @@ generic-ops.h
 hash-ops.h
 ../../src/crypto/hash-ops.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/HashTarget.cpp
+/home/warranty/tests/HashTarget.cpp
 cstdint
 -
 cstdlib
@@ -76,7 +76,7 @@ cstring
 limits
 -
 crypto/hash.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/crypto/hash.h
+/home/warranty/tests/crypto/hash.h
 CryptoNoteCore/Difficulty.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CryptoNoteCore/Difficulty.h
+/home/warranty/tests/CryptoNoteCore/Difficulty.h
 

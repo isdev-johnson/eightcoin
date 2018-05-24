@@ -840,39 +840,39 @@ hash-ops.h
 stddef.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
+/home/warranty/tests/CoreTests/AccountBoostSerialization.h
 CryptoNoteCore/Account.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Account.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Account.h
 CryptoNoteBoostSerialization.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
+/home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.cpp
+/home/warranty/tests/CoreTests/BlockReward.cpp
 BlockReward.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.h
+/home/warranty/tests/CoreTests/BlockReward.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
 Common/Math.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.h
+/home/warranty/tests/CoreTests/BlockReward.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.cpp
+/home/warranty/tests/CoreTests/BlockValidation.cpp
 BlockValidation.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.h
+/home/warranty/tests/CoreTests/BlockValidation.h
 TestGenerator.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
+/home/warranty/tests/CoreTests/TestGenerator.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
 Common/StringTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Common/StringTools.h
+/home/warranty/tests/CoreTests/Common/StringTools.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.h
+/home/warranty/tests/CoreTests/BlockValidation.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
+/home/warranty/tests/CoreTests/BoostSerializationHelper.h
 fstream
 -
 memory
@@ -884,25 +884,25 @@ boost/archive/binary_oarchive.hpp
 boost/archive/binary_iarchive.hpp
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.cpp
+/home/warranty/tests/CoreTests/ChainSplit1.cpp
 ChainSplit1.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.h
+/home/warranty/tests/CoreTests/ChainSplit1.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.h
+/home/warranty/tests/CoreTests/ChainSplit1.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.cpp
+/home/warranty/tests/CoreTests/ChainSwitch1.cpp
 ChainSwitch1.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.h
+/home/warranty/tests/CoreTests/ChainSwitch1.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.h
+/home/warranty/tests/CoreTests/ChainSwitch1.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.cpp
+/home/warranty/tests/CoreTests/Chaingen.cpp
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 vector
 -
 iostream
@@ -916,93 +916,93 @@ boost/archive/binary_iarchive.hpp
 boost/program_options.hpp
 -
 Common/CommandLine.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Common/CommandLine.h
+/home/warranty/tests/CoreTests/Common/CommandLine.h
 CryptoNoteCore/CryptoNoteBasic.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteBasic.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteBasic.h
 CryptoNoteCore/CryptoNoteBasicImpl.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteBasicImpl.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteBasicImpl.h
 CryptoNoteCore/CryptoNoteFormatUtils.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteFormatUtils.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteFormatUtils.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
 CryptoNoteCore/Core.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Core.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Core.h
 CryptoNoteCore/Currency.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Currency.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Currency.h
 CryptoNoteCore/UpgradeDetector.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/UpgradeDetector.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/UpgradeDetector.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 boost/program_options.hpp
 -
 boost/serialization/variant.hpp
 -
 CryptoNoteCore/CoreConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CoreConfig.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CoreConfig.h
 Common/CommandLine.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Common/CommandLine.h
+/home/warranty/tests/CoreTests/Common/CommandLine.h
 Common/ConsoleTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Common/ConsoleTools.h
+/home/warranty/tests/CoreTests/Common/ConsoleTools.h
 CryptoNoteCore/Account.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Account.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Account.h
 CryptoNoteCore/Core.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Core.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Core.h
 CryptoNoteCore/TransactionExtra.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/TransactionExtra.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/TransactionExtra.h
 ../TestGenerator/TestGenerator.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+/home/warranty/tests/TestGenerator/TestGenerator.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
 BoostSerializationHelper.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BoostSerializationHelper.h
+/home/warranty/tests/CoreTests/BoostSerializationHelper.h
 AccountBoostSerialization.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/AccountBoostSerialization.h
+/home/warranty/tests/CoreTests/AccountBoostSerialization.h
 Logging/LoggerGroup.h
 -
 Logging/ConsoleLogger.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.cpp
+/home/warranty/tests/CoreTests/Chaingen001.cpp
 Chaingen001.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.h
+/home/warranty/tests/CoreTests/Chaingen001.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.h
+/home/warranty/tests/CoreTests/Chaingen001.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChaingenMain.cpp
+/home/warranty/tests/CoreTests/ChaingenMain.cpp
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 Common/CommandLine.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Common/CommandLine.h
+/home/warranty/tests/CoreTests/Common/CommandLine.h
 BlockReward.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.h
+/home/warranty/tests/CoreTests/BlockReward.h
 BlockValidation.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.h
+/home/warranty/tests/CoreTests/BlockValidation.h
 ChainSplit1.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.h
+/home/warranty/tests/CoreTests/ChainSplit1.h
 ChainSwitch1.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.h
+/home/warranty/tests/CoreTests/ChainSwitch1.h
 Chaingen001.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.h
+/home/warranty/tests/CoreTests/Chaingen001.h
 DoubleSpend.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.h
+/home/warranty/tests/CoreTests/DoubleSpend.h
 IntegerOverflow.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.h
+/home/warranty/tests/CoreTests/IntegerOverflow.h
 RingSignature.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.h
+/home/warranty/tests/CoreTests/RingSignature.h
 TransactionTests.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionTests.h
+/home/warranty/tests/CoreTests/TransactionTests.h
 TransactionValidation.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.h
+/home/warranty/tests/CoreTests/TransactionValidation.h
 Upgrade.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.h
+/home/warranty/tests/CoreTests/Upgrade.h
 RandomOuts.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.h
+/home/warranty/tests/CoreTests/RandomOuts.h
 Deposit.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.h
+/home/warranty/tests/CoreTests/Deposit.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteBoostSerialization.h
+/home/warranty/tests/CoreTests/CryptoNoteBoostSerialization.h
 boost/serialization/vector.hpp
 -
 boost/serialization/utility.hpp
@@ -1018,15 +1018,15 @@ boost/foreach.hpp
 boost/serialization/is_bitwise_serializable.hpp
 -
 CryptoNoteCore/CryptoNoteBasic.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteBasic.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteBasic.h
 UnorderedContainersBoostSerialization.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+/home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
 crypto/crypto.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/crypto/crypto.h
+/home/warranty/tests/CoreTests/crypto/crypto.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.cpp
+/home/warranty/tests/CoreTests/Deposit.cpp
 Deposit.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.h
+/home/warranty/tests/CoreTests/Deposit.h
 CryptoNoteConfig.h
 -
 CryptoNoteCore/TransactionApi.h
@@ -1034,15 +1034,15 @@ CryptoNoteCore/TransactionApi.h
 ITransaction.h
 -
 TransactionBuilder.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
+/home/warranty/tests/CoreTests/TransactionBuilder.h
 cstring
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.h
+/home/warranty/tests/CoreTests/Deposit.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 TestGenerator.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
+/home/warranty/tests/CoreTests/TestGenerator.h
 CryptoNoteCore/CryptoNoteBasic.h
 -
 CryptoNoteCore/Currency.h
@@ -1050,105 +1050,105 @@ CryptoNoteCore/Currency.h
 Logging/ConsoleLogger.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.cpp
+/home/warranty/tests/CoreTests/DoubleSpend.cpp
 DoubleSpend.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.h
+/home/warranty/tests/CoreTests/DoubleSpend.h
 TestGenerator.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
+/home/warranty/tests/CoreTests/TestGenerator.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.h
+/home/warranty/tests/CoreTests/DoubleSpend.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 TransactionBuilder.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
+/home/warranty/tests/CoreTests/TransactionBuilder.h
 double_spend.inl
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/double_spend.inl
+/home/warranty/tests/CoreTests/double_spend.inl
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.cpp
+/home/warranty/tests/CoreTests/IntegerOverflow.cpp
 IntegerOverflow.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.h
+/home/warranty/tests/CoreTests/IntegerOverflow.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.h
+/home/warranty/tests/CoreTests/IntegerOverflow.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.cpp
+/home/warranty/tests/CoreTests/RandomOuts.cpp
 RandomOuts.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.h
+/home/warranty/tests/CoreTests/RandomOuts.h
 TestGenerator.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
+/home/warranty/tests/CoreTests/TestGenerator.h
 Rpc/CoreRpcServerCommandsDefinitions.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Rpc/CoreRpcServerCommandsDefinitions.h
+/home/warranty/tests/CoreTests/Rpc/CoreRpcServerCommandsDefinitions.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.h
+/home/warranty/tests/CoreTests/RandomOuts.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.cpp
+/home/warranty/tests/CoreTests/RingSignature.cpp
 RingSignature.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.h
+/home/warranty/tests/CoreTests/RingSignature.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.h
+/home/warranty/tests/CoreTests/RingSignature.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
+/home/warranty/tests/CoreTests/TestGenerator.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 CryptoNoteCore/Currency.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Currency.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Currency.h
 TransactionBuilder.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
+/home/warranty/tests/CoreTests/TransactionBuilder.h
 Logging/LoggerGroup.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.cpp
+/home/warranty/tests/CoreTests/TransactionBuilder.cpp
 TransactionBuilder.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
+/home/warranty/tests/CoreTests/TransactionBuilder.h
 CryptoNoteCore/TransactionExtra.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/TransactionExtra.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/TransactionExtra.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.h
+/home/warranty/tests/CoreTests/TransactionBuilder.h
 CryptoNoteCore/Account.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Account.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Account.h
 CryptoNoteCore/CryptoNoteFormatUtils.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteFormatUtils.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteFormatUtils.h
 CryptoNoteCore/Currency.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Currency.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Currency.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionTests.cpp
+/home/warranty/tests/CoreTests/TransactionTests.cpp
 CryptoNoteCore/CryptoNoteBasicImpl.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteBasicImpl.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteBasicImpl.h
 CryptoNoteCore/Account.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Account.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Account.h
 CryptoNoteCore/CryptoNoteFormatUtils.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteFormatUtils.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteFormatUtils.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
 CryptoNoteCore/Currency.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/Currency.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/Currency.h
 Common/Math.h
 -
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionTests.h
+/home/warranty/tests/CoreTests/TransactionTests.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.cpp
+/home/warranty/tests/CoreTests/TransactionValidation.cpp
 TransactionValidation.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.h
+/home/warranty/tests/CoreTests/TransactionValidation.h
 TestGenerator.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
+/home/warranty/tests/CoreTests/TestGenerator.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/CoreTests/CryptoNoteCore/CryptoNoteTools.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.h
+/home/warranty/tests/CoreTests/TransactionValidation.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/UnorderedContainersBoostSerialization.h
+/home/warranty/tests/CoreTests/UnorderedContainersBoostSerialization.h
 boost/serialization/split_free.hpp
 -
 unordered_map
@@ -1156,23 +1156,23 @@ unordered_map
 unordered_set
 -
 google/sparse_hash_set
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/google/sparse_hash_set
+/home/warranty/tests/CoreTests/google/sparse_hash_set
 google/sparse_hash_map
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/google/sparse_hash_map
+/home/warranty/tests/CoreTests/google/sparse_hash_map
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.cpp
+/home/warranty/tests/CoreTests/Upgrade.cpp
 Upgrade.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.h
+/home/warranty/tests/CoreTests/Upgrade.h
 TestGenerator.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TestGenerator.h
+/home/warranty/tests/CoreTests/TestGenerator.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.h
+/home/warranty/tests/CoreTests/Upgrade.h
 Chaingen.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.h
+/home/warranty/tests/CoreTests/Chaingen.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/double_spend.inl
+/home/warranty/tests/CoreTests/double_spend.inl
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+/home/warranty/tests/TestGenerator/TestGenerator.h
 cstdint
 -
 list
@@ -1182,15 +1182,15 @@ vector
 unordered_map
 -
 crypto/hash.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/crypto/hash.h
+/home/warranty/tests/TestGenerator/crypto/hash.h
 CryptoNoteCore/CryptoNoteBasic.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/CryptoNoteBasic.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/CryptoNoteBasic.h
 CryptoNoteCore/CryptoNoteBasicImpl.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/CryptoNoteBasicImpl.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/CryptoNoteBasicImpl.h
 CryptoNoteCore/CryptoNoteFormatUtils.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/CryptoNoteFormatUtils.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/CryptoNoteFormatUtils.h
 CryptoNoteCore/Currency.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/Currency.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/Currency.h
 CryptoNoteCore/Difficulty.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/Difficulty.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/Difficulty.h
 

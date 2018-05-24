@@ -8,5 +8,5 @@ tests/CMakeFiles/HashTests.dir/Hash/main.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Hash/main.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Io.h
+ /home/warranty/tests/Hash/main.cpp
+ /home/warranty/tests/Io.h

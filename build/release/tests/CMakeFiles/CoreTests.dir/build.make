@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
+CMAKE_SOURCE_DIR = /home/warranty
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+CMAKE_BINARY_DIR = /home/warranty/build/release
 
 # Include any dependencies generated for this target.
 include tests/CMakeFiles/CoreTests.dir/depend.make
@@ -59,16 +59,16 @@ include tests/CMakeFiles/CoreTests.dir/flags.make
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o: ../../tests/CoreTests/BlockReward.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o -c /home/warranty/tests/CoreTests/BlockReward.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.cpp > CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/BlockReward.cpp > CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockReward.cpp -o CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/BlockReward.cpp -o CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o.requires:
 
@@ -83,16 +83,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o.provides.build: tests
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o: ../../tests/CoreTests/BlockValidation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o -c /home/warranty/tests/CoreTests/BlockValidation.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.cpp > CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/BlockValidation.cpp > CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/BlockValidation.cpp -o CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/BlockValidation.cpp -o CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o.requires:
 
@@ -107,16 +107,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o.provides.build: t
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o: ../../tests/CoreTests/Chaingen.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o -c /home/warranty/tests/CoreTests/Chaingen.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.cpp > CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/Chaingen.cpp > CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen.cpp -o CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/Chaingen.cpp -o CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o.requires:
 
@@ -131,16 +131,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o.provides.build: tests/CM
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o: ../../tests/CoreTests/Chaingen001.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o -c /home/warranty/tests/CoreTests/Chaingen001.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.cpp > CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/Chaingen001.cpp > CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Chaingen001.cpp -o CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/Chaingen001.cpp -o CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o.requires:
 
@@ -155,16 +155,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o.provides.build: tests
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o: ../../tests/CoreTests/ChaingenMain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChaingenMain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o -c /home/warranty/tests/CoreTests/ChaingenMain.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChaingenMain.cpp > CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/ChaingenMain.cpp > CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChaingenMain.cpp -o CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/ChaingenMain.cpp -o CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o.requires:
 
@@ -179,16 +179,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o.provides.build: test
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o: ../../tests/CoreTests/ChainSplit1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o -c /home/warranty/tests/CoreTests/ChainSplit1.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.cpp > CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/ChainSplit1.cpp > CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSplit1.cpp -o CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/ChainSplit1.cpp -o CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o.requires:
 
@@ -203,16 +203,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o.provides.build: tests
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o: ../../tests/CoreTests/ChainSwitch1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o -c /home/warranty/tests/CoreTests/ChainSwitch1.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.cpp > CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/ChainSwitch1.cpp > CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/ChainSwitch1.cpp -o CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/ChainSwitch1.cpp -o CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o.requires:
 
@@ -227,16 +227,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o.provides.build: test
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o: ../../tests/CoreTests/Deposit.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o -c /home/warranty/tests/CoreTests/Deposit.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.cpp > CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/Deposit.cpp > CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Deposit.cpp -o CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/Deposit.cpp -o CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o.requires:
 
@@ -251,16 +251,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/Deposit.cpp.o.provides.build: tests/CMa
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o: ../../tests/CoreTests/DoubleSpend.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o -c /home/warranty/tests/CoreTests/DoubleSpend.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.cpp > CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/DoubleSpend.cpp > CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/DoubleSpend.cpp -o CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/DoubleSpend.cpp -o CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o.requires:
 
@@ -275,16 +275,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o.provides.build: tests
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o: ../../tests/CoreTests/IntegerOverflow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o -c /home/warranty/tests/CoreTests/IntegerOverflow.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.cpp > CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/IntegerOverflow.cpp > CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/IntegerOverflow.cpp -o CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/IntegerOverflow.cpp -o CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o.requires:
 
@@ -299,16 +299,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o.provides.build: t
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o: ../../tests/CoreTests/RandomOuts.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o -c /home/warranty/tests/CoreTests/RandomOuts.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.cpp > CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/RandomOuts.cpp > CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RandomOuts.cpp -o CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/RandomOuts.cpp -o CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o.requires:
 
@@ -323,16 +323,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o.provides.build: tests/
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o: ../../tests/CoreTests/RingSignature.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o -c /home/warranty/tests/CoreTests/RingSignature.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.cpp > CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/RingSignature.cpp > CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/RingSignature.cpp -o CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/RingSignature.cpp -o CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o.requires:
 
@@ -347,16 +347,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o.provides.build: tes
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o: ../../tests/CoreTests/TransactionBuilder.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o -c /home/warranty/tests/CoreTests/TransactionBuilder.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.cpp > CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/TransactionBuilder.cpp > CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionBuilder.cpp -o CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/TransactionBuilder.cpp -o CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o.requires:
 
@@ -371,16 +371,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o.provides.build
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o: ../../tests/CoreTests/TransactionTests.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionTests.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o -c /home/warranty/tests/CoreTests/TransactionTests.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionTests.cpp > CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/TransactionTests.cpp > CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionTests.cpp -o CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/TransactionTests.cpp -o CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o.requires:
 
@@ -395,16 +395,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o.provides.build: 
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o: ../../tests/CoreTests/TransactionValidation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o -c /home/warranty/tests/CoreTests/TransactionValidation.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.cpp > CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/TransactionValidation.cpp > CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/TransactionValidation.cpp -o CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/TransactionValidation.cpp -o CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o.requires:
 
@@ -419,16 +419,16 @@ tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o.provides.bu
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.o: tests/CMakeFiles/CoreTests.dir/flags.make
 tests/CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.o: ../../tests/CoreTests/Upgrade.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object tests/CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.o"
+	cd /home/warranty/build/release/tests && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.o -c /home/warranty/tests/CoreTests/Upgrade.cpp
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.cpp > CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.i
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/tests/CoreTests/Upgrade.cpp > CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.i
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/CoreTests/Upgrade.cpp -o CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.s
+	cd /home/warranty/build/release/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/tests/CoreTests/Upgrade.cpp -o CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.s
 
 tests/CMakeFiles/CoreTests.dir/CoreTests/Upgrade.cpp.o.requires:
 
@@ -499,8 +499,8 @@ tests/core_tests: /usr/lib/x86_64-linux-gnu/libboost_program_options.so
 tests/core_tests: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
 tests/core_tests: /usr/lib/x86_64-linux-gnu/libpthread.so
 tests/core_tests: tests/CMakeFiles/CoreTests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable core_tests"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CoreTests.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable core_tests"
+	cd /home/warranty/build/release/tests && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CoreTests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 tests/CMakeFiles/CoreTests.dir/build: tests/core_tests
@@ -527,10 +527,10 @@ tests/CMakeFiles/CoreTests.dir/requires: tests/CMakeFiles/CoreTests.dir/CoreTest
 .PHONY : tests/CMakeFiles/CoreTests.dir/requires
 
 tests/CMakeFiles/CoreTests.dir/clean:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests && $(CMAKE_COMMAND) -P CMakeFiles/CoreTests.dir/cmake_clean.cmake
+	cd /home/warranty/build/release/tests && $(CMAKE_COMMAND) -P CMakeFiles/CoreTests.dir/cmake_clean.cmake
 .PHONY : tests/CMakeFiles/CoreTests.dir/clean
 
 tests/CMakeFiles/CoreTests.dir/depend:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/CoreTests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/warranty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/warranty /home/warranty/tests /home/warranty/build/release /home/warranty/build/release/tests /home/warranty/build/release/tests/CMakeFiles/CoreTests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : tests/CMakeFiles/CoreTests.dir/depend
 

@@ -87,13 +87,13 @@ tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/BaseFunctionalTes
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/BaseFunctionalTests.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/BaseFunctionalTests.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcTestNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Logger.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NetworkConfiguration.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/RPCTestNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNode.h
+ /home/warranty/tests/IntegrationTestLib/BaseFunctionalTests.cpp
+ /home/warranty/tests/IntegrationTestLib/BaseFunctionalTests.h
+ /home/warranty/tests/IntegrationTestLib/InProcTestNode.h
+ /home/warranty/tests/IntegrationTestLib/Logger.h
+ /home/warranty/tests/IntegrationTestLib/NetworkConfiguration.h
+ /home/warranty/tests/IntegrationTestLib/RPCTestNode.h
+ /home/warranty/tests/IntegrationTestLib/TestNode.h
 tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/InProcTestNode.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -199,16 +199,16 @@ tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/InProcTestNode.cp
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcTestNode.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcTestNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NetworkConfiguration.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNode.h
+ /home/warranty/tests/IntegrationTestLib/InProcTestNode.cpp
+ /home/warranty/tests/IntegrationTestLib/InProcTestNode.h
+ /home/warranty/tests/IntegrationTestLib/NetworkConfiguration.h
+ /home/warranty/tests/IntegrationTestLib/TestNode.h
 tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/Logger.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Logger.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Logger.h
+ /home/warranty/tests/IntegrationTestLib/Logger.cpp
+ /home/warranty/tests/IntegrationTestLib/Logger.h
 tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/Process.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Process.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Process.h
+ /home/warranty/tests/IntegrationTestLib/Process.cpp
+ /home/warranty/tests/IntegrationTestLib/Process.h
 tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/RPCTestNode.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -257,11 +257,11 @@ tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/RPCTestNode.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Logger.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NodeCallback.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/RPCTestNode.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/RPCTestNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNode.h
+ /home/warranty/tests/IntegrationTestLib/Logger.h
+ /home/warranty/tests/IntegrationTestLib/NodeCallback.h
+ /home/warranty/tests/IntegrationTestLib/RPCTestNode.cpp
+ /home/warranty/tests/IntegrationTestLib/RPCTestNode.h
+ /home/warranty/tests/IntegrationTestLib/TestNode.h
 tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestNetwork.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -303,13 +303,13 @@ tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestNetwork.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/InProcTestNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/NetworkConfiguration.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/Process.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/RPCTestNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNetwork.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNetwork.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestNode.h
+ /home/warranty/tests/IntegrationTestLib/InProcTestNode.h
+ /home/warranty/tests/IntegrationTestLib/NetworkConfiguration.h
+ /home/warranty/tests/IntegrationTestLib/Process.h
+ /home/warranty/tests/IntegrationTestLib/RPCTestNode.h
+ /home/warranty/tests/IntegrationTestLib/TestNetwork.cpp
+ /home/warranty/tests/IntegrationTestLib/TestNetwork.h
+ /home/warranty/tests/IntegrationTestLib/TestNode.h
 tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestWalletLegacy.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -370,5 +370,5 @@ tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestWalletLegacy.
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestWalletLegacy.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/IntegrationTestLib/TestWalletLegacy.h
+ /home/warranty/tests/IntegrationTestLib/TestWalletLegacy.cpp
+ /home/warranty/tests/IntegrationTestLib/TestWalletLegacy.h

@@ -8,81 +8,81 @@ src/CMakeFiles/Common.dir/Common/Base58.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Base58.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Base58.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Varint.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/int-util.h
+ /home/warranty/src/Common/Base58.cpp
+ /home/warranty/src/Common/Base58.h
+ /home/warranty/src/Common/Varint.h
+ /home/warranty/src/Common/int-util.h
 src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.h
+ /home/warranty/src/Common/BlockingQueue.cpp
+ /home/warranty/src/Common/BlockingQueue.h
 src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CommandLine.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/CommandLine.h
+ /home/warranty/src/Common/CommandLine.cpp
+ /home/warranty/src/Common/CommandLine.h
 src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/BlockingQueue.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleHandler.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleHandler.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.h
+ /home/warranty/src/Common/BlockingQueue.h
+ /home/warranty/src/Common/ConsoleHandler.cpp
+ /home/warranty/src/Common/ConsoleHandler.h
+ /home/warranty/src/Common/ConsoleTools.h
 src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ConsoleTools.h
+ /home/warranty/src/Common/ConsoleTools.cpp
+ /home/warranty/src/Common/ConsoleTools.h
 src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
+ /home/warranty/src/Common/IInputStream.cpp
+ /home/warranty/src/Common/IInputStream.h
 src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
+ /home/warranty/src/Common/IOutputStream.cpp
+ /home/warranty/src/Common/IOutputStream.h
 src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/JsonValue.h
+ /home/warranty/src/Common/JsonValue.cpp
+ /home/warranty/src/Common/JsonValue.h
 src/CMakeFiles/Common.dir/Common/Math.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Math.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Math.h
+ /home/warranty/src/Common/Math.cpp
+ /home/warranty/src/Common/Math.h
 src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/MemoryInputStream.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/MemoryInputStream.h
+ /home/warranty/src/Common/IInputStream.h
+ /home/warranty/src/Common/MemoryInputStream.cpp
+ /home/warranty/src/Common/MemoryInputStream.h
 src/CMakeFiles/Common.dir/Common/PathTools.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/PathTools.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/PathTools.h
+ /home/warranty/src/Common/PathTools.cpp
+ /home/warranty/src/Common/PathTools.h
 src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ScopeExit.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/ScopeExit.h
+ /home/warranty/src/Common/ScopeExit.cpp
+ /home/warranty/src/Common/ScopeExit.h
 src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/SignalHandler.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/SignalHandler.h
+ /home/warranty/src/Common/SignalHandler.cpp
+ /home/warranty/src/Common/SignalHandler.h
 src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdInputStream.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdInputStream.h
+ /home/warranty/src/Common/IInputStream.h
+ /home/warranty/src/Common/StdInputStream.cpp
+ /home/warranty/src/Common/StdInputStream.h
 src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdOutputStream.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StdOutputStream.h
+ /home/warranty/src/Common/IOutputStream.h
+ /home/warranty/src/Common/StdOutputStream.cpp
+ /home/warranty/src/Common/StdOutputStream.h
 src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StreamTools.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StreamTools.h
+ /home/warranty/src/Common/IInputStream.h
+ /home/warranty/src/Common/IOutputStream.h
+ /home/warranty/src/Common/StreamTools.cpp
+ /home/warranty/src/Common/StreamTools.h
 src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IInputStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringInputStream.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringInputStream.h
+ /home/warranty/src/Common/IInputStream.h
+ /home/warranty/src/Common/StringInputStream.cpp
+ /home/warranty/src/Common/StringInputStream.h
 src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringOutputStream.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringOutputStream.h
+ /home/warranty/src/Common/IOutputStream.h
+ /home/warranty/src/Common/StringOutputStream.cpp
+ /home/warranty/src/Common/StringOutputStream.h
 src/CMakeFiles/Common.dir/Common/StringTools.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringTools.h
+ /home/warranty/src/Common/StringTools.cpp
+ /home/warranty/src/Common/StringTools.h
 src/CMakeFiles/Common.dir/Common/StringView.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringView.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/StringView.h
+ /home/warranty/src/Common/StringView.cpp
+ /home/warranty/src/Common/StringView.h
 src/CMakeFiles/Common.dir/Common/Util.cpp.o
  ../../src/CryptoNoteConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Util.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/Util.h
+ /home/warranty/src/Common/Util.cpp
+ /home/warranty/src/Common/Util.h
 src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/IOutputStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/VectorOutputStream.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/VectorOutputStream.h
+ /home/warranty/src/Common/IOutputStream.h
+ /home/warranty/src/Common/VectorOutputStream.cpp
+ /home/warranty/src/Common/VectorOutputStream.h

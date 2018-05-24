@@ -35,9 +35,9 @@ src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorer.cpp.
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/BlockchainExplorer/BlockchainExplorer.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/BlockchainExplorer/BlockchainExplorer.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/BlockchainExplorer/BlockchainExplorerErrors.h
+ /home/warranty/src/BlockchainExplorer/BlockchainExplorer.cpp
+ /home/warranty/src/BlockchainExplorer/BlockchainExplorer.h
+ /home/warranty/src/BlockchainExplorer/BlockchainExplorerErrors.h
 src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorerDataBuilder.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -78,8 +78,8 @@ src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorerDataB
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/BlockchainExplorer/BlockchainExplorerDataBuilder.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/BlockchainExplorer/BlockchainExplorerDataBuilder.h
+ /home/warranty/src/BlockchainExplorer/BlockchainExplorerDataBuilder.cpp
+ /home/warranty/src/BlockchainExplorer/BlockchainExplorerDataBuilder.h
 src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorerErrors.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/BlockchainExplorer/BlockchainExplorerErrors.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/BlockchainExplorer/BlockchainExplorerErrors.h
+ /home/warranty/src/BlockchainExplorer/BlockchainExplorerErrors.cpp
+ /home/warranty/src/BlockchainExplorer/BlockchainExplorerErrors.h

@@ -5,10 +5,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/crypto/crypto-ops-data.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops-data.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/crypto/crypto-ops.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/crypto/hash.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/hash.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/crypto/random.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/random.c.o"
+  "/home/warranty/tests/crypto/crypto-ops-data.c" "/home/warranty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops-data.c.o"
+  "/home/warranty/tests/crypto/crypto-ops.c" "/home/warranty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops.c.o"
+  "/home/warranty/tests/crypto/hash.c" "/home/warranty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/hash.c.o"
+  "/home/warranty/tests/crypto/random.c" "/home/warranty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/random.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -30,8 +30,8 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../../tests/../version"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/crypto/crypto.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/crypto/main.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/main.cpp.o"
+  "/home/warranty/tests/crypto/crypto.cpp" "/home/warranty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto.cpp.o"
+  "/home/warranty/tests/crypto/main.cpp" "/home/warranty/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

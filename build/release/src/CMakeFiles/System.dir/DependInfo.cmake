@@ -4,21 +4,21 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Dispatcher.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Dispatcher.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/ErrorMessage.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/ErrorMessage.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Ipv4Resolver.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Ipv4Resolver.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnection.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnection.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnector.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnector.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpListener.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpListener.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Timer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Timer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/ContextGroup.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/System/ContextGroup.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/ContextGroupTimeout.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/System/ContextGroupTimeout.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/Event.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/System/Event.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/EventLock.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/System/EventLock.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/InterruptedException.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/System/InterruptedException.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/Ipv4Address.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/System/Ipv4Address.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/RemoteEventLock.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/System/RemoteEventLock.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/TcpStream.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/System.dir/System/TcpStream.cpp.o"
+  "/home/warranty/src/Platform/Linux/System/Dispatcher.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Dispatcher.cpp.o"
+  "/home/warranty/src/Platform/Linux/System/ErrorMessage.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/ErrorMessage.cpp.o"
+  "/home/warranty/src/Platform/Linux/System/Ipv4Resolver.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Ipv4Resolver.cpp.o"
+  "/home/warranty/src/Platform/Linux/System/TcpConnection.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnection.cpp.o"
+  "/home/warranty/src/Platform/Linux/System/TcpConnector.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnector.cpp.o"
+  "/home/warranty/src/Platform/Linux/System/TcpListener.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpListener.cpp.o"
+  "/home/warranty/src/Platform/Linux/System/Timer.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Timer.cpp.o"
+  "/home/warranty/src/System/ContextGroup.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/System/ContextGroup.cpp.o"
+  "/home/warranty/src/System/ContextGroupTimeout.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/System/ContextGroupTimeout.cpp.o"
+  "/home/warranty/src/System/Event.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/System/Event.cpp.o"
+  "/home/warranty/src/System/EventLock.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/System/EventLock.cpp.o"
+  "/home/warranty/src/System/InterruptedException.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/System/InterruptedException.cpp.o"
+  "/home/warranty/src/System/Ipv4Address.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/System/Ipv4Address.cpp.o"
+  "/home/warranty/src/System/RemoteEventLock.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/System/RemoteEventLock.cpp.o"
+  "/home/warranty/src/System/TcpStream.cpp" "/home/warranty/build/release/src/CMakeFiles/System.dir/System/TcpStream.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

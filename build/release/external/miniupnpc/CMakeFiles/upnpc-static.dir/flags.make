@@ -6,5 +6,5 @@ C_FLAGS =  -std=c11  -Wall -Wextra -Wpointer-arith -Wundef -Wvla -Wwrite-strings
 
 C_DEFINES = -DMINIUPNPC_SET_SOCKET_TIMEOUT -D_BSD_SOURCE -D_POSIX_C_SOURCE=1
 
-C_INCLUDES = -I/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/include -I/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src -I/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/external -I/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/version -I/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux -I/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Posix -I/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release 
+C_INCLUDES = -I/home/warranty/include -I/home/warranty/src -I/home/warranty/external -I/home/warranty/build/release/version -I/home/warranty/src/Platform/Linux -I/home/warranty/src/Platform/Posix -I/home/warranty/build/release 
 

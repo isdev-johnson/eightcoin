@@ -50,9 +50,9 @@ cstdint
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Dispatcher.cpp
+/home/warranty/src/Platform/Linux/System/Dispatcher.cpp
 Dispatcher.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Dispatcher.h
+/home/warranty/src/Platform/Linux/System/Dispatcher.h
 cassert
 -
 sys/epoll.h
@@ -70,9 +70,9 @@ ucontext.h
 unistd.h
 -
 ErrorMessage.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/ErrorMessage.h
+/home/warranty/src/Platform/Linux/System/ErrorMessage.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Dispatcher.h
+/home/warranty/src/Platform/Linux/System/Dispatcher.h
 cstddef
 -
 functional
@@ -82,21 +82,21 @@ queue
 stack
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/ErrorMessage.cpp
+/home/warranty/src/Platform/Linux/System/ErrorMessage.cpp
 ErrorMessage.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/ErrorMessage.h
+/home/warranty/src/Platform/Linux/System/ErrorMessage.h
 cerrno
 -
 cstring
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/ErrorMessage.h
+/home/warranty/src/Platform/Linux/System/ErrorMessage.h
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Ipv4Resolver.cpp
+/home/warranty/src/Platform/Linux/System/Ipv4Resolver.cpp
 Ipv4Resolver.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Ipv4Resolver.h
+/home/warranty/src/Platform/Linux/System/Ipv4Resolver.h
 cassert
 -
 random
@@ -114,13 +114,13 @@ System/InterruptedException.h
 System/Ipv4Address.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Ipv4Resolver.h
+/home/warranty/src/Platform/Linux/System/Ipv4Resolver.h
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnection.cpp
+/home/warranty/src/Platform/Linux/System/TcpConnection.cpp
 TcpConnection.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnection.h
+/home/warranty/src/Platform/Linux/System/TcpConnection.h
 arpa/inet.h
 -
 cassert
@@ -136,7 +136,7 @@ System/InterruptedException.h
 System/Ipv4Address.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnection.h
+/home/warranty/src/Platform/Linux/System/TcpConnection.h
 cstddef
 -
 cstdint
@@ -144,11 +144,11 @@ cstdint
 string
 -
 Dispatcher.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Dispatcher.h
+/home/warranty/src/Platform/Linux/System/Dispatcher.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnector.cpp
+/home/warranty/src/Platform/Linux/System/TcpConnector.cpp
 TcpConnector.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnector.h
+/home/warranty/src/Platform/Linux/System/TcpConnector.h
 cassert
 -
 stdexcept
@@ -166,21 +166,21 @@ System/InterruptedException.h
 System/Ipv4Address.h
 -
 Dispatcher.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Dispatcher.h
+/home/warranty/src/Platform/Linux/System/Dispatcher.h
 ErrorMessage.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/ErrorMessage.h
+/home/warranty/src/Platform/Linux/System/ErrorMessage.h
 TcpConnection.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnection.h
+/home/warranty/src/Platform/Linux/System/TcpConnection.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnector.h
+/home/warranty/src/Platform/Linux/System/TcpConnector.h
 cstdint
 -
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpListener.cpp
+/home/warranty/src/Platform/Linux/System/TcpListener.cpp
 TcpListener.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpListener.h
+/home/warranty/src/Platform/Linux/System/TcpListener.h
 cassert
 -
 stdexcept
@@ -196,9 +196,9 @@ unistd.h
 string.h
 -
 Dispatcher.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Dispatcher.h
+/home/warranty/src/Platform/Linux/System/Dispatcher.h
 TcpConnection.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpConnection.h
+/home/warranty/src/Platform/Linux/System/TcpConnection.h
 System/ErrorMessage.h
 -
 System/InterruptedException.h
@@ -206,15 +206,15 @@ System/InterruptedException.h
 System/Ipv4Address.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/TcpListener.h
+/home/warranty/src/Platform/Linux/System/TcpListener.h
 cstdint
 -
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Timer.cpp
+/home/warranty/src/Platform/Linux/System/Timer.cpp
 Timer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Timer.h
+/home/warranty/src/Platform/Linux/System/Timer.h
 cassert
 -
 stdexcept
@@ -226,33 +226,33 @@ sys/epoll.h
 unistd.h
 -
 Dispatcher.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Dispatcher.h
+/home/warranty/src/Platform/Linux/System/Dispatcher.h
 System/ErrorMessage.h
 -
 System/InterruptedException.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Platform/Linux/System/Timer.h
+/home/warranty/src/Platform/Linux/System/Timer.h
 chrono
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/ContextGroup.cpp
+/home/warranty/src/System/ContextGroup.cpp
 ContextGroup.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/ContextGroup.h
+/home/warranty/src/System/ContextGroup.h
 cassert
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/ContextGroup.h
+/home/warranty/src/System/ContextGroup.h
 System/Dispatcher.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/ContextGroupTimeout.cpp
+/home/warranty/src/System/ContextGroupTimeout.cpp
 ContextGroupTimeout.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/ContextGroupTimeout.h
+/home/warranty/src/System/ContextGroupTimeout.h
 System/InterruptedException.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/ContextGroupTimeout.h
+/home/warranty/src/System/ContextGroupTimeout.h
 chrono
 -
 System/ContextGroup.h
@@ -260,9 +260,9 @@ System/ContextGroup.h
 System/Timer.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/Event.cpp
+/home/warranty/src/System/Event.cpp
 Event.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/Event.h
+/home/warranty/src/System/Event.h
 cassert
 -
 System/Dispatcher.h
@@ -270,39 +270,39 @@ System/Dispatcher.h
 System/InterruptedException.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/Event.h
+/home/warranty/src/System/Event.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/EventLock.cpp
+/home/warranty/src/System/EventLock.cpp
 EventLock.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/EventLock.h
+/home/warranty/src/System/EventLock.h
 System/Event.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/EventLock.h
+/home/warranty/src/System/EventLock.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/InterruptedException.cpp
+/home/warranty/src/System/InterruptedException.cpp
 InterruptedException.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/InterruptedException.h
+/home/warranty/src/System/InterruptedException.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/InterruptedException.h
+/home/warranty/src/System/InterruptedException.h
 exception
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/Ipv4Address.cpp
+/home/warranty/src/System/Ipv4Address.cpp
 Ipv4Address.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/Ipv4Address.h
+/home/warranty/src/System/Ipv4Address.h
 stdexcept
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/Ipv4Address.h
+/home/warranty/src/System/Ipv4Address.h
 cstdint
 -
 string
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/RemoteEventLock.cpp
+/home/warranty/src/System/RemoteEventLock.cpp
 RemoteEventLock.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/RemoteEventLock.h
+/home/warranty/src/System/RemoteEventLock.h
 cassert
 -
 mutex
@@ -314,15 +314,15 @@ System/Dispatcher.h
 System/Event.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/RemoteEventLock.h
+/home/warranty/src/System/RemoteEventLock.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/TcpStream.cpp
+/home/warranty/src/System/TcpStream.cpp
 TcpStream.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/TcpStream.h
+/home/warranty/src/System/TcpStream.h
 System/TcpConnection.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/System/TcpStream.h
+/home/warranty/src/System/TcpStream.h
 array
 -
 cstdint

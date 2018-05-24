@@ -362,21 +362,21 @@ hash-ops.h
 stddef.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.cpp
+/home/warranty/tests/TestGenerator/TestGenerator.cpp
 TestGenerator.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+/home/warranty/tests/TestGenerator/TestGenerator.h
 Common/Math.h
 -
 CryptoNoteCore/Account.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/Account.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/Account.h
 CryptoNoteCore/Miner.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/Miner.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/Miner.h
 CryptoNoteCore/TransactionExtra.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/TransactionExtra.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/TransactionExtra.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/CryptoNoteTools.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/TestGenerator.h
+/home/warranty/tests/TestGenerator/TestGenerator.h
 cstdint
 -
 list
@@ -386,15 +386,15 @@ vector
 unordered_map
 -
 crypto/hash.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/crypto/hash.h
+/home/warranty/tests/TestGenerator/crypto/hash.h
 CryptoNoteCore/CryptoNoteBasic.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/CryptoNoteBasic.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/CryptoNoteBasic.h
 CryptoNoteCore/CryptoNoteBasicImpl.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/CryptoNoteBasicImpl.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/CryptoNoteBasicImpl.h
 CryptoNoteCore/CryptoNoteFormatUtils.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/CryptoNoteFormatUtils.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/CryptoNoteFormatUtils.h
 CryptoNoteCore/Currency.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/Currency.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/Currency.h
 CryptoNoteCore/Difficulty.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/TestGenerator/CryptoNoteCore/Difficulty.h
+/home/warranty/tests/TestGenerator/CryptoNoteCore/Difficulty.h
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
+CMAKE_SOURCE_DIR = /home/warranty
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+CMAKE_BINARY_DIR = /home/warranty/build/release
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/Http.dir/depend.make
@@ -59,16 +59,16 @@ include src/CMakeFiles/Http.dir/flags.make
 
 src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o: src/CMakeFiles/Http.dir/flags.make
 src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o: ../../src/HTTP/HttpParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o -c /home/warranty/src/HTTP/HttpParser.cpp
 
 src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Http.dir/HTTP/HttpParser.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParser.cpp > CMakeFiles/Http.dir/HTTP/HttpParser.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/HTTP/HttpParser.cpp > CMakeFiles/Http.dir/HTTP/HttpParser.cpp.i
 
 src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Http.dir/HTTP/HttpParser.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParser.cpp -o CMakeFiles/Http.dir/HTTP/HttpParser.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/HTTP/HttpParser.cpp -o CMakeFiles/Http.dir/HTTP/HttpParser.cpp.s
 
 src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o.requires:
 
@@ -83,16 +83,16 @@ src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o.provides.build: src/CMakeFiles/Htt
 
 src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o: src/CMakeFiles/Http.dir/flags.make
 src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o: ../../src/HTTP/HttpParserErrorCodes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParserErrorCodes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o -c /home/warranty/src/HTTP/HttpParserErrorCodes.cpp
 
 src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParserErrorCodes.cpp > CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/HTTP/HttpParserErrorCodes.cpp > CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.i
 
 src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParserErrorCodes.cpp -o CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/HTTP/HttpParserErrorCodes.cpp -o CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.s
 
 src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o.requires:
 
@@ -107,16 +107,16 @@ src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o.provides.build: src/CMak
 
 src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o: src/CMakeFiles/Http.dir/flags.make
 src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o: ../../src/HTTP/HttpRequest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpRequest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o -c /home/warranty/src/HTTP/HttpRequest.cpp
 
 src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpRequest.cpp > CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/HTTP/HttpRequest.cpp > CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.i
 
 src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpRequest.cpp -o CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/HTTP/HttpRequest.cpp -o CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.s
 
 src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o.requires:
 
@@ -131,16 +131,16 @@ src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o.provides.build: src/CMakeFiles/Ht
 
 src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o: src/CMakeFiles/Http.dir/flags.make
 src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o: ../../src/HTTP/HttpResponse.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpResponse.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o -c /home/warranty/src/HTTP/HttpResponse.cpp
 
 src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpResponse.cpp > CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/HTTP/HttpResponse.cpp > CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.i
 
 src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpResponse.cpp -o CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/HTTP/HttpResponse.cpp -o CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.s
 
 src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o.requires:
 
@@ -169,9 +169,9 @@ src/libHttp.a: src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o
 src/libHttp.a: src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o
 src/libHttp.a: src/CMakeFiles/Http.dir/build.make
 src/libHttp.a: src/CMakeFiles/Http.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libHttp.a"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Http.dir/cmake_clean_target.cmake
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Http.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libHttp.a"
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Http.dir/cmake_clean_target.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Http.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/Http.dir/build: src/libHttp.a
@@ -186,10 +186,10 @@ src/CMakeFiles/Http.dir/requires: src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.
 .PHONY : src/CMakeFiles/Http.dir/requires
 
 src/CMakeFiles/Http.dir/clean:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Http.dir/cmake_clean.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Http.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/Http.dir/clean
 
 src/CMakeFiles/Http.dir/depend:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/warranty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/warranty /home/warranty/src /home/warranty/build/release /home/warranty/build/release/src /home/warranty/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/Http.dir/depend
 

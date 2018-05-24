@@ -25,8 +25,8 @@ src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o
  ../../src/Serialization/SerializationTools.h
  ../../src/System/Ipv4Address.h
  ../../src/System/TcpStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpClient.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpClient.h
+ /home/warranty/src/Rpc/HttpClient.cpp
+ /home/warranty/src/Rpc/HttpClient.h
 src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o
  ../../src/HTTP/HttpParser.h
  ../../src/HTTP/HttpRequest.h
@@ -42,8 +42,8 @@ src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o
  ../../src/System/InterruptedException.h
  ../../src/System/Ipv4Address.h
  ../../src/System/TcpStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpServer.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpServer.h
+ /home/warranty/src/Rpc/HttpServer.cpp
+ /home/warranty/src/Rpc/HttpServer.h
 src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -80,9 +80,9 @@ src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CoreRpcServerCommandsDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/JsonRpc.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/JsonRpc.h
+ /home/warranty/src/Rpc/CoreRpcServerCommandsDefinitions.h
+ /home/warranty/src/Rpc/JsonRpc.cpp
+ /home/warranty/src/Rpc/JsonRpc.h
 src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o
  ../../external/google/sparse_hash_map
  ../../external/google/sparse_hash_set
@@ -189,14 +189,14 @@ src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CoreRpcServerCommandsDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CoreRpcServerErrorCodes.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpServer.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/JsonRpc.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServer.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServer.h
+ /home/warranty/src/Rpc/CoreRpcServerCommandsDefinitions.h
+ /home/warranty/src/Rpc/CoreRpcServerErrorCodes.h
+ /home/warranty/src/Rpc/HttpServer.h
+ /home/warranty/src/Rpc/JsonRpc.h
+ /home/warranty/src/Rpc/RpcServer.cpp
+ /home/warranty/src/Rpc/RpcServer.h
 src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o
  ../../src/Common/CommandLine.h
  ../../src/CryptoNoteConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServerConfig.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServerConfig.h
+ /home/warranty/src/Rpc/RpcServerConfig.cpp
+ /home/warranty/src/Rpc/RpcServerConfig.h

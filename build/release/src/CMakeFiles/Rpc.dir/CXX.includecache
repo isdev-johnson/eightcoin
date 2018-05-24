@@ -1158,23 +1158,23 @@ hash-ops.h
 stddef.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CoreRpcServerCommandsDefinitions.h
+/home/warranty/src/Rpc/CoreRpcServerCommandsDefinitions.h
 CryptoNoteProtocol/CryptoNoteProtocolDefinitions.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteProtocol/CryptoNoteProtocolDefinitions.h
+/home/warranty/src/Rpc/CryptoNoteProtocol/CryptoNoteProtocolDefinitions.h
 CryptoNoteCore/CryptoNoteBasic.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteCore/CryptoNoteBasic.h
+/home/warranty/src/Rpc/CryptoNoteCore/CryptoNoteBasic.h
 CryptoNoteCore/Difficulty.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteCore/Difficulty.h
+/home/warranty/src/Rpc/CryptoNoteCore/Difficulty.h
 crypto/hash.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/crypto/hash.h
+/home/warranty/src/Rpc/crypto/hash.h
 Serialization/SerializationOverloads.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/Serialization/SerializationOverloads.h
+/home/warranty/src/Rpc/Serialization/SerializationOverloads.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CoreRpcServerErrorCodes.h
+/home/warranty/src/Rpc/CoreRpcServerErrorCodes.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpClient.cpp
+/home/warranty/src/Rpc/HttpClient.cpp
 HttpClient.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpClient.h
+/home/warranty/src/Rpc/HttpClient.h
 HTTP/HttpParser.h
 -
 System/Ipv4Resolver.h
@@ -1184,7 +1184,7 @@ System/Ipv4Address.h
 System/TcpConnector.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpClient.h
+/home/warranty/src/Rpc/HttpClient.h
 memory
 -
 HTTP/HttpRequest.h
@@ -1196,11 +1196,11 @@ System/TcpConnection.h
 System/TcpStream.h
 -
 Serialization/SerializationTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/Serialization/SerializationTools.h
+/home/warranty/src/Rpc/Serialization/SerializationTools.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpServer.cpp
+/home/warranty/src/Rpc/HttpServer.cpp
 HttpServer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpServer.h
+/home/warranty/src/Rpc/HttpServer.h
 boost/scope_exit.hpp
 -
 HTTP/HttpParser.h
@@ -1212,7 +1212,7 @@ System/TcpStream.h
 System/Ipv4Address.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpServer.h
+/home/warranty/src/Rpc/HttpServer.h
 unordered_set
 -
 HTTP/HttpRequest.h
@@ -1232,13 +1232,13 @@ System/Event.h
 Logging/LoggerRef.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/JsonRpc.cpp
+/home/warranty/src/Rpc/JsonRpc.cpp
 JsonRpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/JsonRpc.h
+/home/warranty/src/Rpc/JsonRpc.h
 Rpc/HttpClient.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/Rpc/HttpClient.h
+/home/warranty/src/Rpc/Rpc/HttpClient.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/JsonRpc.h
+/home/warranty/src/Rpc/JsonRpc.h
 boost/optional.hpp
 -
 boost/foreach.hpp
@@ -1246,45 +1246,45 @@ boost/foreach.hpp
 functional
 -
 CoreRpcServerCommandsDefinitions.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CoreRpcServerCommandsDefinitions.h
+/home/warranty/src/Rpc/CoreRpcServerCommandsDefinitions.h
 Common/JsonValue.h
 -
 Serialization/ISerializer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/Serialization/ISerializer.h
+/home/warranty/src/Rpc/Serialization/ISerializer.h
 Serialization/SerializationTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/Serialization/SerializationTools.h
+/home/warranty/src/Rpc/Serialization/SerializationTools.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServer.cpp
+/home/warranty/src/Rpc/RpcServer.cpp
 RpcServer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServer.h
+/home/warranty/src/Rpc/RpcServer.h
 future
 -
 unordered_map
 -
 Common/StringTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/Common/StringTools.h
+/home/warranty/src/Rpc/Common/StringTools.h
 CryptoNoteCore/CryptoNoteTools.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteCore/CryptoNoteTools.h
+/home/warranty/src/Rpc/CryptoNoteCore/CryptoNoteTools.h
 CryptoNoteCore/Core.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteCore/Core.h
+/home/warranty/src/Rpc/CryptoNoteCore/Core.h
 CryptoNoteCore/IBlock.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteCore/IBlock.h
+/home/warranty/src/Rpc/CryptoNoteCore/IBlock.h
 CryptoNoteCore/Miner.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteCore/Miner.h
+/home/warranty/src/Rpc/CryptoNoteCore/Miner.h
 CryptoNoteCore/TransactionExtra.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteCore/TransactionExtra.h
+/home/warranty/src/Rpc/CryptoNoteCore/TransactionExtra.h
 CryptoNoteProtocol/ICryptoNoteProtocolQuery.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteProtocol/ICryptoNoteProtocolQuery.h
+/home/warranty/src/Rpc/CryptoNoteProtocol/ICryptoNoteProtocolQuery.h
 P2p/NetNode.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/P2p/NetNode.h
+/home/warranty/src/Rpc/P2p/NetNode.h
 CoreRpcServerErrorCodes.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CoreRpcServerErrorCodes.h
+/home/warranty/src/Rpc/CoreRpcServerErrorCodes.h
 JsonRpc.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/JsonRpc.h
+/home/warranty/src/Rpc/JsonRpc.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServer.h
+/home/warranty/src/Rpc/RpcServer.h
 HttpServer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpServer.h
+/home/warranty/src/Rpc/HttpServer.h
 functional
 -
 unordered_map
@@ -1292,19 +1292,19 @@ unordered_map
 Logging/LoggerRef.h
 -
 Common/Math.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/Common/Math.h
+/home/warranty/src/Rpc/Common/Math.h
 CoreRpcServerCommandsDefinitions.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CoreRpcServerCommandsDefinitions.h
+/home/warranty/src/Rpc/CoreRpcServerCommandsDefinitions.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServerConfig.cpp
+/home/warranty/src/Rpc/RpcServerConfig.cpp
 RpcServerConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServerConfig.h
+/home/warranty/src/Rpc/RpcServerConfig.h
 Common/CommandLine.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/Common/CommandLine.h
+/home/warranty/src/Rpc/Common/CommandLine.h
 CryptoNoteConfig.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/CryptoNoteConfig.h
+/home/warranty/src/Rpc/CryptoNoteConfig.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServerConfig.h
+/home/warranty/src/Rpc/RpcServerConfig.h
 boost/program_options.hpp
 -
 

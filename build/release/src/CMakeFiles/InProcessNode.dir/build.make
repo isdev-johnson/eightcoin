@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
+CMAKE_SOURCE_DIR = /home/warranty
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+CMAKE_BINARY_DIR = /home/warranty/build/release
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/InProcessNode.dir/depend.make
@@ -59,16 +59,16 @@ include src/CMakeFiles/InProcessNode.dir/flags.make
 
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o: src/CMakeFiles/InProcessNode.dir/flags.make
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o: ../../src/InProcessNode/InProcessNode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o -c /home/warranty/src/InProcessNode/InProcessNode.cpp
 
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNode.cpp > CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/InProcessNode/InProcessNode.cpp > CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.i
 
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNode.cpp -o CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/InProcessNode/InProcessNode.cpp -o CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.s
 
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o.requires:
 
@@ -83,16 +83,16 @@ src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o.provides.buil
 
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o: src/CMakeFiles/InProcessNode.dir/flags.make
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o: ../../src/InProcessNode/InProcessNodeErrors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNodeErrors.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o -c /home/warranty/src/InProcessNode/InProcessNodeErrors.cpp
 
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNodeErrors.cpp > CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/InProcessNode/InProcessNodeErrors.cpp > CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.i
 
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNodeErrors.cpp -o CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/InProcessNode/InProcessNodeErrors.cpp -o CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.s
 
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o.requires:
 
@@ -117,9 +117,9 @@ src/libInProcessNode.a: src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcess
 src/libInProcessNode.a: src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o
 src/libInProcessNode.a: src/CMakeFiles/InProcessNode.dir/build.make
 src/libInProcessNode.a: src/CMakeFiles/InProcessNode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libInProcessNode.a"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/InProcessNode.dir/cmake_clean_target.cmake
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/InProcessNode.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libInProcessNode.a"
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/InProcessNode.dir/cmake_clean_target.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/InProcessNode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/InProcessNode.dir/build: src/libInProcessNode.a
@@ -132,10 +132,10 @@ src/CMakeFiles/InProcessNode.dir/requires: src/CMakeFiles/InProcessNode.dir/InPr
 .PHONY : src/CMakeFiles/InProcessNode.dir/requires
 
 src/CMakeFiles/InProcessNode.dir/clean:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/InProcessNode.dir/cmake_clean.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/InProcessNode.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/InProcessNode.dir/clean
 
 src/CMakeFiles/InProcessNode.dir/depend:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/InProcessNode.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/warranty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/warranty /home/warranty/src /home/warranty/build/release /home/warranty/build/release/src /home/warranty/build/release/src/CMakeFiles/InProcessNode.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/InProcessNode.dir/depend
 

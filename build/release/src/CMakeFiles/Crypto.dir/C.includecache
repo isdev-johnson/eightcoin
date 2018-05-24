@@ -24,13 +24,13 @@ sys/param.h
 stdlib.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/static_assert.h
+/home/warranty/src/Common/static_assert.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/aesb.h
+/home/warranty/src/crypto/aesb.h
 stdint.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/blake256.c
+/home/warranty/src/crypto/blake256.c
 string.h
 -
 stdio.h
@@ -38,13 +38,13 @@ stdio.h
 stdint.h
 -
 blake256.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/blake256.h
+/home/warranty/src/crypto/blake256.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/blake256.h
+/home/warranty/src/crypto/blake256.h
 stdint.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/chacha.c
+/home/warranty/src/crypto/chacha.c
 memory.h
 -
 stdio.h
@@ -52,11 +52,11 @@ stdio.h
 sys/param.h
 -
 chacha.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/chacha.h
+/home/warranty/src/crypto/chacha.h
 Common/int-util.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/Common/int-util.h
+/home/warranty/src/crypto/Common/int-util.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/chacha.h
+/home/warranty/src/crypto/chacha.h
 stdint.h
 -
 stddef.h
@@ -66,25 +66,25 @@ memory.h
 string
 -
 hash.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash.h
+/home/warranty/src/crypto/hash.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops-data.c
+/home/warranty/src/crypto/crypto-ops-data.c
 stdint.h
 -
 crypto-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops.h
+/home/warranty/src/crypto/crypto-ops.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops.c
+/home/warranty/src/crypto/crypto-ops.c
 assert.h
 -
 stdint.h
 -
 crypto-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops.h
+/home/warranty/src/crypto/crypto-ops.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops.h
+/home/warranty/src/crypto/crypto-ops.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/generic-ops.h
+/home/warranty/src/crypto/generic-ops.h
 cstddef
 -
 cstring
@@ -92,43 +92,43 @@ cstring
 functional
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl.c
+/home/warranty/src/crypto/groestl.c
 groestl.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl.h
+/home/warranty/src/crypto/groestl.h
 groestl_tables.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl_tables.h
+/home/warranty/src/crypto/groestl_tables.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl.h
+/home/warranty/src/crypto/groestl.h
 crypto_uint8.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto_uint8.h
+/home/warranty/src/crypto/crypto_uint8.h
 crypto_uint32.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto_uint32.h
+/home/warranty/src/crypto/crypto_uint32.h
 crypto_uint64.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto_uint64.h
+/home/warranty/src/crypto/crypto_uint64.h
 crypto_hash.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto_hash.h
+/home/warranty/src/crypto/crypto_hash.h
 stdint.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl_tables.h
+/home/warranty/src/crypto/groestl_tables.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-blake.c
+/home/warranty/src/crypto/hash-extra-blake.c
 stddef.h
 -
 stdint.h
 -
 blake256.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/blake256.h
+/home/warranty/src/crypto/blake256.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-groestl.c
+/home/warranty/src/crypto/hash-extra-groestl.c
 stddef.h
 -
 stdint.h
 -
 groestl.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl.h
+/home/warranty/src/crypto/groestl.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-jh.c
+/home/warranty/src/crypto/hash-extra-jh.c
 assert.h
 -
 stddef.h
@@ -138,21 +138,21 @@ stdint.h
 string.h
 -
 jh.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/jh.h
+/home/warranty/src/crypto/jh.h
 hash-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
+/home/warranty/src/crypto/hash-ops.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-skein.c
+/home/warranty/src/crypto/hash-extra-skein.c
 stddef.h
 -
 stdint.h
 -
 hash-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
+/home/warranty/src/crypto/hash-ops.h
 skein.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein.h
+/home/warranty/src/crypto/skein.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
+/home/warranty/src/crypto/hash-ops.h
 assert.h
 -
 stdbool.h
@@ -162,11 +162,11 @@ stddef.h
 stdint.h
 -
 ../Common/static_assert.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Common/static_assert.h
+/home/warranty/src/Common/static_assert.h
 Common/int-util.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/Common/int-util.h
+/home/warranty/src/crypto/Common/int-util.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash.c
+/home/warranty/src/crypto/hash.c
 stddef.h
 -
 stdint.h
@@ -174,53 +174,53 @@ stdint.h
 string.h
 -
 hash-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
+/home/warranty/src/crypto/hash-ops.h
 keccak.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/keccak.h
+/home/warranty/src/crypto/keccak.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash.h
+/home/warranty/src/crypto/hash.h
 stddef.h
 -
 CryptoTypes.h
 -
 generic-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/generic-ops.h
+/home/warranty/src/crypto/generic-ops.h
 hash-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
+/home/warranty/src/crypto/hash-ops.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/initializer.h
+/home/warranty/src/crypto/initializer.h
 assert.h
 -
 stdlib.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/jh.c
+/home/warranty/src/crypto/jh.c
 jh.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/jh.h
+/home/warranty/src/crypto/jh.h
 stdint.h
 -
 string.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/jh.h
+/home/warranty/src/crypto/jh.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/keccak.c
+/home/warranty/src/crypto/keccak.c
 hash-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
+/home/warranty/src/crypto/hash-ops.h
 keccak.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/keccak.h
+/home/warranty/src/crypto/keccak.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/keccak.h
+/home/warranty/src/crypto/keccak.h
 stdint.h
 -
 string.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/lyra2z.c
+/home/warranty/src/crypto/lyra2z.c
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_config.h
+/home/warranty/src/crypto/oaes_config.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_lib.c
+/home/warranty/src/crypto/oaes_lib.c
 stddef.h
 -
 time.h
@@ -244,19 +244,19 @@ sys/types.h
 unistd.h
 -
 oaes_config.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_config.h
+/home/warranty/src/crypto/oaes_config.h
 oaes_lib.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_lib.h
+/home/warranty/src/crypto/oaes_lib.h
 rand.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/rand.h
+/home/warranty/src/crypto/rand.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_lib.h
+/home/warranty/src/crypto/oaes_lib.h
 stdint.h
 -
 stdlib.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/random.c
+/home/warranty/src/crypto/random.c
 assert.h
 -
 stddef.h
@@ -264,11 +264,11 @@ stddef.h
 string.h
 -
 hash-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
+/home/warranty/src/crypto/hash-ops.h
 initializer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/initializer.h
+/home/warranty/src/crypto/initializer.h
 random.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/random.h
+/home/warranty/src/crypto/random.h
 windows.h
 -
 wincrypt.h
@@ -288,35 +288,35 @@ sys/types.h
 unistd.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/random.h
+/home/warranty/src/crypto/random.h
 stddef.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein.c
+/home/warranty/src/crypto/skein.c
 stddef.h
 -
 string.h
 -
 skein.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein.h
+/home/warranty/src/crypto/skein.h
 assert.h
 -
 assert.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein.h
+/home/warranty/src/crypto/skein.h
 skein_port.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein_port.h
+/home/warranty/src/crypto/skein_port.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein_port.h
+/home/warranty/src/crypto/skein_port.h
 limits.h
 -
 stdint.h
 -
 Common/int-util.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/Common/int-util.h
+/home/warranty/src/crypto/Common/int-util.h
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.c
+/home/warranty/src/crypto/slow-hash.c
 stddef.h
 -
 stdint.h
@@ -332,23 +332,23 @@ intrin.h
 cpuid.h
 -
 aesb.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/aesb.h
+/home/warranty/src/crypto/aesb.h
 initializer.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/initializer.h
+/home/warranty/src/crypto/initializer.h
 Common/int-util.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/Common/int-util.h
+/home/warranty/src/crypto/Common/int-util.h
 hash-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
+/home/warranty/src/crypto/hash-ops.h
 oaes_lib.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_lib.h
+/home/warranty/src/crypto/oaes_lib.h
 slow-hash.inl
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.inl
+/home/warranty/src/crypto/slow-hash.inl
 slow-hash.inl
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.inl
+/home/warranty/src/crypto/slow-hash.inl
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.inl
+/home/warranty/src/crypto/slow-hash.inl
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/tree-hash.c
+/home/warranty/src/crypto/tree-hash.c
 alloca.h
 -
 assert.h
@@ -358,5 +358,5 @@ stddef.h
 string.h
 -
 hash-ops.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-ops.h
+/home/warranty/src/crypto/hash-ops.h
 

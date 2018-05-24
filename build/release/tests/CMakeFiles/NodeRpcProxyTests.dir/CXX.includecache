@@ -294,7 +294,7 @@ hash-ops.h
 stddef.h
 -
 
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp
+/home/warranty/tests/NodeRpcProxyTests/NodeRpcProxyTests.cpp
 chrono
 -
 thread
@@ -304,5 +304,5 @@ Logging/LoggerRef.h
 Logging/ConsoleLogger.h
 -
 NodeRpcProxy/NodeRpcProxy.h
-/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/NodeRpcProxyTests/NodeRpcProxy/NodeRpcProxy.h
+/home/warranty/tests/NodeRpcProxyTests/NodeRpcProxy/NodeRpcProxy.h
 

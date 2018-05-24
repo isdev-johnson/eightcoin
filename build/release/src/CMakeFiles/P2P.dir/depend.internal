@@ -57,8 +57,8 @@ src/CMakeFiles/P2P.dir/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteProtocol/CryptoNoteProtocolHandler.h
+ /home/warranty/src/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp
+ /home/warranty/src/CryptoNoteProtocol/CryptoNoteProtocolHandler.h
 src/CMakeFiles/P2P.dir/P2p/IP2pNodeInternal.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -78,10 +78,10 @@ src/CMakeFiles/P2P.dir/P2p/IP2pNodeInternal.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/IP2pNodeInternal.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/IP2pNodeInternal.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolTypes.h
+ /home/warranty/src/P2p/IP2pNodeInternal.cpp
+ /home/warranty/src/P2p/IP2pNodeInternal.h
+ /home/warranty/src/P2p/P2pProtocolDefinitions.h
+ /home/warranty/src/P2p/P2pProtocolTypes.h
 src/CMakeFiles/P2P.dir/P2p/LevinProtocol.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -98,8 +98,8 @@ src/CMakeFiles/P2P.dir/P2p/LevinProtocol.cpp.o
  ../../src/Serialization/KVBinaryInputStreamSerializer.h
  ../../src/Serialization/KVBinaryOutputStreamSerializer.h
  ../../src/Serialization/MemoryStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/LevinProtocol.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/LevinProtocol.h
+ /home/warranty/src/P2p/LevinProtocol.cpp
+ /home/warranty/src/P2p/LevinProtocol.h
 src/CMakeFiles/P2P.dir/P2p/NetNode.cpp.o
  ../../external/miniupnpc/bsdqueue.h
  ../../external/miniupnpc/declspec.h
@@ -173,16 +173,16 @@ src/CMakeFiles/P2P.dir/P2p/NetNode.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/ConnectionContext.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/LevinProtocol.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNode.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNodeCommon.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNodeConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNetworks.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolTypes.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/PeerListManager.h
+ /home/warranty/src/P2p/ConnectionContext.h
+ /home/warranty/src/P2p/LevinProtocol.h
+ /home/warranty/src/P2p/NetNode.cpp
+ /home/warranty/src/P2p/NetNode.h
+ /home/warranty/src/P2p/NetNodeCommon.h
+ /home/warranty/src/P2p/NetNodeConfig.h
+ /home/warranty/src/P2p/P2pNetworks.h
+ /home/warranty/src/P2p/P2pProtocolDefinitions.h
+ /home/warranty/src/P2p/P2pProtocolTypes.h
+ /home/warranty/src/P2p/PeerListManager.h
  version/version.h
 src/CMakeFiles/P2P.dir/P2p/NetNodeConfig.cpp.o
  ../../include/CryptoTypes.h
@@ -197,9 +197,9 @@ src/CMakeFiles/P2P.dir/P2p/NetNodeConfig.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNodeConfig.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNodeConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolTypes.h
+ /home/warranty/src/P2p/NetNodeConfig.cpp
+ /home/warranty/src/P2p/NetNodeConfig.h
+ /home/warranty/src/P2p/P2pProtocolTypes.h
 src/CMakeFiles/P2P.dir/P2p/P2pConnectionProxy.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -239,19 +239,19 @@ src/CMakeFiles/P2P.dir/P2p/P2pConnectionProxy.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/IP2pNodeInternal.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/LevinProtocol.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNodeConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pConnectionProxy.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pConnectionProxy.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContext.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContextOwner.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pInterfaces.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNodeConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolTypes.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/PeerListManager.h
+ /home/warranty/src/P2p/IP2pNodeInternal.h
+ /home/warranty/src/P2p/LevinProtocol.h
+ /home/warranty/src/P2p/NetNodeConfig.h
+ /home/warranty/src/P2p/P2pConnectionProxy.cpp
+ /home/warranty/src/P2p/P2pConnectionProxy.h
+ /home/warranty/src/P2p/P2pContext.h
+ /home/warranty/src/P2p/P2pContextOwner.h
+ /home/warranty/src/P2p/P2pInterfaces.h
+ /home/warranty/src/P2p/P2pNode.h
+ /home/warranty/src/P2p/P2pNodeConfig.h
+ /home/warranty/src/P2p/P2pProtocolDefinitions.h
+ /home/warranty/src/P2p/P2pProtocolTypes.h
+ /home/warranty/src/P2p/PeerListManager.h
 src/CMakeFiles/P2P.dir/P2p/P2pContext.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -289,12 +289,12 @@ src/CMakeFiles/P2P.dir/P2p/P2pContext.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/LevinProtocol.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContext.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContext.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pInterfaces.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolTypes.h
+ /home/warranty/src/P2p/LevinProtocol.h
+ /home/warranty/src/P2p/P2pContext.cpp
+ /home/warranty/src/P2p/P2pContext.h
+ /home/warranty/src/P2p/P2pInterfaces.h
+ /home/warranty/src/P2p/P2pProtocolDefinitions.h
+ /home/warranty/src/P2p/P2pProtocolTypes.h
 src/CMakeFiles/P2P.dir/P2p/P2pContextOwner.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -328,18 +328,18 @@ src/CMakeFiles/P2P.dir/P2p/P2pContextOwner.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/LevinProtocol.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContext.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContextOwner.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContextOwner.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pInterfaces.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolTypes.h
+ /home/warranty/src/P2p/LevinProtocol.h
+ /home/warranty/src/P2p/P2pContext.h
+ /home/warranty/src/P2p/P2pContextOwner.cpp
+ /home/warranty/src/P2p/P2pContextOwner.h
+ /home/warranty/src/P2p/P2pInterfaces.h
+ /home/warranty/src/P2p/P2pProtocolDefinitions.h
+ /home/warranty/src/P2p/P2pProtocolTypes.h
 src/CMakeFiles/P2P.dir/P2p/P2pInterfaces.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pInterfaces.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pInterfaces.h
+ /home/warranty/src/P2p/P2pInterfaces.cpp
+ /home/warranty/src/P2p/P2pInterfaces.h
 src/CMakeFiles/P2P.dir/P2p/P2pNode.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -387,28 +387,28 @@ src/CMakeFiles/P2P.dir/P2p/P2pNode.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/IP2pNodeInternal.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/LevinProtocol.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNodeConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pConnectionProxy.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContext.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContextOwner.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pInterfaces.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNetworks.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNode.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNodeConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolTypes.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/PeerListManager.h
+ /home/warranty/src/P2p/IP2pNodeInternal.h
+ /home/warranty/src/P2p/LevinProtocol.h
+ /home/warranty/src/P2p/NetNodeConfig.h
+ /home/warranty/src/P2p/P2pConnectionProxy.h
+ /home/warranty/src/P2p/P2pContext.h
+ /home/warranty/src/P2p/P2pContextOwner.h
+ /home/warranty/src/P2p/P2pInterfaces.h
+ /home/warranty/src/P2p/P2pNetworks.h
+ /home/warranty/src/P2p/P2pNode.cpp
+ /home/warranty/src/P2p/P2pNode.h
+ /home/warranty/src/P2p/P2pNodeConfig.h
+ /home/warranty/src/P2p/P2pProtocolDefinitions.h
+ /home/warranty/src/P2p/P2pProtocolTypes.h
+ /home/warranty/src/P2p/PeerListManager.h
 src/CMakeFiles/P2P.dir/P2p/P2pNodeConfig.cpp.o
  ../../src/Common/StringTools.h
  ../../src/CryptoNoteConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNodeConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNetworks.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNodeConfig.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNodeConfig.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolTypes.h
+ /home/warranty/src/P2p/NetNodeConfig.h
+ /home/warranty/src/P2p/P2pNetworks.h
+ /home/warranty/src/P2p/P2pNodeConfig.cpp
+ /home/warranty/src/P2p/P2pNodeConfig.h
+ /home/warranty/src/P2p/P2pProtocolTypes.h
 src/CMakeFiles/P2P.dir/P2p/PeerListManager.cpp.o
  ../../src/Common/StringTools.h
  ../../src/Common/StringView.h
@@ -416,6 +416,6 @@ src/CMakeFiles/P2P.dir/P2p/PeerListManager.cpp.o
  ../../src/Serialization/ISerializer.h
  ../../src/Serialization/SerializationOverloads.h
  ../../src/System/Ipv4Address.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pProtocolTypes.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/PeerListManager.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/PeerListManager.h
+ /home/warranty/src/P2p/P2pProtocolTypes.h
+ /home/warranty/src/P2p/PeerListManager.cpp
+ /home/warranty/src/P2p/PeerListManager.h

@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParser.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpParserErrorCodes.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpRequest.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/HTTP/HttpResponse.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o"
+  "/home/warranty/src/HTTP/HttpParser.cpp" "/home/warranty/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o"
+  "/home/warranty/src/HTTP/HttpParserErrorCodes.cpp" "/home/warranty/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o"
+  "/home/warranty/src/HTTP/HttpRequest.cpp" "/home/warranty/build/release/src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o"
+  "/home/warranty/src/HTTP/HttpResponse.cpp" "/home/warranty/build/release/src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

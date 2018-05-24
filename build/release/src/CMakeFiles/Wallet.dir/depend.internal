@@ -54,14 +54,14 @@ src/CMakeFiles/Wallet.dir/Wallet/LegacyKeysImporter.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/LegacyKeysImporter.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/LegacyKeysImporter.h
+ /home/warranty/src/Wallet/LegacyKeysImporter.cpp
+ /home/warranty/src/Wallet/LegacyKeysImporter.h
 src/CMakeFiles/Wallet.dir/Wallet/WalletAsyncContextCounter.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletAsyncContextCounter.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletAsyncContextCounter.h
+ /home/warranty/src/Wallet/WalletAsyncContextCounter.cpp
+ /home/warranty/src/Wallet/WalletAsyncContextCounter.h
 src/CMakeFiles/Wallet.dir/Wallet/WalletErrors.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletErrors.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletErrors.h
+ /home/warranty/src/Wallet/WalletErrors.cpp
+ /home/warranty/src/Wallet/WalletErrors.h
 src/CMakeFiles/Wallet.dir/Wallet/WalletGreen.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -125,13 +125,13 @@ src/CMakeFiles/Wallet.dir/Wallet/WalletGreen.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/IFusionManager.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletErrors.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletGreen.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletGreen.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletIndices.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletSerialization.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletUtils.h
+ /home/warranty/src/Wallet/IFusionManager.h
+ /home/warranty/src/Wallet/WalletErrors.h
+ /home/warranty/src/Wallet/WalletGreen.cpp
+ /home/warranty/src/Wallet/WalletGreen.h
+ /home/warranty/src/Wallet/WalletIndices.h
+ /home/warranty/src/Wallet/WalletSerialization.h
+ /home/warranty/src/Wallet/WalletUtils.h
 src/CMakeFiles/Wallet.dir/Wallet/WalletRpcServer.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -212,10 +212,10 @@ src/CMakeFiles/Wallet.dir/Wallet/WalletRpcServer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletRpcServer.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletRpcServer.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletRpcServerCommandsDefinitions.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletRpcServerErrorCodes.h
+ /home/warranty/src/Wallet/WalletRpcServer.cpp
+ /home/warranty/src/Wallet/WalletRpcServer.h
+ /home/warranty/src/Wallet/WalletRpcServerCommandsDefinitions.h
+ /home/warranty/src/Wallet/WalletRpcServerErrorCodes.h
 src/CMakeFiles/Wallet.dir/Wallet/WalletSerialization.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -256,9 +256,9 @@ src/CMakeFiles/Wallet.dir/Wallet/WalletSerialization.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletIndices.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletSerialization.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletSerialization.h
+ /home/warranty/src/Wallet/WalletIndices.h
+ /home/warranty/src/Wallet/WalletSerialization.cpp
+ /home/warranty/src/Wallet/WalletSerialization.h
 src/CMakeFiles/Wallet.dir/Wallet/WalletUtils.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -274,8 +274,8 @@ src/CMakeFiles/Wallet.dir/Wallet/WalletUtils.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletUtils.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Wallet/WalletUtils.h
+ /home/warranty/src/Wallet/WalletUtils.cpp
+ /home/warranty/src/Wallet/WalletUtils.h
 src/CMakeFiles/Wallet.dir/WalletLegacy/KeysStorage.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -294,8 +294,8 @@ src/CMakeFiles/Wallet.dir/WalletLegacy/KeysStorage.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/KeysStorage.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/KeysStorage.h
+ /home/warranty/src/WalletLegacy/KeysStorage.cpp
+ /home/warranty/src/WalletLegacy/KeysStorage.h
 src/CMakeFiles/Wallet.dir/WalletLegacy/WalletHelper.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -306,8 +306,8 @@ src/CMakeFiles/Wallet.dir/WalletLegacy/WalletHelper.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletHelper.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletHelper.h
+ /home/warranty/src/WalletLegacy/WalletHelper.cpp
+ /home/warranty/src/WalletLegacy/WalletHelper.h
 src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacy.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -369,8 +369,8 @@ src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacy.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletLegacy.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletLegacy.h
+ /home/warranty/src/WalletLegacy/WalletLegacy.cpp
+ /home/warranty/src/WalletLegacy/WalletLegacy.h
 src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerialization.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -395,8 +395,8 @@ src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerialization.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletLegacySerialization.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletLegacySerialization.h
+ /home/warranty/src/WalletLegacy/WalletLegacySerialization.cpp
+ /home/warranty/src/WalletLegacy/WalletLegacySerialization.h
 src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerializer.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -440,8 +440,8 @@ src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerializer.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletLegacySerializer.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletLegacySerializer.h
+ /home/warranty/src/WalletLegacy/WalletLegacySerializer.cpp
+ /home/warranty/src/WalletLegacy/WalletLegacySerializer.h
 src/CMakeFiles/Wallet.dir/WalletLegacy/WalletTransactionSender.cpp.o
  ../../include/BlockchainExplorerData.h
  ../../include/CryptoNote.h
@@ -498,7 +498,7 @@ src/CMakeFiles/Wallet.dir/WalletLegacy/WalletTransactionSender.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletTransactionSender.cpp
+ /home/warranty/src/WalletLegacy/WalletTransactionSender.cpp
 src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUnconfirmedTransactions.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -530,8 +530,8 @@ src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUnconfirmedTransactions.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletUnconfirmedTransactions.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletUnconfirmedTransactions.h
+ /home/warranty/src/WalletLegacy/WalletUnconfirmedTransactions.cpp
+ /home/warranty/src/WalletLegacy/WalletUnconfirmedTransactions.h
 src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUserTransactionsCache.cpp.o
  ../../include/CryptoNote.h
  ../../include/CryptoTypes.h
@@ -567,4 +567,4 @@ src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUserTransactionsCache.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/WalletLegacy/WalletUserTransactionsCache.cpp
+ /home/warranty/src/WalletLegacy/WalletUserTransactionsCache.cpp

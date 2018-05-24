@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpClient.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/HttpServer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/JsonRpc.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Rpc/RpcServerConfig.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o"
+  "/home/warranty/src/Rpc/HttpClient.cpp" "/home/warranty/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o"
+  "/home/warranty/src/Rpc/HttpServer.cpp" "/home/warranty/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o"
+  "/home/warranty/src/Rpc/JsonRpc.cpp" "/home/warranty/build/release/src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o"
+  "/home/warranty/src/Rpc/RpcServer.cpp" "/home/warranty/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o"
+  "/home/warranty/src/Rpc/RpcServerConfig.cpp" "/home/warranty/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

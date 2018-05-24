@@ -5,24 +5,24 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/blake256.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/blake256.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/chacha.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/chacha.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops-data.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/groestl.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-blake.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-groestl.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-jh.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-skein.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/jh.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/jh.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/keccak.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/keccak.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/lyra2z.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_lib.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/random.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/random.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/skein.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/tree-hash.c" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o"
+  "/home/warranty/src/crypto/blake256.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/blake256.c.o"
+  "/home/warranty/src/crypto/chacha.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/chacha.c.o"
+  "/home/warranty/src/crypto/crypto-ops-data.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o"
+  "/home/warranty/src/crypto/crypto-ops.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o"
+  "/home/warranty/src/crypto/groestl.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/groestl.c.o"
+  "/home/warranty/src/crypto/hash-extra-blake.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o"
+  "/home/warranty/src/crypto/hash-extra-groestl.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o"
+  "/home/warranty/src/crypto/hash-extra-jh.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o"
+  "/home/warranty/src/crypto/hash-extra-skein.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o"
+  "/home/warranty/src/crypto/hash.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/hash.c.o"
+  "/home/warranty/src/crypto/jh.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/jh.c.o"
+  "/home/warranty/src/crypto/keccak.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/keccak.c.o"
+  "/home/warranty/src/crypto/lyra2z.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.o"
+  "/home/warranty/src/crypto/oaes_lib.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o"
+  "/home/warranty/src/crypto/random.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/random.c.o"
+  "/home/warranty/src/crypto/skein.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/skein.c.o"
+  "/home/warranty/src/crypto/slow-hash.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o"
+  "/home/warranty/src/crypto/tree-hash.c" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -41,8 +41,8 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../../src/Platform/Posix"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o"
+  "/home/warranty/src/crypto/crypto.cpp" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o"
+  "/home/warranty/src/crypto/slow-hash.cpp" "/home/warranty/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

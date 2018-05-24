@@ -18,4 +18,4 @@ tests/CMakeFiles/DifficultyTests.dir/Difficulty/Difficulty.cpp.o
  ../../src/crypto/generic-ops.h
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/Difficulty/Difficulty.cpp
+ /home/warranty/tests/Difficulty/Difficulty.cpp

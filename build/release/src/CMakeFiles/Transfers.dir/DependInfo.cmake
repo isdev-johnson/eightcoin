@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Transfers/BlockchainSynchronizer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Transfers/SynchronizationState.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Transfers/TransfersConsumer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Transfers/TransfersContainer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Transfers/TransfersSubscription.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Transfers/TransfersSynchronizer.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o"
+  "/home/warranty/src/Transfers/BlockchainSynchronizer.cpp" "/home/warranty/build/release/src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o"
+  "/home/warranty/src/Transfers/SynchronizationState.cpp" "/home/warranty/build/release/src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o"
+  "/home/warranty/src/Transfers/TransfersConsumer.cpp" "/home/warranty/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o"
+  "/home/warranty/src/Transfers/TransfersContainer.cpp" "/home/warranty/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o"
+  "/home/warranty/src/Transfers/TransfersSubscription.cpp" "/home/warranty/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o"
+  "/home/warranty/src/Transfers/TransfersSynchronizer.cpp" "/home/warranty/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

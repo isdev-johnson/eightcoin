@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty
+CMAKE_SOURCE_DIR = /home/warranty
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release
+CMAKE_BINARY_DIR = /home/warranty/build/release
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/Crypto.dir/depend.make
@@ -59,16 +59,16 @@ include src/CMakeFiles/Crypto.dir/flags.make
 
 src/CMakeFiles/Crypto.dir/crypto/blake256.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/blake256.c.o: ../../src/crypto/blake256.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object src/CMakeFiles/Crypto.dir/crypto/blake256.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/blake256.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/blake256.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object src/CMakeFiles/Crypto.dir/crypto/blake256.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/blake256.c.o   -c /home/warranty/src/crypto/blake256.c
 
 src/CMakeFiles/Crypto.dir/crypto/blake256.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/blake256.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/blake256.c > CMakeFiles/Crypto.dir/crypto/blake256.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/blake256.c > CMakeFiles/Crypto.dir/crypto/blake256.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/blake256.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/blake256.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/blake256.c -o CMakeFiles/Crypto.dir/crypto/blake256.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/blake256.c -o CMakeFiles/Crypto.dir/crypto/blake256.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/blake256.c.o.requires:
 
@@ -83,16 +83,16 @@ src/CMakeFiles/Crypto.dir/crypto/blake256.c.o.provides.build: src/CMakeFiles/Cry
 
 src/CMakeFiles/Crypto.dir/crypto/chacha.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/chacha.c.o: ../../src/crypto/chacha.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object src/CMakeFiles/Crypto.dir/crypto/chacha.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/chacha.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/chacha.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object src/CMakeFiles/Crypto.dir/crypto/chacha.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/chacha.c.o   -c /home/warranty/src/crypto/chacha.c
 
 src/CMakeFiles/Crypto.dir/crypto/chacha.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/chacha.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/chacha.c > CMakeFiles/Crypto.dir/crypto/chacha.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/chacha.c > CMakeFiles/Crypto.dir/crypto/chacha.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/chacha.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/chacha.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/chacha.c -o CMakeFiles/Crypto.dir/crypto/chacha.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/chacha.c -o CMakeFiles/Crypto.dir/crypto/chacha.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/chacha.c.o.requires:
 
@@ -107,16 +107,16 @@ src/CMakeFiles/Crypto.dir/crypto/chacha.c.o.provides.build: src/CMakeFiles/Crypt
 
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o: ../../src/crypto/crypto-ops-data.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops-data.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o   -c /home/warranty/src/crypto/crypto-ops-data.c
 
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops-data.c > CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/crypto-ops-data.c > CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops-data.c -o CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/crypto-ops-data.c -o CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o.requires:
 
@@ -131,16 +131,16 @@ src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o.provides.build: src/CMakeFi
 
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o: ../../src/crypto/crypto-ops.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o   -c /home/warranty/src/crypto/crypto-ops.c
 
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/crypto-ops.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops.c > CMakeFiles/Crypto.dir/crypto/crypto-ops.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/crypto-ops.c > CMakeFiles/Crypto.dir/crypto/crypto-ops.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/crypto-ops.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto-ops.c -o CMakeFiles/Crypto.dir/crypto/crypto-ops.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/crypto-ops.c -o CMakeFiles/Crypto.dir/crypto/crypto-ops.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o.requires:
 
@@ -155,16 +155,16 @@ src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o.provides.build: src/CMakeFiles/C
 
 src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o: ../../src/crypto/crypto.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Crypto.dir/crypto/crypto.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Crypto.dir/crypto/crypto.cpp.o -c /home/warranty/src/crypto/crypto.cpp
 
 src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Crypto.dir/crypto/crypto.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto.cpp > CMakeFiles/Crypto.dir/crypto/crypto.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/crypto/crypto.cpp > CMakeFiles/Crypto.dir/crypto/crypto.cpp.i
 
 src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Crypto.dir/crypto/crypto.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/crypto.cpp -o CMakeFiles/Crypto.dir/crypto/crypto.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/crypto/crypto.cpp -o CMakeFiles/Crypto.dir/crypto/crypto.cpp.s
 
 src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o.requires:
 
@@ -179,16 +179,16 @@ src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o.provides.build: src/CMakeFiles/Cry
 
 src/CMakeFiles/Crypto.dir/crypto/groestl.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/groestl.c.o: ../../src/crypto/groestl.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object src/CMakeFiles/Crypto.dir/crypto/groestl.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/groestl.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object src/CMakeFiles/Crypto.dir/crypto/groestl.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/groestl.c.o   -c /home/warranty/src/crypto/groestl.c
 
 src/CMakeFiles/Crypto.dir/crypto/groestl.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/groestl.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl.c > CMakeFiles/Crypto.dir/crypto/groestl.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/groestl.c > CMakeFiles/Crypto.dir/crypto/groestl.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/groestl.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/groestl.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/groestl.c -o CMakeFiles/Crypto.dir/crypto/groestl.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/groestl.c -o CMakeFiles/Crypto.dir/crypto/groestl.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/groestl.c.o.requires:
 
@@ -203,16 +203,16 @@ src/CMakeFiles/Crypto.dir/crypto/groestl.c.o.provides.build: src/CMakeFiles/Cryp
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o: ../../src/crypto/hash-extra-blake.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-blake.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o   -c /home/warranty/src/crypto/hash-extra-blake.c
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-blake.c > CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/hash-extra-blake.c > CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-blake.c -o CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/hash-extra-blake.c -o CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o.requires:
 
@@ -227,16 +227,16 @@ src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o.provides.build: src/CMakeF
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o: ../../src/crypto/hash-extra-groestl.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-groestl.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o   -c /home/warranty/src/crypto/hash-extra-groestl.c
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-groestl.c > CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/hash-extra-groestl.c > CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-groestl.c -o CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/hash-extra-groestl.c -o CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o.requires:
 
@@ -251,16 +251,16 @@ src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o.provides.build: src/CMak
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o: ../../src/crypto/hash-extra-jh.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-jh.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o   -c /home/warranty/src/crypto/hash-extra-jh.c
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-jh.c > CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/hash-extra-jh.c > CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-jh.c -o CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/hash-extra-jh.c -o CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o.requires:
 
@@ -275,16 +275,16 @@ src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o.provides.build: src/CMakeFile
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o: ../../src/crypto/hash-extra-skein.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-skein.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o   -c /home/warranty/src/crypto/hash-extra-skein.c
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-skein.c > CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/hash-extra-skein.c > CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash-extra-skein.c -o CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/hash-extra-skein.c -o CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o.requires:
 
@@ -299,16 +299,16 @@ src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o.provides.build: src/CMakeF
 
 src/CMakeFiles/Crypto.dir/crypto/hash.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/hash.c.o: ../../src/crypto/hash.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object src/CMakeFiles/Crypto.dir/crypto/hash.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/hash.c.o   -c /home/warranty/src/crypto/hash.c
 
 src/CMakeFiles/Crypto.dir/crypto/hash.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/hash.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash.c > CMakeFiles/Crypto.dir/crypto/hash.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/hash.c > CMakeFiles/Crypto.dir/crypto/hash.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/hash.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/hash.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/hash.c -o CMakeFiles/Crypto.dir/crypto/hash.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/hash.c -o CMakeFiles/Crypto.dir/crypto/hash.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/hash.c.o.requires:
 
@@ -323,16 +323,16 @@ src/CMakeFiles/Crypto.dir/crypto/hash.c.o.provides.build: src/CMakeFiles/Crypto.
 
 src/CMakeFiles/Crypto.dir/crypto/jh.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/jh.c.o: ../../src/crypto/jh.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object src/CMakeFiles/Crypto.dir/crypto/jh.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/jh.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/jh.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object src/CMakeFiles/Crypto.dir/crypto/jh.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/jh.c.o   -c /home/warranty/src/crypto/jh.c
 
 src/CMakeFiles/Crypto.dir/crypto/jh.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/jh.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/jh.c > CMakeFiles/Crypto.dir/crypto/jh.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/jh.c > CMakeFiles/Crypto.dir/crypto/jh.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/jh.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/jh.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/jh.c -o CMakeFiles/Crypto.dir/crypto/jh.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/jh.c -o CMakeFiles/Crypto.dir/crypto/jh.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/jh.c.o.requires:
 
@@ -347,16 +347,16 @@ src/CMakeFiles/Crypto.dir/crypto/jh.c.o.provides.build: src/CMakeFiles/Crypto.di
 
 src/CMakeFiles/Crypto.dir/crypto/keccak.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/keccak.c.o: ../../src/crypto/keccak.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object src/CMakeFiles/Crypto.dir/crypto/keccak.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/keccak.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/keccak.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object src/CMakeFiles/Crypto.dir/crypto/keccak.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/keccak.c.o   -c /home/warranty/src/crypto/keccak.c
 
 src/CMakeFiles/Crypto.dir/crypto/keccak.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/keccak.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/keccak.c > CMakeFiles/Crypto.dir/crypto/keccak.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/keccak.c > CMakeFiles/Crypto.dir/crypto/keccak.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/keccak.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/keccak.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/keccak.c -o CMakeFiles/Crypto.dir/crypto/keccak.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/keccak.c -o CMakeFiles/Crypto.dir/crypto/keccak.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/keccak.c.o.requires:
 
@@ -371,16 +371,16 @@ src/CMakeFiles/Crypto.dir/crypto/keccak.c.o.provides.build: src/CMakeFiles/Crypt
 
 src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.o: ../../src/crypto/lyra2z.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/lyra2z.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/lyra2z.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/lyra2z.c.o   -c /home/warranty/src/crypto/lyra2z.c
 
 src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/lyra2z.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/lyra2z.c > CMakeFiles/Crypto.dir/crypto/lyra2z.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/lyra2z.c > CMakeFiles/Crypto.dir/crypto/lyra2z.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/lyra2z.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/lyra2z.c -o CMakeFiles/Crypto.dir/crypto/lyra2z.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/lyra2z.c -o CMakeFiles/Crypto.dir/crypto/lyra2z.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.o.requires:
 
@@ -395,16 +395,16 @@ src/CMakeFiles/Crypto.dir/crypto/lyra2z.c.o.provides.build: src/CMakeFiles/Crypt
 
 src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o: ../../src/crypto/oaes_lib.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_lib.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o   -c /home/warranty/src/crypto/oaes_lib.c
 
 src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/oaes_lib.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_lib.c > CMakeFiles/Crypto.dir/crypto/oaes_lib.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/oaes_lib.c > CMakeFiles/Crypto.dir/crypto/oaes_lib.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/oaes_lib.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/oaes_lib.c -o CMakeFiles/Crypto.dir/crypto/oaes_lib.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/oaes_lib.c -o CMakeFiles/Crypto.dir/crypto/oaes_lib.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o.requires:
 
@@ -419,16 +419,16 @@ src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o.provides.build: src/CMakeFiles/Cry
 
 src/CMakeFiles/Crypto.dir/crypto/random.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/random.c.o: ../../src/crypto/random.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object src/CMakeFiles/Crypto.dir/crypto/random.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/random.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/random.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object src/CMakeFiles/Crypto.dir/crypto/random.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/random.c.o   -c /home/warranty/src/crypto/random.c
 
 src/CMakeFiles/Crypto.dir/crypto/random.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/random.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/random.c > CMakeFiles/Crypto.dir/crypto/random.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/random.c > CMakeFiles/Crypto.dir/crypto/random.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/random.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/random.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/random.c -o CMakeFiles/Crypto.dir/crypto/random.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/random.c -o CMakeFiles/Crypto.dir/crypto/random.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/random.c.o.requires:
 
@@ -443,16 +443,16 @@ src/CMakeFiles/Crypto.dir/crypto/random.c.o.provides.build: src/CMakeFiles/Crypt
 
 src/CMakeFiles/Crypto.dir/crypto/skein.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/skein.c.o: ../../src/crypto/skein.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object src/CMakeFiles/Crypto.dir/crypto/skein.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/skein.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object src/CMakeFiles/Crypto.dir/crypto/skein.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/skein.c.o   -c /home/warranty/src/crypto/skein.c
 
 src/CMakeFiles/Crypto.dir/crypto/skein.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/skein.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein.c > CMakeFiles/Crypto.dir/crypto/skein.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/skein.c > CMakeFiles/Crypto.dir/crypto/skein.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/skein.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/skein.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/skein.c -o CMakeFiles/Crypto.dir/crypto/skein.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/skein.c -o CMakeFiles/Crypto.dir/crypto/skein.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/skein.c.o.requires:
 
@@ -467,16 +467,16 @@ src/CMakeFiles/Crypto.dir/crypto/skein.c.o.provides.build: src/CMakeFiles/Crypto
 
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o: ../../src/crypto/slow-hash.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/slow-hash.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/slow-hash.c.o   -c /home/warranty/src/crypto/slow-hash.c
 
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/slow-hash.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.c > CMakeFiles/Crypto.dir/crypto/slow-hash.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/slow-hash.c > CMakeFiles/Crypto.dir/crypto/slow-hash.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/slow-hash.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.c -o CMakeFiles/Crypto.dir/crypto/slow-hash.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/slow-hash.c -o CMakeFiles/Crypto.dir/crypto/slow-hash.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o.requires:
 
@@ -491,16 +491,16 @@ src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o.provides.build: src/CMakeFiles/Cr
 
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o: ../../src/crypto/slow-hash.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o"
+	cd /home/warranty/build/release/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o -c /home/warranty/src/crypto/slow-hash.cpp
 
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.cpp > CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.i
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/warranty/src/crypto/slow-hash.cpp > CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.i
 
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/slow-hash.cpp -o CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.s
+	cd /home/warranty/build/release/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/warranty/src/crypto/slow-hash.cpp -o CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.s
 
 src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o.requires:
 
@@ -515,16 +515,16 @@ src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o.provides.build: src/CMakeFiles/
 
 src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o: src/CMakeFiles/Crypto.dir/flags.make
 src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o: ../../src/crypto/tree-hash.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/tree-hash.c.o   -c /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/tree-hash.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o"
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Crypto.dir/crypto/tree-hash.c.o   -c /home/warranty/src/crypto/tree-hash.c
 
 src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Crypto.dir/crypto/tree-hash.c.i"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/tree-hash.c > CMakeFiles/Crypto.dir/crypto/tree-hash.c.i
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/warranty/src/crypto/tree-hash.c > CMakeFiles/Crypto.dir/crypto/tree-hash.c.i
 
 src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Crypto.dir/crypto/tree-hash.c.s"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/crypto/tree-hash.c -o CMakeFiles/Crypto.dir/crypto/tree-hash.c.s
+	cd /home/warranty/build/release/src && /usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/warranty/src/crypto/tree-hash.c -o CMakeFiles/Crypto.dir/crypto/tree-hash.c.s
 
 src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o.requires:
 
@@ -585,9 +585,9 @@ src/libCrypto.a: src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o
 src/libCrypto.a: src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o
 src/libCrypto.a: src/CMakeFiles/Crypto.dir/build.make
 src/libCrypto.a: src/CMakeFiles/Crypto.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX static library libCrypto.a"
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Crypto.dir/cmake_clean_target.cmake
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Crypto.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/warranty/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX static library libCrypto.a"
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Crypto.dir/cmake_clean_target.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Crypto.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/Crypto.dir/build: src/libCrypto.a
@@ -618,10 +618,10 @@ src/CMakeFiles/Crypto.dir/requires: src/CMakeFiles/Crypto.dir/crypto/tree-hash.c
 .PHONY : src/CMakeFiles/Crypto.dir/requires
 
 src/CMakeFiles/Crypto.dir/clean:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Crypto.dir/cmake_clean.cmake
+	cd /home/warranty/build/release/src && $(CMAKE_COMMAND) -P CMakeFiles/Crypto.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/Crypto.dir/clean
 
 src/CMakeFiles/Crypto.dir/depend:
-	cd /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/warranty/build/release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/warranty /home/warranty/src /home/warranty/build/release /home/warranty/build/release/src /home/warranty/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/Crypto.dir/depend
 

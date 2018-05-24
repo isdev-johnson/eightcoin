@@ -31,7 +31,7 @@ tests/CMakeFiles/SystemTests.dir/System/ContextGroupTests.cpp.o
  ../../src/System/Event.h
  ../../src/System/InterruptedException.h
  ../../src/System/Ipv4Address.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/ContextGroupTests.cpp
+ /home/warranty/tests/System/ContextGroupTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/ContextGroupTimeoutTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -57,7 +57,7 @@ tests/CMakeFiles/SystemTests.dir/System/ContextGroupTimeoutTests.cpp.o
  ../../src/System/ContextGroup.h
  ../../src/System/ContextGroupTimeout.h
  ../../src/System/InterruptedException.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/ContextGroupTimeoutTests.cpp
+ /home/warranty/tests/System/ContextGroupTimeoutTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/ContextTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -83,7 +83,7 @@ tests/CMakeFiles/SystemTests.dir/System/ContextTests.cpp.o
  ../../src/System/Context.h
  ../../src/System/Event.h
  ../../src/System/InterruptedException.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/ContextTests.cpp
+ /home/warranty/tests/System/ContextTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/DispatcherTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -109,7 +109,7 @@ tests/CMakeFiles/SystemTests.dir/System/DispatcherTests.cpp.o
  ../../src/System/Context.h
  ../../src/System/Event.h
  ../../src/System/InterruptedException.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/DispatcherTests.cpp
+ /home/warranty/tests/System/DispatcherTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/ErrorMessageTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -131,7 +131,7 @@ tests/CMakeFiles/SystemTests.dir/System/ErrorMessageTests.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/Platform/Linux/System/ErrorMessage.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/ErrorMessageTests.cpp
+ /home/warranty/tests/System/ErrorMessageTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/EventLockTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -157,7 +157,7 @@ tests/CMakeFiles/SystemTests.dir/System/EventLockTests.cpp.o
  ../../src/System/Event.h
  ../../src/System/EventLock.h
  ../../src/System/InterruptedException.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/EventLockTests.cpp
+ /home/warranty/tests/System/EventLockTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/EventTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -182,7 +182,7 @@ tests/CMakeFiles/SystemTests.dir/System/EventTests.cpp.o
  ../../src/System/Context.h
  ../../src/System/Event.h
  ../../src/System/InterruptedException.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/EventTests.cpp
+ /home/warranty/tests/System/EventTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/Ipv4AddressTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -204,7 +204,7 @@ tests/CMakeFiles/SystemTests.dir/System/Ipv4AddressTests.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
  ../../src/System/Ipv4Address.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/Ipv4AddressTests.cpp
+ /home/warranty/tests/System/Ipv4AddressTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/Ipv4ResolverTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -230,7 +230,7 @@ tests/CMakeFiles/SystemTests.dir/System/Ipv4ResolverTests.cpp.o
  ../../src/System/ContextGroup.h
  ../../src/System/InterruptedException.h
  ../../src/System/Ipv4Address.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/Ipv4ResolverTests.cpp
+ /home/warranty/tests/System/Ipv4ResolverTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/OperationTimeoutTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -256,7 +256,7 @@ tests/CMakeFiles/SystemTests.dir/System/OperationTimeoutTests.cpp.o
  ../../src/System/ContextGroup.h
  ../../src/System/InterruptedException.h
  ../../src/System/OperationTimeout.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/OperationTimeoutTests.cpp
+ /home/warranty/tests/System/OperationTimeoutTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/RemoteContextTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -284,7 +284,7 @@ tests/CMakeFiles/SystemTests.dir/System/RemoteContextTests.cpp.o
  ../../src/System/Event.h
  ../../src/System/InterruptedException.h
  ../../src/System/RemoteContext.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/RemoteContextTests.cpp
+ /home/warranty/tests/System/RemoteContextTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/TcpConnectionTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -315,7 +315,7 @@ tests/CMakeFiles/SystemTests.dir/System/TcpConnectionTests.cpp.o
  ../../src/System/InterruptedException.h
  ../../src/System/Ipv4Address.h
  ../../src/System/TcpStream.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/TcpConnectionTests.cpp
+ /home/warranty/tests/System/TcpConnectionTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/TcpConnectorTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -345,7 +345,7 @@ tests/CMakeFiles/SystemTests.dir/System/TcpConnectorTests.cpp.o
  ../../src/System/Event.h
  ../../src/System/InterruptedException.h
  ../../src/System/Ipv4Address.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/TcpConnectorTests.cpp
+ /home/warranty/tests/System/TcpConnectorTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/TcpListenerTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -375,7 +375,7 @@ tests/CMakeFiles/SystemTests.dir/System/TcpListenerTests.cpp.o
  ../../src/System/Event.h
  ../../src/System/InterruptedException.h
  ../../src/System/Ipv4Address.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/TcpListenerTests.cpp
+ /home/warranty/tests/System/TcpListenerTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/TimerTests.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -402,7 +402,7 @@ tests/CMakeFiles/SystemTests.dir/System/TimerTests.cpp.o
  ../../src/System/ContextGroup.h
  ../../src/System/Event.h
  ../../src/System/InterruptedException.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/TimerTests.cpp
+ /home/warranty/tests/System/TimerTests.cpp
 tests/CMakeFiles/SystemTests.dir/System/main.cpp.o
  ../../external/gtest/include/gtest/gtest-death-test.h
  ../../external/gtest/include/gtest/gtest-message.h
@@ -423,4 +423,4 @@ tests/CMakeFiles/SystemTests.dir/System/main.cpp.o
  ../../external/gtest/include/gtest/internal/gtest-string.h
  ../../external/gtest/include/gtest/internal/gtest-tuple.h
  ../../external/gtest/include/gtest/internal/gtest-type-util.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/tests/System/main.cpp
+ /home/warranty/tests/System/main.cpp

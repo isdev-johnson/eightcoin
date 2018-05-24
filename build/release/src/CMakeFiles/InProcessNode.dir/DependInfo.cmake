@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNode.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNodeErrors.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o"
+  "/home/warranty/src/InProcessNode/InProcessNode.cpp" "/home/warranty/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o"
+  "/home/warranty/src/InProcessNode/InProcessNodeErrors.cpp" "/home/warranty/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

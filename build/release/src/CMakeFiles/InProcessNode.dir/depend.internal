@@ -47,9 +47,9 @@ src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o
  ../../src/crypto/hash-ops.h
  ../../src/crypto/hash.h
  ../../src/crypto/random.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNode.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNode.h
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNodeErrors.h
+ /home/warranty/src/InProcessNode/InProcessNode.cpp
+ /home/warranty/src/InProcessNode/InProcessNode.h
+ /home/warranty/src/InProcessNode/InProcessNodeErrors.h
 src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNodeErrors.cpp
- /mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/InProcessNode/InProcessNodeErrors.h
+ /home/warranty/src/InProcessNode/InProcessNodeErrors.cpp
+ /home/warranty/src/InProcessNode/InProcessNodeErrors.h

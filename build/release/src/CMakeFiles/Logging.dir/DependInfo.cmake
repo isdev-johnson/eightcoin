@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/CommonLogger.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/Logging/CommonLogger.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ConsoleLogger.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/Logging/ConsoleLogger.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/FileLogger.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/Logging/FileLogger.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/ILogger.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/Logging/ILogger.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerGroup.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerGroup.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerManager.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerManager.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerMessage.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerMessage.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/LoggerRef.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerRef.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/Logging/StreamLogger.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/Logging.dir/Logging/StreamLogger.cpp.o"
+  "/home/warranty/src/Logging/CommonLogger.cpp" "/home/warranty/build/release/src/CMakeFiles/Logging.dir/Logging/CommonLogger.cpp.o"
+  "/home/warranty/src/Logging/ConsoleLogger.cpp" "/home/warranty/build/release/src/CMakeFiles/Logging.dir/Logging/ConsoleLogger.cpp.o"
+  "/home/warranty/src/Logging/FileLogger.cpp" "/home/warranty/build/release/src/CMakeFiles/Logging.dir/Logging/FileLogger.cpp.o"
+  "/home/warranty/src/Logging/ILogger.cpp" "/home/warranty/build/release/src/CMakeFiles/Logging.dir/Logging/ILogger.cpp.o"
+  "/home/warranty/src/Logging/LoggerGroup.cpp" "/home/warranty/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerGroup.cpp.o"
+  "/home/warranty/src/Logging/LoggerManager.cpp" "/home/warranty/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerManager.cpp.o"
+  "/home/warranty/src/Logging/LoggerMessage.cpp" "/home/warranty/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerMessage.cpp.o"
+  "/home/warranty/src/Logging/LoggerRef.cpp" "/home/warranty/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerRef.cpp.o"
+  "/home/warranty/src/Logging/StreamLogger.cpp" "/home/warranty/build/release/src/CMakeFiles/Logging.dir/Logging/StreamLogger.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -4,18 +4,18 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/IP2pNodeInternal.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/IP2pNodeInternal.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/LevinProtocol.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/LevinProtocol.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNode.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/NetNode.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/NetNodeConfig.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/NetNodeConfig.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pConnectionProxy.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pConnectionProxy.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContext.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContext.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pContextOwner.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContextOwner.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pInterfaces.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pInterfaces.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNode.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNode.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/P2pNodeConfig.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNodeConfig.cpp.o"
-  "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/src/P2p/PeerListManager.cpp" "/mnt/c/Bitnami/wampstack/apache2/htdocs/binance/teletest/cryptonote/wrnty/build/release/src/CMakeFiles/P2P.dir/P2p/PeerListManager.cpp.o"
+  "/home/warranty/src/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp.o"
+  "/home/warranty/src/P2p/IP2pNodeInternal.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/IP2pNodeInternal.cpp.o"
+  "/home/warranty/src/P2p/LevinProtocol.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/LevinProtocol.cpp.o"
+  "/home/warranty/src/P2p/NetNode.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/NetNode.cpp.o"
+  "/home/warranty/src/P2p/NetNodeConfig.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/NetNodeConfig.cpp.o"
+  "/home/warranty/src/P2p/P2pConnectionProxy.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pConnectionProxy.cpp.o"
+  "/home/warranty/src/P2p/P2pContext.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContext.cpp.o"
+  "/home/warranty/src/P2p/P2pContextOwner.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContextOwner.cpp.o"
+  "/home/warranty/src/P2p/P2pInterfaces.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pInterfaces.cpp.o"
+  "/home/warranty/src/P2p/P2pNode.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNode.cpp.o"
+  "/home/warranty/src/P2p/P2pNodeConfig.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNodeConfig.cpp.o"
+  "/home/warranty/src/P2p/PeerListManager.cpp" "/home/warranty/build/release/src/CMakeFiles/P2P.dir/P2p/PeerListManager.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
