@@ -21,8 +21,8 @@ namespace parameters {
   const uint64_t CRYPTONOTE_MAX_BLOCK_NUMBER                   = 600000000;
   const size_t   CRYPTONOTE_MAX_BLOCK_BLOB_SIZE                = 600000000;
   const size_t   CRYPTONOTE_MAX_TX_SIZE                        = 2000000000;
-  const uint64_t CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX       = 0x252d79; // addresses start with "intu"
-  const size_t   CRYPTONOTE_MINED_MONEY_UNLOCK_WINDOW          = 10;
+  const uint64_t CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX       = 0xb3; // addresses start with "intu"
+  const size_t   CRYPTONOTE_MINED_MONEY_UNLOCK_WINDOW          = 30;
   const uint64_t CRYPTONOTE_BLOCK_FUTURE_TIME_LIMIT            = 60 * 60 * 2;
   const uint64_t CRYPTONOTE_DEFAULT_TX_SPENDABLE_AGE           = 10; //corrected from 100
 
@@ -94,13 +94,20 @@ namespace parameters {
   static_assert(0 < UPGRADE_VOTING_THRESHOLD && UPGRADE_VOTING_THRESHOLD <= 100, "Bad UPGRADE_VOTING_THRESHOLD");
   static_assert(UPGRADE_VOTING_WINDOW > 1, "Bad UPGRADE_VOTING_WINDOW");
 
-  const char     CRYPTONOTE_BLOCKS_FILENAME[]                  = "intu-blocks.dat";
-  const char     CRYPTONOTE_BLOCKINDEXES_FILENAME[]            = "intu-blockindexes.dat";
-  const char     CRYPTONOTE_BLOCKSCACHE_FILENAME[]             = "intu-blockscache.dat";
-  const char     CRYPTONOTE_POOLDATA_FILENAME[]                = "intu-poolstate.bin";
-  const char     P2P_NET_DATA_FILENAME[]                       = "intu-p2pstate.bin";
-  const char     CRYPTONOTE_BLOCKCHAIN_INDICES_FILENAME[]      = "intu-blockchainindices.dat";
-  const char     MINER_CONFIG_FILE_NAME[]                      = "intu-miner_conf.json";
+  // const char     CRYPTONOTE_BLOCKS_FILENAME[]                  = "intu-blocks.dat";
+  // const char     CRYPTONOTE_BLOCKINDEXES_FILENAME[]            = "intu-blockindexes.dat";
+  // const char     CRYPTONOTE_BLOCKSCACHE_FILENAME[]             = "intu-blockscache.dat";
+  // const char     CRYPTONOTE_POOLDATA_FILENAME[]                = "intu-poolstate.bin";
+  // const char     P2P_NET_DATA_FILENAME[]                       = "intu-p2pstate.bin";
+  // const char     CRYPTONOTE_BLOCKCHAIN_INDICES_FILENAME[]      = "intu-blockchainindices.dat";
+  // const char     MINER_CONFIG_FILE_NAME[]                      = "intu-miner_conf.json";
+  const char     CRYPTONOTE_BLOCKS_FILENAME[]                  = "warranty-blocks.dat";
+  const char     CRYPTONOTE_BLOCKINDEXES_FILENAME[]            = "warranty-blockindexes.dat";
+  const char     CRYPTONOTE_BLOCKSCACHE_FILENAME[]             = "warranty-blockscache.dat";
+  const char     CRYPTONOTE_POOLDATA_FILENAME[]                = "warranty-poolstate.bin";
+  const char     P2P_NET_DATA_FILENAME[]                       = "warranty-p2pstate.bin";
+  const char     CRYPTONOTE_BLOCKCHAIN_INDICES_FILENAME[]      = "warranty-blockchainindices.dat";
+  const char     MINER_CONFIG_FILE_NAME[]                      = "warranty-miner_conf.json";
   } // parameters
 
   const uint64_t START_BLOCK_REWARD                            = (UINT64_C(10) * parameters::POINT);
@@ -109,8 +116,8 @@ namespace parameters {
   const uint64_t REWARD_INCREASE_INTERVAL                      = (UINT64_C(2640));
 
 
-const char     CRYPTONOTE_NAME[]                             = "intucoin";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001904e029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101128f6e2f5ff1cc0d95bf80839501c07d79fcb80726f3ca8cdc094b0e2d89dfd3";
+const char     CRYPTONOTE_NAME[]                             = "warranty";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "WRNTY";
 
 const uint32_t GENESIS_NONCE                                 = 70;
 const uint64_t GENESIS_TIMESTAMP                             = 1515479625;
@@ -145,10 +152,8 @@ const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          //
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "8f80f9a5a434a9f1510d13336228debfee9c918ce505efe225d8c94d045fa115";
 
 const std::initializer_list<const char*> SEED_NODES = {
-   "140.82.29.104:17236",
-   "45.77.160.124:17236",
-   "77.93.206.165:17236",
-   "45.77.178.125:17236"
+  "91.92.128.125:17236",
+  "94.156.144.232:17236",
 };
 
 struct CheckpointData {
@@ -164,7 +169,7 @@ __attribute__((unused))
 // {<block height>, "<block hash>"},
 const std::initializer_list<CheckpointData> CHECKPOINTS = {
     //{ 1, "cbce7c37dbad257d29a3bfa93ec1f7b92434b9b806d40d01cb04d0ad2e451735" },
-      { 1, "[checkpoint block see on checkpoint list]" },
+      // { 1, "[checkpoint block see on checkpoint list]" },
 };
 
 } // CryptoNote
