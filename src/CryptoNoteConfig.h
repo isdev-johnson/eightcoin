@@ -117,8 +117,9 @@ namespace parameters {
 
 
 const char     CRYPTONOTE_NAME[]                             = "warranty";
-// const char     GENESIS_COINBASE_TX_HEX[]                     = "011e01ff0001904e029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121011c43e27ed394db09162156a60215447d6c08d9c61cfa4308417ed6b197c2678f";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "";
+// const char     GENESIS_COINBASE_TX_HEX[]                     = "011e01ff0001904e029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121011c43e27ed394db09162156a60215447d6c08d9c61cfa4308417ed6b197c2678f"
+
+const char     GENESIS_COINBASE_TX_HEX[]                     = "011e01ff0001904e029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101e19f7b62b590c32e8ead4cca565d51c71aff4cd2220f0f8d5c713b2b70a56169";
 
 const uint32_t GENESIS_NONCE                                 = 70;
 const uint64_t GENESIS_TIMESTAMP                             = 1515479625;
